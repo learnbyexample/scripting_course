@@ -1,0 +1,13 @@
+# use up and down arrow to match search history based on typed starting text
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+# Ctrl+d to clear filenames in backward direction
+# Esc+Backspace stops at _ . etc
+"\C-d": unix-filename-rubout
+
+# when using Tab for completion, ignore case
+set completion-ignore-case on
+# single Tab press will complete if unique, display multiple completions otherwise
+set show-all-if-ambiguous on
+# don't display characters like Ctrl+c when used on readline
+set echo-control-characters off
