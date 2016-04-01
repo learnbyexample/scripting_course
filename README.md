@@ -5,6 +5,7 @@ A reference guide to Linux command line, Vim and Scripting
 * [Linux](./Linux_curated_resources.md)
 * [Vim](./Vim_curated_resources.md)
 * [Perl](./Perl_curated_resources.md)
+* [Python](./Python_curated_resources.md)
 
 ## dot files
 Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary (refer to pdfs for more explanation)
