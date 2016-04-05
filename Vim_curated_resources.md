@@ -1,5 +1,7 @@
 Vim resources
 
+About, Download, Documentation, etc - https://github.com/vim/vim
+
 ### Tutorials
 * [vim primer](https://danielmiessler.com/study/vim/)
 * [vim galore](https://github.com/mhinz/vim-galore/blob/master/README.md)
