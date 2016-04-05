@@ -1,4 +1,4 @@
-	Python 3 resources, unless otherwise noted
+>Python 3 resources, unless otherwise noted
 
 Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutorial/) and [Getting Started](https://www.python.org/about/gettingstarted/) from Python official website
 
@@ -107,9 +107,10 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [kivy crash course](http://inclem.net/pages/kivy-crash-course/)
 	* [remi module](https://github.com/dddomodossola/remi) - create platform independent GUI with Python (by converting to HTML)
 	* [Bokeh - Python interactive visualization library](https://github.com/bokeh/bokeh)
-	* [django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/) and [flask](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+	* [django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/), [djangogirls](http://tutorial.djangogirls.org/en/) and [flask](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 	* static website generators [pelican](http://docs.getpelican.com/en/3.6.3/) and [Cactus](https://github.com/koenbok/Cactus/)
 	* [anvil](https://anvil.works/blog/introducing-anvil) - drag & drop web-app builder
+	* [web product](https://hellowebapp.com/) - a complete functional web app with a database and user support
 	* [web scraping](http://newcoder.io/scrape/)
 * TDD
 	* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) - focussed on Django and web-development
@@ -164,6 +165,8 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Jupyter](https://jupyter.org/) - web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
 
 ### Forums
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
+
 * [/r/learnpython](http://www.reddit.com/r/learnpython) - very friendly for newbies
 * [python-forum]( http://www.python-forum.org/)
 * [/r/Python/](https://www.reddit.com/r/Python/)  - general Python discussion
