@@ -1,0 +1,6 @@
+{
+  "name": "Scripting course",
+  "tagline": "A reference guide to Linux command line, Vim and Scripting",
+  "body": "# Scripting Course\r\nA reference guide to Linux command line, Vim and Scripting\r\n\r\n## Curated resources\r\n* [Linux](./Linux_curated_resources.md)\r\n* [Vim](./Vim_curated_resources.md)\r\n* [Perl](./Perl_curated_resources.md)\r\n* [Python](./Python_curated_resources.md)\r\n\r\n## dot files\r\nDo NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary (refer to PDFs for more explanation)\r\n\r\n## Download\r\nDownload the github repo to access PDFs and dot files using this [link](https://github.com/learnbyexample/scripting_course/archive/master.zip)\r\n\r\n# License\r\nThis work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
