@@ -1,5 +1,7 @@
 Handful of useful resources for Linux command line and bash shell scripting
 
+Guide to choosing your Linux Distribution, list of applications, etc: [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
+
 ### Courses: online text tutorials
 * [ryanstutorial](http://ryanstutorials.net/linuxtutorial/)
 * [snipcademy](http://code.snipcademy.com/tutorials/linux-command-line)
@@ -54,6 +56,7 @@ Handful of useful resources for Linux command line and bash shell scripting
 * [bash hackers wiki](http://wiki.bash-hackers.org/start)
 * [stronger shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [bash env variables](http://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
+* [crontab examples](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
 ### Forums
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
