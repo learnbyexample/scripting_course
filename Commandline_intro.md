@@ -53,6 +53,7 @@ These one line explanations are copied from output of `whatis` command. For exam
 * command with arguments
 	* `mkdir project`
 	* `man sed`
+    * `wget http://s.ntnu.no/bashguide.pdf`
 * command with options and arguments
 	* `rm -rf project`
 	* `find . -name '*log*'`
@@ -125,3 +126,5 @@ Substituting output of command in a string
 * [shellcheck](http://www.shellcheck.net/)
 * [sample cheatsheet](http://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 * [command line gems](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+* [online forums to get help](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md#forums)
+    * [Devs and Hackers](https://join.theindiangeek.in/) → slack group
