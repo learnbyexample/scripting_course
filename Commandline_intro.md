@@ -124,3 +124,4 @@ Substituting output of command in a string
 * [explainshell](http://explainshell.com/)
 * [shellcheck](http://www.shellcheck.net/)
 * [sample cheatsheet](http://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+* [command line gems](http://www.commandlinefu.com/commands/browse/sort-by-votes)
