@@ -1,6 +1,4 @@
 " ----- General Settings -----
-" Use Vim defaults, not Vi
-set nocompatible
 " history limit
 set history=100
 " Don't create backup files
@@ -11,8 +9,10 @@ set noswapfile
 colorscheme murphy
 
 " ----- Text and Indent Settings -----
-" Max no. of characters in single line
-set textwidth=80
+" No textwidth limit
+set textwidth=0
+" general indent setting
+set autoindent
 " use file type based Indent setting
 filetype plugin indent on
 " number of characters to indent by
@@ -23,6 +23,9 @@ set tabstop=4
 set expandtab
 " highlight current line
 set cursorline
+" add <> to % matchpairs 
+set matchpairs+=<:>
+" :h matchit-install for instructions on installing plugin to match keywords with %
 
 " ----- Search Settings -----
 " start searching as it is typed
@@ -56,39 +59,34 @@ nnoremap #5 gg"+yG
 " #!/usr/bin/perl
 " use strict;
 " use warnings;
-iab p #!/usr/bin/perl<CR>use strict;<CR>use warnings;<CR>
+inoreabbrev p #!/usr/bin/perl<CR>use strict;<CR>use warnings;<CR>
 " py2 for python
-iab py2 #!/usr/bin/python
+inoreabbrev py2 #!/usr/bin/python
 " py for python3
-iab py #!/usr/bin/python3
+inoreabbrev py #!/usr/bin/python3
 " auto correct teh as the
-iab teh the
-" type @a in insert mode and press Esc key
-iab @a always @()<CR>begin<CR>end<Esc>2k$
-" type @i in insert mode and press Esc key
-iab @i if ()<CR>begin<CR>end<Esc>2k$
-" type @e in insert mode and press Esc key
-iab @e else ()<CR>begin<CR>end<Esc>2k$
-" type @I in insert mode and press Esc key
-iab @I if ()<CR>begin<CR>end<CR>else<CR>begin<CR>end<Esc>5k$
+inoreabbrev teh the
 
 " ----- autocmd -----
-" Prevent comment character leaking to next line in Perl, C, etc
-autocmd FileType * setlocal formatoptions-=r
-" no text width limit whenever working HTML file
-autocmd BufNewFile,BufRead *.html setlocal tw=0
-" automatically add Perl path using previously set iab for p
-autocmd BufNewFile *.pl :normal ip
-" automatically add Python path
-autocmd BufNewFile *.py :normal ipy
+augroup plpy
+    autocmd!
+
+    " automatically add Perl path using previously set inoreabbrev for p
+    autocmd BufNewFile *.pl :normal ip
+    " automatically add Python path
+    autocmd BufNewFile *.py :normal ipy
+    " Prevent comment character leaking to next line
+    autocmd FileType * setlocal formatoptions-=r formatoptions-=o
+augroup END
 
 " ----- Useful Verilog Settings -----
-" Add some keyword pairs to be matched by % similar to (), {}, etc
-runtime macros/matchit.vim
-let b:match_words =
-                    \ '\<module\>:\<endmodule\>,' .
-                    \ '\<begin\>:\<end\>,' .
-                    \ '\<if\>:\<else\>'
+" completion for verilog control structures
+" type @a/@i/@e/@I in insert mode and press Esc key
+inoreabbrev @a always @()<CR>begin<CR>end<Esc>2k$
+inoreabbrev @i if ()<CR>begin<CR>end<Esc>2k$
+inoreabbrev @e else ()<CR>begin<CR>end<Esc>2k$
+inoreabbrev @I if ()<CR>begin<CR>end<CR>else<CR>begin<CR>end<Esc>5k$
+
 " Allows to use gf on module names
 set suffixesadd+=.v,.V,.sv,.SV
 " Useful for opening modules from different hierarchies
