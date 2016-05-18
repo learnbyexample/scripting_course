@@ -7,6 +7,9 @@ set nobackup
 set noswapfile
 " Dark theme
 colorscheme murphy
+" show partial Normal mode command as they are typed on Command Line
+" show character/line/block selection in Visual mode on Command Line
+set showcmd
 
 " ----- Text and Indent Settings -----
 " No textwidth limit
