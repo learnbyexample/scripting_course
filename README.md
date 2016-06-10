@@ -1,8 +1,7 @@
 # Scripting Course
 A reference guide to Linux command line, Vim and Scripting
 
-* [Linux Basics pdf](./Linux_Basics.pdf)
-  * [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - updated material, not yet finished
+* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting
 * [Vim Reference](https://github.com/learnbyexample/vim_reference) - Vim reference guide for beginner to intermediate users
 * [Perl Introduction](https://github.com/learnbyexample/Perl_intro) - Introductory course for Perl 5 through examples, geared towards VLSI engineers
 
