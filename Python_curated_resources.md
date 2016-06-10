@@ -20,13 +20,13 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
-* [diveintopython](http://www.diveintopython3.net/) - [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
-* [A Byte of Python](http://python.swaroopch.com/) - [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+* [diveintopython](http://www.diveintopython3.net/) - also available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [A Byte of Python](http://python.swaroopch.com/) - also available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
 * [Think Python](http://greenteapress.com/wp/think-python-2e/)
 * [python-course](http://python-course.eu/python3_history_and_philosophy.php) 
-* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
+* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
 
 ## Quick Guides
 * [tutorialspoint](http://www.tutorialspoint.com/python/python_quick_guide.htm)
@@ -61,6 +61,8 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Cheat Sheet by Derek](http://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
 * [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
 * [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
+	* [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
 
 # <a name="tips-and-tricks"></a>Tips and Tricks
 * [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
