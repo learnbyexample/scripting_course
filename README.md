@@ -14,6 +14,10 @@ List of mostly free learning resources and forums for Q&A
 * [Perl](./Perl_curated_resources.md)
 * [Python](./Python_curated_resources.md)
 
+Curated lists for programming, books, movies, music, games, etc
+
+* [Curated Resources](https://github.com/learnbyexample/curated_resources)
+
 ## dot files
 Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary
 
