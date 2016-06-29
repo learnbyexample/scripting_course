@@ -1,6 +1,7 @@
+[![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) join for Q&A on command line and scripting
+
 # Scripting Course
 
-[![Join the chat at https://gitter.im/learnbyexample/scripting_course](https://badges.gitter.im/learnbyexample/scripting_course.svg)](https://gitter.im/learnbyexample/scripting_course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A reference guide to Linux command line, Vim and Scripting
 
 * [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting
