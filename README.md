@@ -9,6 +9,22 @@ A reference guide to Linux command line, Vim and Scripting
 * [Perl Introduction](https://github.com/learnbyexample/Perl_intro) - Introductory course for Perl 5 through examples, geared towards VLSI engineers
 * [Python Basics](https://github.com/learnbyexample/Python_Basics) - Syntax, working with Shell commands, Files, Text Processing, and more...
 
+<br>
+## Try Linux on a VM
+
+* [Simple guide to install Linux as Virtual Machine](http://www.storagecraft.com/blog/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
+* For Linux distro, you can check out a custom [Porteus](http://build.porteus.org/) build I made with addition of gvim, Perl, Python 2 and Python 3. It is a light weight distro, < 200MB ISO file and boots usually within 5 seconds
+  * [Porteus_32bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUYy1QZG1NX2xyYVk)
+  * [Porteus_64bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUV3kyNlhMU29PMUk)
+  * Both the builds have a folder at `/tmp/useful_files/` which contains dot files (to be copied to home directory) and handful of Perl and Python 3 programs for learning purposes
+  * The default passwords are `toor` for root and `guest` for guest - [Porteus FAQ](http://www.porteus.org/faq.html)
+* You might have to [Enable Intel VT-x in Your Computer’s BIOS or UEFI Firmware](http://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
+
+Guide to choosing your Linux Distribution, installation, list of applications, etc
+* [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
+* [computefreely](http://computefreely.org/)
+
+<br>
 ## Curated resources
 
 List of mostly free learning resources and forums for Q&A
@@ -22,8 +38,10 @@ Curated lists for programming, books, movies, music, games, etc
 
 * [Curated Resources](https://github.com/learnbyexample/curated_resources)
 
+<br>
 ## dot files
 Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary
 
+<br>
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
