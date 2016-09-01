@@ -2,7 +2,7 @@ Handful of useful resources for Linux command line and bash shell scripting
 
 Guide to choosing your Linux Distribution, list of applications, etc: [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions) and [computefreely](http://computefreely.org/)
 
-# Table of Contents
+# :hash: Table of Contents
 * [Courses: online text tutorials](#course-text)
 * [Courses: online video/interactive tutorials](#course-interactive)
 * [Shell Scripting](#shell-scripting)
@@ -15,6 +15,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [Further Reading](#further-reading)
 * [Forums](#forums)
 
+<br>
 # <a name="course-text"></a>Courses: online text tutorials
 * [ryanstutorial](http://ryanstutorials.net/linuxtutorial/)
 * [snipcademy](http://code.snipcademy.com/tutorials/linux-command-line)
@@ -24,7 +25,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [linux basics](https://miteshshah.github.io/linux/basics/)
 * [learnenough](https://www.learnenough.com/command-line-tutorial)
 
+<br>
 # <a name="course-interactive"></a>Courses: online video/interactive tutorials
+* [linuxjourney](https://linuxjourney.com/)
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 * [udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
 * [edx](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
@@ -32,6 +35,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [shortcutfoo](https://www.shortcutfoo.com/app/dojos/command-line)
 * [youtube - command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
 
+<br>
 # <a name="shell-scripting"></a>Shell Scripting
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](http://ryanstutorials.net/bash-scripting-tutorial/)
@@ -48,12 +52,14 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * tips for [better scripting](http://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html) and [robust scripting](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 * [bash reference](https://devmanual.gentoo.org/tools-reference/bash/index.html) - nicely formatted and explained well
 
+<br>
 # <a name="books"></a>Books
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [Unix for beginning Mage](http://unixmages.com/ufbm.pdf)
 * [linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
+<br>
 # <a name="tips-and-tricks"></a>Tips and Tricks
 * [commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
 * [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
@@ -61,6 +67,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [time saving tips](https://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know)
 * [command line tricks](http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
 
+<br>
 # <a name="specific-commands"></a>Resources for specific commands
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
 * [50 frequently used commands](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
@@ -72,7 +79,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
 * [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * grep examples: [alvinalexander](http://alvinalexander.com/unix/edu/examples/grep.shtml) and [conqueringthecommandline](http://conqueringthecommandline.com/book/grep)
-* find examples: [alvinalexander](http://alvinalexander.com/unix/edu/examples/find.shtml) and [folkstalk](http://www.folkstalk.com/2011/12/101-examples-of-using-find-command-in.html)
+* find examples: [alvinalexander](http://alvinalexander.com/unix/edu/examples/find.shtml) and [find examples on SO documentation](http://stackoverflow.com/documentation/bash/566/find#t=201609010700119113007)
 * awk
     * [gentle intro](http://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
     * in depth tutorial
@@ -81,7 +88,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
         * [awk one liners explained](http://www.catonmat.net/series/awk-one-liners-explained)
         * free book - [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/)
     * examples
-        * [folkstalk - part1](http://www.folkstalk.com/2011/12/good-examples-of-awk-command-in-unix.html), [folkstalk - part2](http://www.folkstalk.com/2011/12/1.html)
+        * [awk examples on SO documentation](http://stackoverflow.com/documentation/awk/topics)
         * [unixschool](http://www.theunixschool.com/2011/05/awk-read-file-and-split-contents.html)
         * [commandlinefu](http://www.commandlinefu.com/commands/tagged/112/awk/sort-by-votes)
     * how about writing [games in awk](http://awk.info/?Games)?
@@ -91,18 +98,20 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
         * [grymoire](http://www.grymoire.com/Unix/sed.html)
         * [sed one liners explained](http://www.catonmat.net/series/sed one liners explained)
     * examples
-        * [folkstalk](http://www.folkstalk.com/2012/01/sed-command-in-unix-examples.html)
+        * [sed examples on SO documentation](http://stackoverflow.com/documentation/sed/topics)
         * [how-to](http://how-to.linuxcareer.com/learning-linux-commands-sedhttp://how-to.linuxcareer.com/learning-linux-commands-sed)
         * [commandlinefu](http://www.commandlinefu.com/commands/tagged/110/sed/sort-by-votes)
 * [ack/ag](http://conqueringthecommandline.com/book/ack_ag) - searching a large number of files fast and easy
 * [sort](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 
 ### <a name="miscellaneous"></a>Miscellaneous
+* [Linux Permissions Primer](http://www.catchlinux.com/permissions-primer/)
 * [chmod](https://danielmiessler.com/study/unixlinux_permissions/)
 * [rsync](http://ubtutorials.com/tutorial/1136/ubuntu-15-examples-backup-using-rsync-command)
 * [htop](http://hisham.hm/htop/index.php?page=main)
 * [crontab examples](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
+<br>
 # <a name="further-reading"></a>Further Reading
 * [command line Q&A](http://unix.stackexchange.com/questions/tagged/command-line)
 * [explainshell](http://explainshell.com/) - write down a command-line to see the help text that matches each argument
@@ -124,6 +133,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [cygwin](https://www.cygwin.com/) and [git-bash](https://git-for-windows.github.io/)
     * [Linux Subsystem for Windows by Microsoft](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
+<br>
 # <a name="forums"></a>Forums
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
