@@ -2,7 +2,7 @@
 
 Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutorial/) and [Getting Started](https://www.python.org/about/gettingstarted/) from Python official website
 
-# Table of Contents
+# :hash: Table of Contents
 * [Courses - online text/pdf tutorials](#courses-text)
 * [Courses - online video/interactive tutorials](#courses-interactive)
 * [Books](#books)
@@ -17,6 +17,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Development Environment](#dev-env)
 * [Forums](#forums)
 
+<br>
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
@@ -32,6 +33,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [tutorialspoint](http://www.tutorialspoint.com/python/python_quick_guide.htm)
 * [realpython](https://realpython.com/learn/python-first-steps/)
 
+<br>
 # <a name="courses-interactive"></a>Courses - online video/interactive tutorials
 * [udemy - automatetheboringstuff](https://www.udemy.com/automate/?couponCode=HALF_OFF)
 	* [first 15 videos on youtube](https://www.youtube.com/watch?v=7qHMXu99d88&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
@@ -44,7 +46,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [youtube - learn Python 2 and make games](https://www.youtube.com/playlist?list=PLeLU1pCom3Oo4w7XE3wlrdWv6v7lA0hwb)
 * [Real Python](https://realpython.com/) - focus on web development
 * [newcoder - project based](http://newcoder.io/tutorials/)
+* [opencs - Python from scratch](https://opencs.uwaterloo.ca/python-from-scratch/)
 
+<br>
 # <a name="books"></a>Books
 * [effectivepython](http://www.effectivepython.com/)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
@@ -55,6 +59,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [free programming books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
 	* [importpython](http://importpython.com/books/) - has buy/free list sections
 
+<br>
 # <a name="docs-cheat-sheets"></a>Docs and Cheat-Sheets
 * [Python 3.5](https://docs.python.org/3.5/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
@@ -64,6 +69,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 	* [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
 
+<br>
 # <a name="tips-and-tricks"></a>Tips and Tricks
 * [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
@@ -73,6 +79,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [pythontips book](http://book.pythontips.com/en/latest/index.html)
 * One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](http://python-oneliner.readthedocs.org/en/latest/)
 
+<br>
 # <a name="indepth-concepts"></a>In-depth analysis/tutorial of single concept
 * Collections
 	* [offical doc](https://docs.python.org/3/library/collections.html)
@@ -108,10 +115,12 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Python packaging guide](https://python-packaging-user-guide.readthedocs.org/en/latest/)
 * [profiling Python code for performance](http://tutorials.pluralsight.com/python/quick-profiling-in-python)
 
+<br>
 # <a name="handy-tools"></a>Handy tools
 * [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
 * [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
 
+<br>
 # <a name="further-reading"></a>Further Reading
 * Data Science
 	* [Intro to Python using Data Analysis](http://swcarpentry.github.io/python-novice-inflammation/) - uses **Jupyter notebook**
@@ -148,6 +157,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * github - [trending Python projects](https://github.com/trending?l=python&since=monthly) and [top devs and repos to follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
+<br>
 # <a name="meta-lists"></a>Other Python resource lists
 * [wiki from /r/learnpython](https://www.reddit.com/r/learnpython/wiki/index)
 * [github - awesome-python](https://github.com/vinta/awesome-python)
@@ -158,6 +168,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [zeef - luis solis](https://python.zeef.com/luis.solis)
 * [messybytes](https://messybytes.wordpress.com/2015/09/02/resources-for-python/)
 
+<br>
 # <a name="code-practice"></a>Practice/Coding Challenge
 * [codewars](http://www.codewars.com/)
 * [adventofcode](http://adventofcode.com/)
@@ -165,22 +176,26 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [hackerrank](https://www.hackerrank.com/)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [codeeval](https://www.codeeval.com/)
+* [exercism](http://exercism.io/languages/python/about)
 * Gamification
 	* [checkio](http://www.checkio.org/)
 	* [empireofcode](https://empireofcode.com/)
 	* [codecombat](http://codecombat.com/play/level/dungeons-of-kithgard)
 
+<br>
 # <a name="code-solutions"></a>Coding Problems/Projects with solution
 * [projects on github](https://github.com/karan/Projects-Solutions)
 * [rosettacode](http://rosettacode.org/wiki/Category:Python)
 * [Python scripts](https://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written)
 * [projects with explanation by Peter Norvig](http://norvig.com/ipython/README.html)
 
+<br>
 # <a name="dev-env"></a>Development Environment
 * [pycharm](https://www.jetbrains.com/pycharm/)
 * Vim - [customizing .vimrc for Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) and [python-mode](https://github.com/klen/python-mode)
 * [Jupyter](https://jupyter.org/) - web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
 
+<br>
 # <a name="forums"></a>Forums
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 

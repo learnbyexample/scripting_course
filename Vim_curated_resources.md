@@ -4,7 +4,7 @@ About, Download, Documentation, etc - https://github.com/vim/vim
 
 Watch out, [Vim 8.0](https://github.com/vim/vim/blob/master/runtime/doc/version8.txt) is coming
 
-# Table of Contents
+# :hash: Table of Contents
 * [Tutorials](#tutorials)
 * [Books and Documentation](#books-and-documentation)
 * [Cheat-sheets](#cheat-sheets)
@@ -59,10 +59,13 @@ Watch out, [Vim 8.0](https://github.com/vim/vim/blob/master/runtime/doc/version8
 <br>
 # <a name="further-reading"></a>Further Reading
 * [vimgolf](http://www.vimgolf.com/)
+* [vimgifs](https://vimgifs.com/)
 * [vim resources collection](https://vim.zeef.com/patrick.schanen)
 * [awesome vim](https://github.com/akrawchyk/awesome-vim)
 * [why use vim](http://www.viemu.com/a-why-vi-vim.html)
 * [man pager in vim](https://www.reddit.com/r/vim/comments/4xkyah/til_builtin_man_pager_in_vim/)
+* [Things about vim I wish I knew earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
+* [Tabs vs Buffers](http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 
 <br>
 # <a name="forums"></a>Forums

@@ -39,6 +39,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 # <a name="shell-scripting"></a>Shell Scripting
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](http://ryanstutorials.net/bash-scripting-tutorial/)
+* [bash examples on SO documentation](http://stackoverflow.com/documentation/bash/topics)
 * [bash handbook](https://github.com/denysdovhan/bash-handbook)
 * [writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
 * [snipcademy](http://code.snipcademy.com/tutorials/shell-scripting)
@@ -113,6 +114,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 <br>
 # <a name="further-reading"></a>Further Reading
+* [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](http://unix.stackexchange.com/questions/tagged/command-line)
 * [explainshell](http://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [nixCraft - tutorials and guides](http://www.cyberciti.biz/faq/)
@@ -128,6 +130,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [ubuntuguide](http://ubuntuguide.org/wiki/Alternatives)
     * [GNU packages](https://www.gnu.org/manual/manual.html)
     * [youtube-dl](https://github.com/rg3/youtube-dl/)
+    * [qutebrowser](http://qutebrowser.org/)
 * Linux on Windows
     * [Install as Virtual Machine](http://www.storagecraft.com/blog/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
     * [cygwin](https://www.cygwin.com/) and [git-bash](https://git-for-windows.github.io/)
