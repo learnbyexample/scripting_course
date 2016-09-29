@@ -47,6 +47,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Real Python](https://realpython.com/) - focus on web development
 * [newcoder - project based](http://newcoder.io/tutorials/)
 * [opencs - Python from scratch](https://opencs.uwaterloo.ca/python-from-scratch/)
+* [cscircles - example and exercise based](http://cscircles.cemc.uwaterloo.ca/)
 
 <br>
 # <a name="books"></a>Books
@@ -128,6 +129,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 	* [Python-xy](https://python-xy.github.io/)
 	* [datacamp - course](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+	* [Open Source Society - Path to a free self-taught education in Data Science](https://github.com/open-source-society/data-science)
 * GUI, Game and Web
 	* [gui development tutorials](https://pythonprogramming.net/gui-development-tutorials/)
 	* [kivy crash course](http://inclem.net/pages/kivy-crash-course/)
