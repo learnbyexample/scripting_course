@@ -39,6 +39,8 @@ Watch out, [Vim 8.0](https://github.com/vim/vim/blob/master/runtime/doc/version8
 * [vim cheatsheet](http://paulherron.com/blog/vim_cheatsheet/)
 * [cheatsheet in multiple languages](http://vim.rtorr.com/) - shows up as embedded content in [DuckDuckGo search](https://duckduckgo.com/?q=vim+cheat+sheet)
 
+And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) - sort of quick intro to vim script as well
+
 <br>
 # <a name="customize"></a>Customize
 * [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
