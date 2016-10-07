@@ -2,7 +2,9 @@ Vim resources
 
 About, Download, Documentation, etc - https://github.com/vim/vim
 
-Watch out, [Vim 8.0](https://github.com/vim/vim/blob/master/runtime/doc/version8.txt) is coming
+[Vim v8.0.0000 release](https://github.com/vim/vim/releases/tag/v8.0.0000)
+
+* [release notes](https://github.com/vim/vim/blob/master/runtime/doc/version8.txt)
 
 # :hash: Table of Contents
 * [Tutorials](#tutorials)
@@ -45,6 +47,8 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 # <a name="customize"></a>Customize
 * [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
 * [plugins](http://vimawesome.com/)
+* [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+* [What is the Vim8 package feature and how should I use it?](http://vi.stackexchange.com/questions/9522/what-is-the-vim8-package-feature-and-how-should-i-use-it)
 * [generate vim settings based on programming languages you use](http://vim-bootstrap.com/)
 
 <br>
