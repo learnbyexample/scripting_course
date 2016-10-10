@@ -30,6 +30,8 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
 
 ## Quick Guides
+* [Python Notes](http://www.thomas-cokelaer.info/tutorials/python/index.html)
+* [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
 * [tutorialspoint](http://www.tutorialspoint.com/python/python_quick_guide.htm)
 * [realpython](https://realpython.com/learn/python-first-steps/)
 
@@ -65,7 +67,6 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Python 3.5](https://docs.python.org/3.5/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
 * [Cheat Sheet by Derek](http://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
-* [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
 * [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 	* [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
@@ -120,6 +121,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="handy-tools"></a>Handy tools
 * [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
 * [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
+* [Thonny](http://thonny.cs.ut.ee/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
 
 <br>
 # <a name="further-reading"></a>Further Reading
