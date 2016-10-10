@@ -171,6 +171,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [zeef - alan richmond](https://python.zeef.com/alan.richmond)
 * [zeef - luis solis](https://python.zeef.com/luis.solis)
 * [messybytes](https://messybytes.wordpress.com/2015/09/02/resources-for-python/)
+* [EDU-SIG: Python in Education](https://www.python.org/community/sigs/current/edu-sig/)
 
 <br>
 # <a name="code-practice"></a>Practice/Coding Challenge
