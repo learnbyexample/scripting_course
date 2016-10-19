@@ -55,6 +55,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 # <a name="tips-and-tricks"></a>Tips and Tricks
 * [Using built-in vim help](http://stackoverflow.com/questions/25474313/how-do-i-find-out-what-a-vim-command-does)
 * [Navigating Vim's documentation](http://vi.stackexchange.com/questions/2136/how-do-i-navigate-to-topics-in-vims-documentation/2137#2137)
+* [How do I debug my vimrc file?](https://vi.stackexchange.com/questions/2003/how-do-i-debug-my-vimrc-file)
 * stackoverflow: [tips thread #1](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/) and [tips thread #2](http://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 * [weekly vim tips at /r/vim](https://www.reddit.com/r/vim/comments/4aab93/weekly_vim_tips_and_tricks_thread_1/)
 * [vim Q&A](http://stackoverflow.com/questions/tagged/vim?sort=votes&pageSize=15)
