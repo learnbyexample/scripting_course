@@ -90,6 +90,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
         * free book - [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/)
     * examples
         * [awk examples on SO documentation](http://stackoverflow.com/documentation/awk/topics)
+        * [awk by example](http://www.funtoo.org/Awk_by_Example,_Part_1)
         * [unixschool](http://www.theunixschool.com/2011/05/awk-read-file-and-split-contents.html)
         * [commandlinefu](http://www.commandlinefu.com/commands/tagged/112/awk/sort-by-votes)
     * how about writing [games in awk](http://awk.info/?Games)?
