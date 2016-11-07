@@ -28,6 +28,8 @@ About, Download, Documentation, etc - https://github.com/vim/vim
 # <a name="books-and-documentation"></a>Books and Documentation
 * [vim book by Steve Oualline](http://www.oualline.com/vim-book.html)
 * [vimscript](http://learnvimscriptthehardway.stevelosh.com/)
+* [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
+   * Also check out [vimcasts](http://vimcasts.org/episodes/)
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [vim user manual](http://www.eandem.co.uk/mrw/vim/usr_doc/index.html)
 * [vim documentation on stackoverflow](http://stackoverflow.com/documentation/vim/topics)
