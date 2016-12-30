@@ -21,11 +21,11 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
-* [diveintopython](http://www.diveintopython3.net/) - also available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
-* [A Byte of Python](http://python.swaroopch.com/) - also available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+* [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [A Byte of Python](http://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
-* [Think Python](http://greenteapress.com/wp/think-python-2e/)
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [python-course](http://python-course.eu/python3_history_and_philosophy.php) 
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
 
