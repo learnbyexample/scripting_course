@@ -21,13 +21,14 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Byte of Python](http://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [python-course](http://python-course.eu/python3_history_and_philosophy.php) 
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
+* [Practice Book](http://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
 
 ## Quick Guides
 * [Python Notes](http://www.thomas-cokelaer.info/tutorials/python/index.html)
@@ -90,11 +91,15 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [intro to decorators](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/PythonDecorators.html)
 	* [decorator library](https://wiki.python.org/moin/PythonDecoratorLibrary)
 	* [decorator - stackoverflow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
-* list
+* Lists
 	* [slice notations and assignments](http://stackoverflow.com/questions/509211/explain-pythons-slice-notation)
 	* [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 	* [Comprehensions in Python the Jedi way](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
 	* [how to copy 1-D and multi-D lists](http://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list-in-python)
+* Iterables, Generators, Yield, Itertools
+	* [What is the function of the yield keyword?](https://stackoverflow.com/questions/231767/what-is-the-function-of-the-yield-keyword)
+	* [yield and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
+	* [itertools module](https://docs.python.org/3/library/itertools.html)
 * [lambda](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/) - what it is and when to use
 * OOP
 	* [why is it useful](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/)
@@ -142,7 +147,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [anvil](https://anvil.works/blog/introducing-anvil) - drag & drop web-app builder
 	* [web product](https://hellowebapp.com/) - a complete functional web app with a database and user support
 	* [web scraping](http://newcoder.io/scrape/)
-* TDD
+* Testing and TDD
 	* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) - focussed on Django and web-development
 	* [learn Python via TDD](https://github.com/gregmalcolm/python_koans)
 	* [defensive programming](http://tutorials.pluralsight.com/python/defensive-programming-in-python)
@@ -178,7 +183,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [codewars](http://www.codewars.com/)
 * [adventofcode](http://adventofcode.com/)
 * [projecteuler](https://projecteuler.net/)
-* [hackerrank](https://www.hackerrank.com/)
+* [hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [codeeval](https://www.codeeval.com/)
 * [exercism](http://exercism.io/languages/python/about)
