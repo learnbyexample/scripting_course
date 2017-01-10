@@ -1,3 +1,5 @@
+" Vim version 7.4, some mappings work in gvim only
+
 " ----- General Settings -----
 " history limit
 set history=100
@@ -127,6 +129,12 @@ set suffixesadd+=.v,.V,.sv,.SV
 " Useful for opening modules from different hierarchies
 "set path+=/path1/,/path2/,etc
 
-" gvim customization: no menubar or Toolbar
+" no menubar or Toolbar
 set guioptions-=m
 set guioptions-=T
+
+
+" Other useful vimrcs and links
+" https://github.com/vim/vim/blob/master/runtime/defaults.vim
+" https://github.com/romainl/idiomatic-vimrc/blob/master/idiomatic-vimrc.vim
+" https://vi.stackexchange.com/questions/2003/how-do-i-debug-my-vimrc-file
