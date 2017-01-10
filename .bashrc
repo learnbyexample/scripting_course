@@ -10,10 +10,17 @@ shopt -s histappend
 shopt -s checkwinsize
 
 # source aliases
-source ~/.bash_aliases
+if [ -f ~/.bash_aliases ]; then
+    source ~/.bash_aliases
+fi
+
 # set INPUTRC path if needed by uncommenting line below
 #INPUTRC=~/.inputrc
 
+# set a simple prompt
+# check out http://bashrcgenerator.com/ to generate fancy and colorful prompt
+PS1='$ '
 
-
-# for more useful settings: https://github.com/mrzool/bash-sensible/blob/master/sensible.bash
+# further reading
+# https://github.com/mrzool/bash-sensible/blob/master/sensible.bash
+# https://github.com/learnbyexample/Linux_command_line/blob/master/Shell_Customization.md#config-files
