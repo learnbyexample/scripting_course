@@ -67,6 +67,7 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
 * [What is Perl 5 and Perl 6?](http://perl-begin.org/learn/perl6/) - also has links to Perl 6 resources
 * [perl6 faq](https://doc.perl6.org/language/faq)
 * [perl6 on stackoverflow](http://stackoverflow.com/tags/perl6/info)
+* [Perl 6 at a Glance book](https://deeptext.media/perl6-at-a-glance/)
 
 <br>
 # <a name="forums"></a>Forums
