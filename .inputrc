@@ -11,3 +11,7 @@ set completion-ignore-case on
 set show-all-if-ambiguous on
 # don't display characters like Ctrl+c when used on readline
 set echo-control-characters off
+
+# further reading
+# http://www.gnu.org/software/bash/manual/html_node/Sample-Init-File.html#Sample-Init-File
+# http://www.linuxfromscratch.org/blfs/view/5.1/postlfs/inputrc.html
