@@ -170,7 +170,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="meta-lists"></a>Other Python resource lists
 * [wiki from /r/learnpython](https://www.reddit.com/r/learnpython/wiki/index)
 * [github - awesome-python](https://github.com/vinta/awesome-python)
-* [github - pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+* [github - pycrumbs](https://github.com/kirang89/pycrumbs)
 * [github - pythonidae](https://github.com/svaksha/pythonidae)
 * [stackoverflow](http://stackoverflow.com/tags/python/info)
 * [zeef - alan richmond](https://python.zeef.com/alan.richmond)
