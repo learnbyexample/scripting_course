@@ -23,6 +23,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [A Byte of Python](http://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
@@ -99,6 +100,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * Iterables, Generators, Yield, Itertools
 	* [What is the function of the yield keyword?](https://stackoverflow.com/questions/231767/what-is-the-function-of-the-yield-keyword)
 	* [yield and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
+	* [Generators and Generator Expressions](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/12-Generators.ipynb)
 	* [itertools module](https://docs.python.org/3/library/itertools.html)
 * [lambda](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/) - what it is and when to use
 * OOP
@@ -131,12 +133,13 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 <br>
 # <a name="further-reading"></a>Further Reading
 * Data Science
-	* [Intro to Python using Data Analysis](http://swcarpentry.github.io/python-novice-inflammation/) - uses **Jupyter notebook**
-	* [Intro to Data Science with Python](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+	* [Intro to Python using Data Analysis](http://swcarpentry.github.io/python-novice-inflammation/)
+	* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 	* [data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 	* [Python-xy](https://python-xy.github.io/)
 	* [datacamp - course](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	* [Open Source Society - Path to a free self-taught education in Data Science](https://github.com/open-source-society/data-science)
+	* [Intro to Data Science with Python](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 * GUI, Game and Web
 	* [gui development tutorials](https://pythonprogramming.net/gui-development-tutorials/)
 	* [kivy crash course](http://inclem.net/pages/kivy-crash-course/)
