@@ -62,7 +62,9 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
 
 <br>
 # <a name="perl-6"></a>Perl 6
-* [official site](http://perl6.org/) - all about Perl 6, including [examples](http://examples.perl6.org/)
+* [official site](https://perl6.org/) - all about Perl 6
+	* [5to6-nutshell](https://docs.perl6.org/language/5to6-nutshell)
+	* [examples](https://examples.perl6.org/)
 * [learnxinyminutes - perl6](https://learnxinyminutes.com/docs/perl6/)
 * [What is Perl 5 and Perl 6?](http://perl-begin.org/learn/perl6/) - also has links to Perl 6 resources
 * [perl6 faq](https://doc.perl6.org/language/faq)
