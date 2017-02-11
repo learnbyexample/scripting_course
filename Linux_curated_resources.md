@@ -64,14 +64,13 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 # <a name="tips-and-tricks"></a>Tips and Tricks
 * [commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
 * [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
-* [50 frequently used commands with examples](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [time saving tips](https://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know)
 * [command line tricks](http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
 
 <br>
 # <a name="specific-commands"></a>Resources for specific commands
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
-* [50 frequently used commands](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
+* [50 frequently used commands with examples](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [general purpose command line tools](http://www.compciv.org/unix-tools/)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
 
@@ -98,18 +97,18 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [gentle intro](http://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
     * in depth tutorial
         * [grymoire](http://www.grymoire.com/Unix/sed.html)
-        * [sed one liners explained](http://www.catonmat.net/series/sed one liners explained)
+        * [sed one liners explained](http://www.catonmat.net/series/sed-one-liners-explained)
     * examples
         * [sed examples on SO documentation](http://stackoverflow.com/documentation/sed/topics)
-        * [how-to](http://how-to.linuxcareer.com/learning-linux-commands-sedhttp://how-to.linuxcareer.com/learning-linux-commands-sed)
+        * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
         * [commandlinefu](http://www.commandlinefu.com/commands/tagged/110/sed/sort-by-votes)
 * [ack/ag](http://conqueringthecommandline.com/book/ack_ag) - searching a large number of files fast and easy
 * [sort](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 
 ### <a name="miscellaneous"></a>Miscellaneous
-* [Linux Permissions Primer](http://www.catchlinux.com/permissions-primer/)
+* [Linux File Permissions](https://www.linux.com/learn/getting-know-linux-file-permissions)
 * [chmod](https://danielmiessler.com/study/unixlinux_permissions/)
-* [rsync](http://ubtutorials.com/tutorial/1136/ubuntu-15-examples-backup-using-rsync-command)
+* [rsync](http://www.tutorialspoint.com/articles/rsync-command-examples-on-linux)
 * [htop](http://hisham.hm/htop/index.php?page=main)
 * [crontab examples](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
