@@ -24,7 +24,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
-* [A Byte of Python](http://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+* [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
 * [python-course](http://python-course.eu/python3_history_and_philosophy.php) 
@@ -145,7 +145,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [kivy crash course](http://inclem.net/pages/kivy-crash-course/)
 	* [remi module](https://github.com/dddomodossola/remi) - create platform independent GUI with Python (by converting to HTML)
 	* [Bokeh - Python interactive visualization library](https://github.com/bokeh/bokeh)
-	* [django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/), [djangogirls](http://tutorial.djangogirls.org/en/) and [flask](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+	* [django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/), [djangogirls](https://tutorial.djangogirls.org/en/) and [flask](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 	* static website generators [pelican](http://docs.getpelican.com/en/3.6.3/) and [Cactus](https://github.com/koenbok/Cactus/)
 	* [anvil](https://anvil.works/blog/introducing-anvil) - drag & drop web-app builder
 	* [web product](https://hellowebapp.com/) - a complete functional web app with a database and user support
