@@ -10,6 +10,7 @@ A reference guide to Linux command line, Vim and Scripting
 * [Python Basics](https://github.com/learnbyexample/Python_Basics) - Syntax, working with Shell commands, Files, Text Processing, and more...
 
 <br>
+
 ## Try Linux on a VM
 
 * [Simple guide to install Linux as Virtual Machine](http://www.storagecraft.com/blog/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
@@ -27,6 +28,7 @@ A reference guide to Linux command line, Vim and Scripting
 * [alternativeto - Crowdsourced software recommendations](http://alternativeto.net/)
 
 <br>
+
 ## Curated resources
 
 List of mostly free learning resources and forums for Q&A
@@ -41,9 +43,11 @@ Curated lists for programming, books, movies, music, games, etc
 * [Curated Resources](https://github.com/learnbyexample/curated_resources)
 
 <br>
+
 ## dot files
 Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary
 
 <br>
+
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
