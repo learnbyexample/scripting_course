@@ -3,21 +3,26 @@ Perl resources (mostly Perl 5)
 Get Perl for your OS from official website - https://www.perl.org/get.html
 
 # :hash: Table of Contents
+
 * [Tutorials](#tutorials)
-* [Regular Expressions](#regular expressions)
+* [Regular Expressions](#regular-expressions)
 * [Further Reading](#further-reading)
 * [Perl 6](#perl-6)
 * [Forums](#forums)
 
 <br>
+
 # <a name="tutorials"></a>Tutorials
+
 Read this [article](http://perl-tutorial.org/learn/) on spotting good and modern Perl tutorial before starting your journey
 
 Remember to add these lines at beginning of your Perl scripts, if they are not mentioned in any of these tutorials
 
-	use strict;
-	use warnings;
-	use autodie;
+```perl
+use strict;
+use warnings;
+use autodie;
+```
 
 * Perldoc
     * [simple and concise intro](http://perldoc.perl.org/perlintro.html) - color formatted code makes for easier reading online
@@ -35,7 +40,9 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
 * [guru99](http://www.guru99.com/perl-tutorials.html) - color formatted code makes for easier reading online, and includes images/memes for better visualization
 
 <br>
-# <a name="regular expressions"></a>Regular Expressions
+
+# <a name="regular-expressions"></a>Regular Expressions
+
 * Guide to regular expressions from Perldoc site
     * [quick start](http://perldoc.perl.org/perlrequick.html)
     * [longer tutorial](http://perldoc.perl.org/perlretut.html)
@@ -48,7 +55,9 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
     * [regexcrossword](https://regexcrossword.com/) - practice by solving crosswords, read 'How to play' section before you start
 
 <br>
+
 # <a name="further-reading"></a>Further Reading
+
 * [Lots and lots of snippets/solutions of programming problems](http://rosettacode.org/wiki/Category:Perl)
 * [Perl one-liners](http://www.catonmat.net/series/perl-one-liners-explained) 
 * [Perl command line switches](http://perl101.org/command-line-switches.html)
@@ -61,7 +70,9 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
 * [interactive console for Perl](http://stackoverflow.com/questions/73667/how-can-i-start-an-interactive-console-for-perl)
 
 <br>
+
 # <a name="perl-6"></a>Perl 6
+
 * [official site](https://perl6.org/) - all about Perl 6
 	* [5to6-nutshell](https://docs.perl6.org/language/5to6-nutshell)
 	* [examples](https://examples.perl6.org/)
@@ -72,7 +83,9 @@ Remember to add these lines at beginning of your Perl scripts, if they are not m
 * [Perl 6 at a Glance book](https://deeptext.media/perl6-at-a-glance/)
 
 <br>
+
 # <a name="forums"></a>Forums
+
 * [/r/perl/](https://www.reddit.com/r/perl/)
 * [stackoverflow](http://stackoverflow.com/tags/perl)
 * [perlmonks](http://perlmonks.org/)
