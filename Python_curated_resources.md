@@ -3,6 +3,7 @@
 Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutorial/) and [Getting Started](https://www.python.org/about/gettingstarted/) from Python official website
 
 # :hash: Table of Contents
+
 * [Courses - online text/pdf tutorials](#courses-text)
 * [Courses - online video/interactive tutorials](#courses-interactive)
 * [Books](#books)
@@ -18,7 +19,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Forums](#forums)
 
 <br>
+
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
+
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
@@ -32,13 +35,16 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Practice Book](http://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
 
 ## Quick Guides
+
 * [Python Notes](http://www.thomas-cokelaer.info/tutorials/python/index.html)
 * [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
 * [tutorialspoint](http://www.tutorialspoint.com/python/python_quick_guide.htm)
 * [realpython](https://realpython.com/learn/python-first-steps/)
 
 <br>
+
 # <a name="courses-interactive"></a>Courses - online video/interactive tutorials
+
 * [udemy - automatetheboringstuff](https://www.udemy.com/automate/?couponCode=HALF_OFF)
 	* [first 15 videos on youtube](https://www.youtube.com/watch?v=7qHMXu99d88&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 * [coursera - getting started with Python](https://www.coursera.org/learn/python) 
@@ -54,7 +60,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [cscircles - example and exercise based](http://cscircles.cemc.uwaterloo.ca/)
 
 <br>
+
 # <a name="books"></a>Books
+
 * [effectivepython](http://www.effectivepython.com/)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
@@ -65,7 +73,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [importpython](http://importpython.com/books/) - has buy/free list sections
 
 <br>
+
 # <a name="docs-cheat-sheets"></a>Docs and Cheat-Sheets
+
 * [Python 3.5](https://docs.python.org/3.5/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
 * [Cheat Sheet by Derek](http://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
@@ -74,7 +84,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
 
 <br>
+
 # <a name="tips-and-tricks"></a>Tips and Tricks
+
 * [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
 * [avoiding common gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
@@ -84,7 +96,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](http://python-oneliner.readthedocs.org/en/latest/)
 
 <br>
+
 # <a name="indepth-concepts"></a>In-depth analysis/tutorial of single concept
+
 * Collections
 	* [offical doc](https://docs.python.org/3/library/collections.html)
 * Decorators
@@ -125,13 +139,17 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [profiling Python code for performance](http://tutorials.pluralsight.com/python/quick-profiling-in-python)
 
 <br>
+
 # <a name="handy-tools"></a>Handy tools
+
 * [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
 * [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
 * [Thonny](http://thonny.cs.ut.ee/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
 
 <br>
+
 # <a name="further-reading"></a>Further Reading
+
 * Data Science
 	* [Intro to Python using Data Analysis](http://swcarpentry.github.io/python-novice-inflammation/)
 	* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -170,7 +188,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 <br>
+
 # <a name="meta-lists"></a>Other Python resource lists
+
 * [wiki from /r/learnpython](https://www.reddit.com/r/learnpython/wiki/index)
 * [github - awesome-python](https://github.com/vinta/awesome-python)
 * [github - pycrumbs](https://github.com/kirang89/pycrumbs)
@@ -182,7 +202,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [EDU-SIG: Python in Education](https://www.python.org/community/sigs/current/edu-sig/)
 
 <br>
+
 # <a name="code-practice"></a>Practice/Coding Challenge
+
 * [codewars](http://www.codewars.com/)
 * [adventofcode](http://adventofcode.com/)
 * [projecteuler](https://projecteuler.net/)
@@ -196,20 +218,26 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [codecombat](http://codecombat.com/play/level/dungeons-of-kithgard)
 
 <br>
+
 # <a name="code-solutions"></a>Coding Problems/Projects with solution
+
 * [projects on github](https://github.com/karan/Projects-Solutions)
 * [rosettacode](http://rosettacode.org/wiki/Category:Python)
 * [Python scripts](https://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written)
 * [projects with explanation by Peter Norvig](http://norvig.com/ipython/README.html)
 
 <br>
+
 # <a name="dev-env"></a>Development Environment
+
 * [pycharm](https://www.jetbrains.com/pycharm/)
 * Vim - [customizing .vimrc for Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) and [python-mode](https://github.com/klen/python-mode)
 * [Jupyter](https://jupyter.org/) - web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
 
 <br>
+
 # <a name="forums"></a>Forums
+
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
 * [/r/learnpython](http://www.reddit.com/r/learnpython) - very friendly for newbies
