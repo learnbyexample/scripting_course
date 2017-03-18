@@ -3,6 +3,7 @@ Handful of useful resources for Linux command line and bash shell scripting
 Guide to choosing your Linux Distribution, list of applications, etc: [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions) and [computefreely](http://computefreely.org/)
 
 # :hash: Table of Contents
+
 * [Courses: online text tutorials](#course-text)
 * [Courses: online video/interactive tutorials](#course-interactive)
 * [Shell Scripting](#shell-scripting)
@@ -16,7 +17,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [Forums](#forums)
 
 <br>
+
 # <a name="course-text"></a>Courses: online text tutorials
+
 * [ryanstutorial](http://ryanstutorials.net/linuxtutorial/)
 * [snipcademy](http://code.snipcademy.com/tutorials/linux-command-line)
 * [linuxcommand](http://linuxcommand.org/lc3_learning_the_shell.php)
@@ -26,7 +29,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [learnenough](https://www.learnenough.com/command-line-tutorial)
 
 <br>
+
 # <a name="course-interactive"></a>Courses: online video/interactive tutorials
+
 * [linuxjourney](https://linuxjourney.com/)
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 * [udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
@@ -36,7 +41,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [youtube - command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
 
 <br>
+
 # <a name="shell-scripting"></a>Shell Scripting
+
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](http://ryanstutorials.net/bash-scripting-tutorial/)
 * [bash examples on SO documentation](http://stackoverflow.com/documentation/bash/topics)
@@ -47,6 +54,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
 ### <a name="scripting-companion"></a>Scripting companion
+
 * [shellcheck](https://github.com/koalaman/shellcheck) - linting tool to avoid common mistakes
 * [bash FAQ](http://mywiki.wooledge.org/BashFAQ), [bash Practices](http://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](http://mywiki.wooledge.org/BashPitfalls) - comprehensive lists
 * [Google shell style guide](https://google.github.io/styleguide/shell.xml)
@@ -54,27 +62,34 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [bash reference](https://devmanual.gentoo.org/tools-reference/bash/index.html) - nicely formatted and explained well
 
 <br>
+
 # <a name="books"></a>Books
+
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [Unix for beginning Mage](http://unixmages.com/ufbm.pdf)
 * [linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
 <br>
+
 # <a name="tips-and-tricks"></a>Tips and Tricks
+
 * [commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
 * [bash cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 * [time saving tips](https://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know)
 * [command line tricks](http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
 
 <br>
+
 # <a name="specific-commands"></a>Resources for specific commands
+
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
 * [50 frequently used commands with examples](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [general purpose command line tools](http://www.compciv.org/unix-tools/)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
 
 ### <a name="text-file-processing"></a>Text and File processing
+
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
 * [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
 * [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
@@ -106,6 +121,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [sort](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 
 ### <a name="miscellaneous"></a>Miscellaneous
+
 * [Linux File Permissions](https://www.linux.com/learn/getting-know-linux-file-permissions)
 * [chmod](https://danielmiessler.com/study/unixlinux_permissions/)
 * [rsync](http://www.tutorialspoint.com/articles/rsync-command-examples-on-linux)
@@ -113,7 +129,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [crontab examples](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
 <br>
+
 # <a name="further-reading"></a>Further Reading
+
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](http://unix.stackexchange.com/questions/tagged/command-line)
 * [explainshell](http://explainshell.com/) - write down a command-line to see the help text that matches each argument
@@ -137,7 +155,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [Linux Subsystem for Windows by Microsoft](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
 <br>
+
 # <a name="forums"></a>Forums
+
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
 * [unix stackexchange](http://unix.stackexchange.com/)
