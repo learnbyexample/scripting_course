@@ -58,6 +58,7 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 * [vim as IDE](http://yannesposito.com/Scratch/en/blog/Vim-as-IDE/)
 * [plugins](http://vimawesome.com/)
+* [switching between files rapidly using vanilla Vim](https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins)
 * [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 * [What is the Vim8 package feature and how should I use it?](http://vi.stackexchange.com/questions/9522/what-is-the-vim8-package-feature-and-how-should-i-use-it)
 * [generate vim settings based on programming languages you use](http://vim-bootstrap.com/)
