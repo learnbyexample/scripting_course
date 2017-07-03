@@ -99,6 +99,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 # <a name="indepth-concepts"></a>In-depth analysis/tutorial of single concept
 
+* See [this illustration](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) for features like generators, collections, itertools, decorators, etc in action
 * Collections
 	* [offical doc](https://docs.python.org/3/library/collections.html)
 * Decorators
