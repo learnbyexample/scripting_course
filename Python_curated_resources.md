@@ -68,6 +68,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * book lists
+	* [pythonbooks - Discover the best books in every Python book category](http://pythonbooks.org/)
 	* [pythoncommunity - best Python books](http://pythoncommunity.com/2015-12-best-python-books)
 	* [free programming books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
 	* [importpython](http://importpython.com/books/) - has buy/free list sections
