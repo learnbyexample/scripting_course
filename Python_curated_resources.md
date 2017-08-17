@@ -145,6 +145,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="handy-tools"></a>Handy tools
 
 * [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
+* [CodeSkulptor](http://www.codeskulptor.org/) - runs Python programs in your browser, including GUI and has many demos
 * [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
 * [Thonny](http://thonny.cs.ut.ee/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
 
