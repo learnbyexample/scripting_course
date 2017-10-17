@@ -23,14 +23,14 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="courses-text"></a>Courses - online text/pdf tutorials
 
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
-	* also visit [inventwithpython](http://inventwithpython.com/) for more stuff from this author
+	* also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) 
-* [python-course](http://python-course.eu/python3_history_and_philosophy.php) 
+* [python-course](https://python-course.eu/python3_history_and_philosophy.php) 
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
 * [Practice Book](http://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
 
@@ -45,7 +45,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 # <a name="courses-interactive"></a>Courses - online video/interactive tutorials
 
-* [udemy - automatetheboringstuff](https://www.udemy.com/automate/?couponCode=HALF_OFF)
+* [udemy - automatetheboringstuff](https://www.udemy.com/automate/)
 	* [first 15 videos on youtube](https://www.youtube.com/watch?v=7qHMXu99d88&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 * [coursera - getting started with Python](https://www.coursera.org/learn/python) 
 * [edx - intro to computer science as a tool to solve real-world analytical problems](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
@@ -57,7 +57,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Real Python](https://realpython.com/) - focus on web development
 * [newcoder - project based](http://newcoder.io/tutorials/)
 * [opencs - Python from scratch](https://opencs.uwaterloo.ca/python-from-scratch/)
-* [cscircles - example and exercise based](http://cscircles.cemc.uwaterloo.ca/)
+* [cscircles - example and exercise based](https://cscircles.cemc.uwaterloo.ca/)
 
 <br>
 
@@ -77,7 +77,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 # <a name="docs-cheat-sheets"></a>Docs and Cheat-Sheets
 
-* [Python 3.5](https://docs.python.org/3.5/index.html)
+* [Python 3](https://docs.python.org/3/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
 * [Cheat Sheet by Derek](http://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
 * [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
@@ -107,12 +107,12 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [what is decorator?](https://pythonconquerstheuniverse.wordpress.com/2012/04/29/python-decorators/)
 	* [intro to decorators](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/PythonDecorators.html)
 	* [decorator library](https://wiki.python.org/moin/PythonDecoratorLibrary)
-	* [decorator - stackoverflow](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
+	* [decorator - stackoverflow](https://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * Lists
-	* [slice notations and assignments](http://stackoverflow.com/questions/509211/explain-pythons-slice-notation)
+	* [slice notations and assignments](https://stackoverflow.com/questions/509211/explain-pythons-slice-notation)
 	* [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 	* [Comprehensions in Python the Jedi way](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
-	* [how to copy 1-D and multi-D lists](http://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list-in-python)
+	* [how to copy 1-D and multi-D lists](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list-in-python)
 * Iterables, Generators, Yield, Itertools
 	* [What is the function of the yield keyword?](https://stackoverflow.com/questions/231767/what-is-the-function-of-the-yield-keyword)
 	* [yield and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
@@ -120,25 +120,24 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [itertools module](https://docs.python.org/3/library/itertools.html)
 * [lambda](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/) - what it is and when to use
 * OOP
-	* [why is it useful](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/)
-	* [magic methods](http://www.rafekettler.com/magicmethods.html)
+	* [why is it useful](https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/)
+	* [magic methods](https://rszalski.github.io/magicmethods/)
 	* [intro to classes and inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/)
 	* [class attributes](https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide)
 	* [official doc on classes](https://docs.python.org/3.5/tutorial/classes.html)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/)
 * Regular Expressions:
-	* [official doc of re module](https://docs.python.org/3.5/library/re.html)
-	* [regexone - interactive tutorial](http://regexone.com/), also has a [quick reference](http://regexone.com/references/python)
-	* [regular expressions tutorial](http://ryanstutorials.net/regular-expressions-tutorial/)
+	* [official doc of re module](https://docs.python.org/3/library/re.html)
+	* [regexone - interactive tutorial](https://regexone.com/), also has a [quick reference](https://regexone.com/references/python)
+	* [regular expressions tutorial](https://ryanstutorials.net/regular-expressions-tutorial/)
 	* [shortcutfoo](https://www.shortcutfoo.com/app/dojos/python-regex/cheatsheet) - you can also learn it [interactively](https://www.shortcutfoo.com/app/dojos/python-regex)
 	* [Python regex tutorial - from Google course](https://developers.google.com/edu/python/regular-expressions)
-	* stackoverflow - [comprehensive list of regex FAQ](http://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean) and [regex overview](http://stackoverflow.com/tags/regex/info) 
+	* stackoverflow - [comprehensive list of regex FAQ](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean) and [regex overview](https://stackoverflow.com/tags/regex/info) 
 * [string formatting](https://pyformat.info/#simple)
 * [working with binary data](http://www.devdungeon.com/content/working-binary-data-python) 
-* [Python Q&A on stackoverflow](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=15)
-* [pyinstaller](https://github.com/pyinstaller/pyinstaller)
-* [Python packaging guide](https://python-packaging-user-guide.readthedocs.org/en/latest/)
-* [profiling Python code for performance](http://tutorials.pluralsight.com/python/quick-profiling-in-python)
+* [Python Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=15)
+* [Python packaging guide](https://packaging.python.org/guides/)
+* [profiling Python code for performance](https://www.pluralsight.com/guides/python/quick-profiling-in-python)
 
 <br>
 
