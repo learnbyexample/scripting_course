@@ -45,7 +45,6 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
-* [bash examples on SO documentation](https://stackoverflow.com/documentation/bash/topics)
 * [bash handbook](https://github.com/denysdovhan/bash-handbook)
 * [writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
 * [snipcademy](https://code.snipcademy.com/tutorials/shell-scripting)
@@ -73,55 +72,45 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 # <a name="tips-and-tricks"></a>Tips and Tricks
 
+* [art of command line](https://github.com/jlevy/the-art-of-command-line)
+* [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
+* [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
 * [time saving tips](https://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know)
-* [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
 
 <br>
 
 # <a name="specific-commands"></a>Resources for specific commands
 
-* [art of command line](https://github.com/jlevy/the-art-of-command-line)
-* [50 frequently used commands with examples](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
-* [general purpose command line tools](http://www.compciv.org/unix-tools/)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
+* [general purpose command line tools](http://www.compciv.org/unix-tools/)
 
 ### <a name="text-file-processing"></a>Text and File processing
 
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
 * [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
 * [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
-* grep examples: [alvinalexander](http://alvinalexander.com/unix/edu/examples/grep.shtml) and [conqueringthecommandline](http://conqueringthecommandline.com/book/grep)
-* find examples: [alvinalexander](http://alvinalexander.com/unix/edu/examples/find.shtml) and [find examples on SO documentation](https://stackoverflow.com/documentation/bash/566/find#t=201609010700119113007)
+* grep examples: [alvinalexander](https://alvinalexander.com/unix/edu/examples/grep.shtml) and [conqueringthecommandline](http://conqueringthecommandline.com/book/grep)
+* find examples: [alvinalexander](https://alvinalexander.com/unix/edu/examples/find.shtml) and [conqueringthecommandline](http://conqueringthecommandline.com/book/find)
 * awk
+    * [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents) for complete reference, extensions and more
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
-    * in depth tutorial
-        * [Gawk: Effective AWK Programming](https://www.gnu.org/software/gawk/manual/) - has information for other `awk` implementations as well
-        * [grymoire](http://www.grymoire.com/Unix/Awk.html)
-        * [linuxcommand.org](http://linuxcommand.org/lc3_adv_awk.php)
-        * [awk one liners explained](http://www.catonmat.net/series/awk-one-liners-explained)
-    * examples
-        * [awk by example](http://www.funtoo.org/Awk_by_Example,_Part_1)
-        * [unixschool](http://www.theunixschool.com/2011/05/awk-read-file-and-split-contents.html)
-        * [commandlinefu](http://www.commandlinefu.com/commands/tagged/112/awk/sort-by-votes)
-    * how about writing [games in awk](http://awk.info/?Games)?
+    * [grymoire](http://www.grymoire.com/Unix/Awk.html) - detailed tutorial
+    * [awk one liners explained](http://www.catonmat.net/series/awk-one-liners-explained)
+    * [awk by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
 * sed
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
-    * in depth tutorial
-        * [grymoire](http://www.grymoire.com/Unix/sed.html)
-        * [sed one liners explained](http://www.catonmat.net/series/sed-one-liners-explained)
-    * examples
-        * [sed by example](http://www.funtoo.org/Sed_by_Example,_Part_1)
-        * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
-        * [commandlinefu](http://www.commandlinefu.com/commands/tagged/110/sed/sort-by-votes)
+    * [grymoire](http://www.grymoire.com/Unix/sed.html) - detailed tutorial
+    * [sed one liners explained](http://www.catonmat.net/series/sed-one-liners-explained)
+    * [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
+    * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
 * [ack/ag](http://conqueringthecommandline.com/book/ack_ag) - searching a large number of files fast and easy
 * [sort](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 
 ### <a name="miscellaneous"></a>Miscellaneous
 
-* [Linux File Permissions](https://www.linux.com/learn/getting-know-linux-file-permissions)
-* [chmod](https://danielmiessler.com/study/unixlinux_permissions/)
-* [rsync](http://www.tutorialspoint.com/articles/rsync-command-examples-on-linux)
+* [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
+* [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps)
 * [htop](http://hisham.hm/htop/index.php?page=main)
 * [crontab examples](http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
@@ -131,25 +120,21 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
-* [explainshell](http://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [nixCraft - tutorials and guides](http://www.cyberciti.biz/faq/)
 * [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
 * [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
-* [advanced topics and resources](http://linuxcommand.org/lc3_resources.php)
 * [bash hackers wiki](http://wiki.bash-hackers.org/start)
 * [stronger shell](http://m.odul.us/blog/2015/8/12/stronger-shell) - learnings from Matt Bowen and list of resources
 * [bash env variables](http://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
 * Application lists - for audio, video, graphics & design, development, games etc
     * [arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
-    * [alternativeto](http://alternativeto.net/)
-    * [ubuntuguide](http://ubuntuguide.org/wiki/Alternatives)
+    * [alternativeto](https://alternativeto.net/)
     * [GNU packages](https://www.gnu.org/manual/manual.html)
     * [youtube-dl](https://github.com/rg3/youtube-dl/)
     * [qutebrowser](http://qutebrowser.org/)
 * Linux on Windows
     * [Install as Virtual Machine](http://www.storagecraft.com/blog/the-dead-simple-guide-to-installing-a-linux-virtual-machine-on-windows/)
     * [cygwin](https://www.cygwin.com/) and [git-bash](https://git-for-windows.github.io/)
-    * [Linux Subsystem for Windows by Microsoft](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+    * [Linux Subsystem for Windows by Microsoft](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
 <br>
 
@@ -163,4 +148,4 @@ Read instructions provided by respective forums before asking a question. Try so
 * [linux4noobs](https://www.reddit.com/r/linux4noobs)
 * [linuxquestions](https://www.reddit.com/r/linuxquestions)
 * [linux](https://www.reddit.com/r/linux) - general linux discussion
-* [askubuntu](http://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) - ubuntu specific as well as general linux topics
+* [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) - ubuntu specific as well as general linux topics
