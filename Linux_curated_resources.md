@@ -82,6 +82,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 # <a name="specific-commands"></a>Resources for specific commands
 
+* [Linux Commands In Structured Order](https://linoxide.com/guide/linux-command-shelf.html)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
 * [general purpose command line tools](http://www.compciv.org/unix-tools/)
 
@@ -120,6 +121,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
+* [learn-anything - linux](https://learn-anything.xyz/operating-systems/unix/linux)
 * [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
 * [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
 * [bash hackers wiki](http://wiki.bash-hackers.org/start)
