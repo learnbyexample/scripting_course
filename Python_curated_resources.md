@@ -25,6 +25,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
 * [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+	* see also much expanded [Rhodes Local Edition](http://openbookproject.net/thinkcs/python/english3e/)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
