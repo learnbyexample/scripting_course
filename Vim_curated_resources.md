@@ -30,11 +30,14 @@ Vim resources
 
 * [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) - published 2015
    * Also check out [vimcasts](http://vimcasts.org/episodes/)
+* [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/) - published 2017
 * [vim book by Steve Oualline](http://www.oualline.com/vim-book.html) - published 2007
 * [vimscript](http://learnvimscriptthehardway.stevelosh.com/)
 * [A Byte of Vim](https://vim.swaroopch.com/)
-* [vim user manual](http://www.eandem.co.uk/mrw/vim/usr_doc/index.html) - version 7.4.443
-* [vim FAQ](https://github.com/chrisbra/vim_faq)
+* Vim manuals and related
+   * [HTML version of the Vim help pages](http://vimhelp.appspot.com/) - version 8+
+   * [vim user manual](http://www.eandem.co.uk/mrw/vim/usr_doc/index.html) - version 7.4.443
+   * [vim FAQ](https://github.com/chrisbra/vim_faq)
 
 <br>
 
@@ -46,7 +49,7 @@ Vim resources
 * [shortcutfoo](https://www.shortcutfoo.com/app/dojos/vim/cheatsheet) - has nice animation for some of the shortcuts
 * [cheatsheet in multiple languages](https://vim.rtorr.com/) - shows up as embedded content in [DuckDuckGo search](https://duckduckgo.com/?q=vim+cheat+sheet)
 
-And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) - sort of quick intro to vim script as well
+And [Vim script cheatsheet](https://devhints.io/vimscript) - quick intro to vim script as well
 
 <br>
 
@@ -78,14 +81,14 @@ And [Vim script cheatsheet](http://ricostacruz.com/cheatsheets/vimscript.html) -
 
 # <a name="further-reading"></a>Further Reading
 
-* [vimgolf](http://www.vimgolf.com/)
+* [vimgolf](https://www.vimgolf.com/)
 * [vimgifs](https://vimgifs.com/)
 * [vim resources collection](https://vim.zeef.com/patrick.schanen)
 * [awesome vim](https://github.com/akrawchyk/awesome-vim)
 * [why use vim](http://www.viemu.com/a-why-vi-vim.html)
 * [man pager in vim](https://www.reddit.com/r/vim/comments/4xkyah/til_builtin_man_pager_in_vim/)
 * [Things about vim I wish I knew earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
-* [Tabs vs Buffers](http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
+* [Tabs vs Buffers](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 
 <br>
 
