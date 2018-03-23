@@ -90,7 +90,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
 * [avoiding common gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
-* [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
+* [Transforming Code into Beautiful, Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
 * [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 * [pythontips book](http://book.pythontips.com/en/latest/index.html)
 * One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](http://python-oneliner.readthedocs.org/en/latest/)
