@@ -52,3 +52,5 @@ o() { gnome-open "$@" &> /dev/null ; }
 # if unix2dos and dos2unix commands aren't available by default
 unix2dos() { sed -i 's/$/\r/' "$@" ; }
 dos2unix() { sed -i 's/\r$//' "$@" ; }
+
+# vim: syntax=bash
