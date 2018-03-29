@@ -4,7 +4,10 @@ a c='clear'
 a p='pwd'
 a e='exit'
 a q='exit'
+
 a h='history | tail -20'
+# turn off history, use 'set -o history' to turn it on again
+a so='set +o history'
 
 a b1='cd ../'
 a b2='cd ../../'
@@ -27,6 +30,11 @@ a s='du -sh * | sort -h'
 # save last command from history to a file
 # tip, add a comment to end of command before saving, ex: ls --color=auto # colored ls output
 a sl='fc -ln -1 | sed "s/^\s*//" >> ~/.saved_commands.txt'
+# short-cut to grep that file
+a slg='< ~/.command_examples.txt grep'
+
+# change ascii alphabets to unicode bold characters
+a ascii2bold="perl -Mopen=locale -Mutf8 -pe 'tr/a-zA-Z/𝗮-𝘇𝗔-𝗭/'"
 
 ### functions
 # 'command help' for command name and single option - ex: ch ls -A
@@ -42,5 +50,5 @@ ap() { for f in "$@"; do echo "$PWD/$f"; done; }
 o() { gnome-open "$@" &> /dev/null ; }
 
 # if unix2dos and dos2unix commands aren't available by default
-unix2dos() { perl -i -pe 's|\n|\r\n|' "$@" ; }
-dos2unix() { perl -i -pe 's|\r\n|\n|' "$@" ; }
+unix2dos() { sed -i 's/$/\r/' "$@" ; }
+dos2unix() { sed -i 's/\r$//' "$@" ; }
