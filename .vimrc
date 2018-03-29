@@ -1,8 +1,8 @@
-" Vim version 7.4, some mappings work in gvim only
+" tested on Vim version 7.4, some mappings work in gvim only
 
 " ----- General Settings -----
 " history limit
-set history=100
+set history=500
 " Don't create backup files
 set nobackup
 " Don't create swap files
@@ -45,9 +45,10 @@ set hlsearch
 " search visually selected text
 vnoremap * y/<C-R>"<CR>
 vnoremap # y?<C-R>"<CR>
-" always use magic mode
-nnoremap / /\v
-nnoremap ? ?\v
+" to always use magic mode, uncomment following 2 lines
+" nnoremap / /\v
+" nnoremap ? ?\v
+
 " clear highlighted search text until next explicit search or n/N
 " <silent> - so as to not print :noh on last line when pressing space
 nnoremap <silent> <Space> :noh<CR><Space>
@@ -62,7 +63,14 @@ nnoremap #3 :wq<CR>
 " Map F4 key to clear file contents in command mode
 nnoremap #4 ggdG
 " Map F5 key to copy entire contents of file to clipboard
-nnoremap #5 gg"+yG
+nnoremap #5 :%y+<CR>
+
+" ALT key mappings for gvim (to switch tabs similar to those in browser/terminals)
+nnoremap <A-1> 1gt
+nnoremap <A-2> 2gt
+nnoremap <A-3> 3gt
+nnoremap <A-4> 4gt
+nnoremap <A-5> 5gt
 
 " Map F2 key to save file in insert mode
 inoremap <F2> <C-o>:w<CR>
@@ -129,9 +137,10 @@ set suffixesadd+=.v,.V,.sv,.SV
 " Useful for opening modules from different hierarchies
 "set path+=/path1/,/path2/,etc
 
-" no menubar or Toolbar
+" gvim customization - no menubar/Toolbar, set font and size
 set guioptions-=m
 set guioptions-=T
+set guifont=Monospace\ 12
 
 
 " Other useful vimrcs and links
