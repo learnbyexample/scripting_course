@@ -24,7 +24,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
-* [Think Python](http://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* [Think Python](https://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 	* see also much expanded [Rhodes Local Edition](http://openbookproject.net/thinkcs/python/english3e/)
 * [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
@@ -33,13 +33,12 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [Python for you and me](https://pymbook.readthedocs.org/en/latest/) 
 * [python-course](https://python-course.eu/python3_history_and_philosophy.php) 
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - also available as [pdf](https://upload.wikimedia.org/wikipedia/commons/1/1d/Non-Programmer%27s_Tutorial_for_Python_3.pdf)
-* [Practice Book](http://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
+* [Practice Book](https://anandology.com/python-practice-book/getting-started.html) - Python 2, good exercises for each topic
 
 ## Quick Guides
 
 * [Python Notes](https://www.thomas-cokelaer.info/tutorials/python/index.html)
 * [learnxinyminutes - Python3](https://learnxinyminutes.com/docs/python3/)
-* [tutorialspoint](https://www.tutorialspoint.com/python/python_quick_guide.htm)
 * [realpython](https://realpython.com/learn/python-first-steps/)
 
 <br>
@@ -49,9 +48,8 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [udemy - automatetheboringstuff](https://www.udemy.com/automate/)
 	* [first 15 videos on youtube](https://www.youtube.com/watch?v=7qHMXu99d88&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 * [coursera - getting started with Python](https://www.coursera.org/learn/python) 
-* [edx - intro to computer science as a tool to solve real-world analytical problems](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
+* [edx - intro to computer science as a tool to solve real-world analytical problems](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [pythonprogramming](https://pythonprogramming.net/introduction-to-python-programming/) 
-* [learn Python through challenging problems](https://snakify.org/) 
 * [youtube - Python programming](https://www.youtube.com/playlist?list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976)
 * [Google - Python 2](https://developers.google.com/edu/python/)
 * [youtube - learn Python 2 and make games](https://www.youtube.com/playlist?list=PLeLU1pCom3Oo4w7XE3wlrdWv6v7lA0hwb)
@@ -64,7 +62,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 # <a name="books"></a>Books
 
-* [effectivepython](http://www.effectivepython.com/)
+* [effectivepython](https://www.effectivepython.com/)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
@@ -87,13 +85,13 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 # <a name="tips-and-tricks"></a>Tips and Tricks
 
-* [40 handy tricks](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+* [40 handy tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
 * [avoiding common gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
 * [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 * [pythontips book](http://book.pythontips.com/en/latest/index.html)
-* One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](http://python-oneliner.readthedocs.org/en/latest/)
+* One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](https://python-oneliner.readthedocs.org/en/latest/)
 
 <br>
 
@@ -165,12 +163,12 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [remi module](https://github.com/dddomodossola/remi) - create platform independent GUI with Python (by converting to HTML)
 	* [Bokeh - Python interactive visualization library](https://github.com/bokeh/bokeh)
 	* [django](https://docs.djangoproject.com/en/1.9/intro/tutorial01/), [djangogirls](https://tutorial.djangogirls.org/en/) and [flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-	* static website generators [pelican](http://docs.getpelican.com/en/3.6.3/) and [Cactus](https://github.com/koenbok/Cactus/)
+	* static website generators [pelican](http://docs.getpelican.com/en/stable/) and [Cactus](https://github.com/koenbok/Cactus/)
 	* [anvil](https://anvil.works/blog/introducing-anvil) - drag & drop web-app builder
 	* [web product](https://hellowebapp.com/) - a complete functional web app with a database and user support
 	* [web scraping](http://newcoder.io/scrape/)
 * Testing and TDD
-	* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) - focussed on Django and web-development
+	* [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html) - focussed on web-development
 	* [learn Python via TDD](https://github.com/gregmalcolm/python_koans)
 	* [defensive programming](https://www.pluralsight.com/guides/python/defensive-programming-in-python)
 	* [pycontracts](https://andreacensi.github.io/contracts/)
@@ -180,6 +178,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [Google - pyguide](https://google.github.io/styleguide/pyguide.html)
 	* [elements of python style](https://github.com/amontalenti/elements-of-python-style)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+* [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Problem solving with Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) 
 * [realpython - blog](https://realpython.com/blog/)
 * [Create beautiful command-line interfaces with Python](https://www.youtube.com/watch?v=pXhcPJK5cMc)
@@ -208,12 +207,13 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [codewars](https://www.codewars.com/)
 * [adventofcode](https://adventofcode.com/)
+* [Auto-Graded Course with Solutions](https://repl.it/community/classrooms/17929) 
 * [projecteuler](https://projecteuler.net/)
 * [hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
 * [codingbat](http://codingbat.com/python)
 * [exercism](http://exercism.io/languages/python/about)
-* [practicepython](http://www.practicepython.org/)
+* [practicepython](https://www.practicepython.org/)
 * [codeeval](https://www.codeeval.com/)
 * Gamification
 	* [checkio](https://www.checkio.org/)
