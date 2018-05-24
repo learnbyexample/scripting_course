@@ -58,15 +58,18 @@ use autodie;
 # <a name="further-reading"></a>Further Reading
 
 * [Lots and lots of snippets/solutions of programming problems](https://rosettacode.org/wiki/Category:Perl)
-* [Perl one-liners](http://www.catonmat.net/series/perl-one-liners-explained) 
-* [Perl command line switches](http://perl101.org/command-line-switches.html)
+* [Perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md) 
+    * [Perl command line switches](http://perl101.org/command-line-switches.html)
     * [perldoc - command switches](https://perldoc.perl.org/perlrun.html#Command-Switches)
-* [Perl Q&A](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
+* [stackoverflow: Perl Q&A](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
+* Practice and Coding Challenges
+    * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+    * [exercism](http://exercism.io/languages/perl5/about)
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) - curated list of awesome Perl5 frameworks, libraries and software
 * [zeef-perl](https://perl.zeef.com/dale.evans) - another curated list of Perl resources
 * [hyperpolyglot](http://perl-begin.org/tutorials/hyperpolyglot/sheet1.html) - side-by-side reference sheet for PHP, Perl, Python, Ruby
 * [perltuts](http://dev.perltuts.com/try) - run Perl code online, Perl 6 version available as well
-* [interactive console for Perl](https://stackoverflow.com/questions/73667/how-can-i-start-an-interactive-console-for-perl)
+* [stackoverflow: interactive console for Perl](https://stackoverflow.com/questions/73667/how-can-i-start-an-interactive-console-for-perl)
 
 <br>
 
@@ -88,3 +91,4 @@ use autodie;
 * [/r/perl/](https://www.reddit.com/r/perl/)
 * [stackoverflow](https://stackoverflow.com/tags/perl)
 * [perlmonks](http://perlmonks.org/)
+
