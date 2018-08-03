@@ -28,7 +28,7 @@ Vim resources
 
 # <a name="books-and-documentation"></a>Books and Documentation
 
-* [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) - published 2015
+* [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) - published 2015, updated for version 8 in 2017
    * Also check out [vimcasts](http://vimcasts.org/episodes/)
 * [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/) - published 2017
 * [vim book by Steve Oualline](http://www.oualline.com/vim-book.html) - published 2007
