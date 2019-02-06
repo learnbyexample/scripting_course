@@ -25,10 +25,11 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
-	* see also much expanded [Rhodes Local Edition](http://openbookproject.net/thinkcs/python/english3e/)
-* [diveintopython](http://www.diveintopython3.net/) - also freely available as [pdf](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+    * See also [How to Think Like a Computer Scientist: Interactive Edition](https://interactivepython.org/courselib/static/thinkcspy/index.html)
+	* See also [Learning with Python 3 - Rhodes Local Edition](http://openbookproject.net/thinkcs/python/english3e/)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
+* [Dive Into Python 3](https://www.cmi.ac.in/~madhavan/courses/prog2-2012/docs/diveintopython3/table-of-contents.html)
 * [Python Informatics](http://do1.dr-chuck.com/py4inf/EN-us/book.pdf) 
 * [Python for you and me](https://pymbook.readthedocs.org/en/latest/) 
 * [python-course](https://python-course.eu/python3_history_and_philosophy.php) 
@@ -76,6 +77,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [Python 3](https://docs.python.org/3/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
+* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [Cheat Sheet by Derek](https://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
 * [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
