@@ -211,15 +211,15 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [adventofcode](https://adventofcode.com/)
 * [Auto-Graded Course with Solutions](https://repl.it/community/classrooms/17929) 
 * [projecteuler](https://projecteuler.net/)
-* [hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
+* [hackerrank](https://www.hackerrank.com/domains/python)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-* [codingbat](http://codingbat.com/python)
-* [exercism](http://exercism.io/languages/python/about)
+* [interactivepython](https://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [codingbat](https://codingbat.com/python)
+* [exercism](https://exercism.io/tracks/python)
 * [practicepython](https://www.practicepython.org/)
-* [codeeval](https://www.codeeval.com/)
 * Gamification
 	* [checkio](https://www.checkio.org/)
-	* [empireofcode](https://empireofcode.com/)
+    * [codingame](https://www.codingame.com/start)
 	* [codecombat](https://codecombat.com/play/level/dungeons-of-kithgard)
 
 <br>
