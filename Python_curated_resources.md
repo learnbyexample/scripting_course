@@ -89,10 +89,10 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [40 handy tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 * [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
-* [avoiding common gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
+* [avoiding common gotchas](https://docs.python-guide.org/writing/gotchas/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
 * [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
-* [pythontips book](http://book.pythontips.com/en/latest/index.html)
+* [pythontips book](https://book.pythontips.com/en/latest/index.html)
 * One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](https://python-oneliner.readthedocs.org/en/latest/)
 
 <br>
@@ -109,7 +109,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [decorator - stackoverflow](https://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * Lists
 	* [slice notations and assignments](https://stackoverflow.com/questions/509211/explain-pythons-slice-notation)
-	* [list comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+	* [list comprehensions](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 	* [Comprehensions in Python the Jedi way](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
 	* [how to copy 1-D and multi-D lists](https://stackoverflow.com/questions/2612802/how-to-clone-or-copy-a-list-in-python)
 * Iterables, Generators, Yield, Itertools
@@ -126,12 +126,14 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [official doc on classes](https://docs.python.org/3.5/tutorial/classes.html)
 * [Python Virtual Environments](https://realpython.com/blog/python/python-virtual-environments-a-primer/)
 * Regular Expressions:
-	* [official doc of re module](https://docs.python.org/3/library/re.html)
+	* [docs.python: re module](https://docs.python.org/3/library/re.html) and [docs.python: Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html)
+    * [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) - my book on regular expressions
+    * [rexegg](https://www.rexegg.com/) - tutorials, tricks and more
+    * [regular-expressions](https://www.regular-expressions.info/) - tutorials and tools
 	* [regexone - interactive tutorial](https://regexone.com/), also has a [quick reference](https://regexone.com/references/python)
-	* [regular expressions tutorial](https://ryanstutorials.net/regular-expressions-tutorial/)
-	* [shortcutfoo](https://www.shortcutfoo.com/app/dojos/python-regex/cheatsheet) - you can also learn it [interactively](https://www.shortcutfoo.com/app/dojos/python-regex)
-	* [Python regex tutorial - from Google course](https://developers.google.com/edu/python/regular-expressions)
-	* stackoverflow - [comprehensive list of regex FAQ](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean) and [regex overview](https://stackoverflow.com/tags/regex/info) 
+	* [stackoverflow: comprehensive list of regex FAQ](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean) and [stackoverflow: regex overview](https://stackoverflow.com/tags/regex/info) 
+    * [regex101](https://regex101.com/) - visual aid and online testing tool for regular expressions, select flavor as Python before use
+    * [debuggex](https://www.debuggex.com) - railroad diagrams for regular expressions, select flavor as Python before use
 * [string formatting](https://pyformat.info/#simple)
 * [working with binary data](https://www.devdungeon.com/content/working-binary-data-python) 
 * [Python Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=15)
@@ -144,8 +146,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [Visualize code execution](http://www.pythontutor.com/visualize.html#mode=edit) - also has example codes and ability to share sessions
 * [CodeSkulptor](http://www.codeskulptor.org/) - runs Python programs in your browser, including GUI and has many demos
-* [regex tester](https://regex101.com/#python) - explainations on separate windows, includes quick references, ability to save and share
-* [Thonny](http://thonny.cs.ut.ee/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
+* [Thonny](https://thonny.org/) - Python IDE for beginners, lots of handy features like viewing variables, debugger, step through, highlight syntax errors, name completion, etc
 
 <br>
 
@@ -179,7 +180,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [PEP 0008](https://www.python.org/dev/peps/pep-0008/)
 	* [Google - pyguide](https://google.github.io/styleguide/pyguide.html)
 	* [elements of python style](https://github.com/amontalenti/elements-of-python-style)
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Problem solving with Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) 
 * [realpython - blog](https://realpython.com/blog/)
@@ -236,8 +237,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 # <a name="dev-env"></a>Development Environment
 
 * [pycharm](https://www.jetbrains.com/pycharm/)
-* Vim - [customizing .vimrc for Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) and [python-mode](https://github.com/klen/python-mode)
+* [spyder](https://www.spyder-ide.org/) - scientific environment
 * [Jupyter](https://jupyter.org/) - web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
+* Vim - [customizing .vimrc for Python](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/) and [python-mode](https://github.com/klen/python-mode)
 
 <br>
 
@@ -249,3 +251,4 @@ Read instructions provided by respective forums before asking a question. Try so
 * [python-forum](https://python-forum.io/)
 * [/r/Python/](https://www.reddit.com/r/Python/)  - general Python discussion
 * [stackoverflow](https://stackoverflow.com/tags/python)
+
