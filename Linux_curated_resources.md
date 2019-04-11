@@ -34,7 +34,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [linuxjourney](https://linuxjourney.com/)
 * [udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
-* [edx](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+* [edx](https://www.edx.org/course/introduction-to-linux)
 * [memrise](https://www.memrise.com/course/50252/shell-fu/)
 * [shortcutfoo](https://www.shortcutfoo.com/app/dojos/command-line)
 * [youtube - command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
@@ -54,7 +54,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 ### <a name="scripting-companion"></a>Scripting companion
 
-* [shellcheck](https://www.shellcheck.net/) - linting tool to avoid common mistakes
+* [shellcheck](https://www.shellcheck.net/) - linting tool to avoid common mistakes and improve your script
 * [bash FAQ](https://mywiki.wooledge.org/BashFAQ), [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls) - comprehensive lists
 * [Google shell style guide](https://google.github.io/styleguide/shell.xml)
 * tips for [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html) and [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
@@ -66,7 +66,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php)
-* [Unix for beginning Mage](http://unixmages.com/ufbm.pdf)
+* [Unix for beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf)
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
 <br>
@@ -77,7 +77,6 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
 * [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
-* [time saving tips](https://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-user-should-know)
 
 <br>
 
@@ -102,16 +101,16 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * sed
     * [350+ GNU sed examples](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_sed.md)
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
-    * [grymoire](http://www.grymoire.com/Unix/sed.html) - detailed tutorial
-    * [sed one liners explained](http://www.catonmat.net/series/sed-one-liners-explained)
+    * [grymoire](https://www.grymoire.com/Unix/Sed.html) - detailed tutorial, has details on differences between various `sed` versions as well
+    * [sed one liners explained](https://catonmat.net/sed-one-liners-explained-part-one)
     * [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
     * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
 * awk
     * [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents) for complete reference, examples, extensions and more
     * [250+ GNU awk examples](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md)
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
-    * [grymoire](http://www.grymoire.com/Unix/Awk.html) - detailed tutorial
-    * [awk one liners explained](http://www.catonmat.net/series/awk-one-liners-explained)
+    * [grymoire](https://www.grymoire.com/Unix/Awk.html) - detailed tutorial, covers information about different `awk` versions as well
+    * [awk one liners explained](https://catonmat.net/awk-one-liners-explained-part-one)
     * [awk by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
 * [350+ perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md)
 * [sort](https://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
@@ -136,7 +135,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [learn-anything - linux](https://learn-anything.xyz/operating-systems/unix/linux)
 * [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
 * [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
-* [bash hackers wiki](http://wiki.bash-hackers.org/start)
+* [bash hackers wiki](https://wiki.bash-hackers.org/start)
 * [stronger shell](https://m.odul.us/blog/2015/8/12/stronger-shell) - learnings from Matt Bowen and list of resources
 * [bash env variables](https://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
 * Application lists - for audio, video, graphics & design, development, games etc
@@ -145,7 +144,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [GNU packages](https://www.gnu.org/manual/manual.html)
     * [youtube-dl](https://github.com/rg3/youtube-dl/)
     * [qutebrowser](https://qutebrowser.org/)
-* Linux on Windows
+* Linux/Bash on Windows
     * [git-bash](https://gitforwindows.org/)
     * [cygwin](https://www.cygwin.com/)
     * [Linux Subsystem for Windows by Microsoft](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
