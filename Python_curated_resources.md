@@ -25,7 +25,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [automatetheboringstuff](https://automatetheboringstuff.com/) 
 	* also visit [inventwithpython](https://inventwithpython.com/) for more stuff from this author
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - also freely available as [pdf](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
-    * See also [How to Think Like a Computer Scientist: Interactive Edition](https://interactivepython.org/courselib/static/thinkcspy/index.html)
+    * See also [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/static/thinkcspy/index.html)
 	* See also [Learning with Python 3 - Rhodes Local Edition](http://openbookproject.net/thinkcs/python/english3e/)
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [A Byte of Python](https://python.swaroopch.com/) - also freely available as [pdf](https://www.gitbook.com/download/pdf/book/swaroopch/byte-of-python)
@@ -182,7 +182,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 	* [elements of python style](https://github.com/amontalenti/elements-of-python-style)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
-* [Problem solving with Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html) 
+* [Problem solving with Algorithms and Data Structures](https://runestone.academy/runestone/static/pythonds/index.html) 
 * [realpython - blog](https://realpython.com/blog/)
 * [Create beautiful command-line interfaces with Python](https://www.youtube.com/watch?v=pXhcPJK5cMc)
 * [collection of design patterns and idioms](https://github.com/faif/python-patterns)
@@ -214,7 +214,7 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 * [projecteuler](https://projecteuler.net/)
 * [hackerrank](https://www.hackerrank.com/domains/python)
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-* [interactivepython](https://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [runestone.academy](https://runestone.academy/runestone/static/thinkcspy/index.html)
 * [codingbat](https://codingbat.com/python)
 * [exercism](https://exercism.io/tracks/python)
 * [practicepython](https://www.practicepython.org/)
@@ -229,7 +229,6 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [projects on github](https://github.com/karan/Projects-Solutions)
 * [rosettacode](https://rosettacode.org/wiki/Category:Python)
-* [Python scripts](https://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written)
 * [pytudes by Peter Norvig](https://github.com/norvig/pytudes)
 
 <br>
