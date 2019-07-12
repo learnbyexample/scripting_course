@@ -1,6 +1,6 @@
-Perl resources (mostly Perl 5)
+Curated resources list for Perl 5 and Perl 6.
 
-Get Perl for your OS from official website - https://www.perl.org/get.html
+Get Perl for your OS from official website: https://www.perl.org/get.html
 
 # :hash: Table of Contents
 
@@ -33,7 +33,7 @@ use autodie;
 * modernperl
     * [online text](http://modernperlbooks.com/books/modern_perl_2016/) - code formatted, but not colored
     * [book and pdf(free) versions](http://onyxneon.com/books/modern_perl/)
-* [Perl for newbies](http://perl-begin.org/tutorials/perl-for-newbies/) - color formatted code makes for easier reading online
+* [Perl for newbies](https://perl-begin.org/tutorials/perl-for-newbies/) - color formatted code makes for easier reading online
 * [perlmeme](http://perlmeme.org/start_here/index.html) - FAQs, HOWTOs and TUTORIALs(working example code of various tasks in Perl like parsing CSV/HTML, creating web form, connecting to database, etc)
 * [guru99](https://www.guru99.com/perl-tutorials.html) - color formatted code makes for easier reading online, and includes images/memes for better visualization
 
@@ -46,11 +46,10 @@ use autodie;
     * [longer tutorial](https://perldoc.perl.org/perlretut.html)
     * [syntax of regular expressions](https://perldoc.perl.org/perlre.html)
     * [perlfaq](https://perldoc.perl.org/perlfaq.html)
-* [Handy Perl regular expressions](http://www.catonmat.net/blog/perl-one-liners-explained-part-seven/)
+* [Handy Perl regular expressions](https://catonmat.net/perl-one-liners-explained-part-seven)
 * Practice and general regex tutorials (i.e they may not be Perl specific)
-    * [online regex tester](https://regex101.com/#pcre) - [PCRE](http://www.pcre.org/), shows explanations, has reference guides and ability to save and share regex
+    * [online regex tester](https://regex101.com/#pcre) - has an option for [PCRE](http://www.pcre.org/), shows explanations, has reference guides and ability to save and share regex
     * [regex FAQ on SO](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
-    * [regexone](https://regexone.com/) - interative tutorial
     * [regexcrossword](https://regexcrossword.com/) - practice by solving crosswords, read 'How to play' section before you start
 
 <br>
@@ -59,16 +58,18 @@ use autodie;
 
 * [Lots and lots of snippets/solutions of programming problems](https://rosettacode.org/wiki/Category:Perl)
 * [Perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md) 
-    * [Perl command line switches](http://perl101.org/command-line-switches.html)
+    * [Perl command line switches](https://perl101.org/command-line-switches.html)
     * [perldoc - command switches](https://perldoc.perl.org/perlrun.html#Command-Switches)
 * [stackoverflow: Perl Q&A](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
 * Practice and Coding Challenges
     * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-    * [exercism](http://exercism.io/languages/perl5/about)
+    * [exercism](https://exercism.io/tracks/perl5)
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) - curated list of awesome Perl5 frameworks, libraries and software
 * [zeef-perl](https://perl.zeef.com/dale.evans) - another curated list of Perl resources
-* [hyperpolyglot](http://perl-begin.org/tutorials/hyperpolyglot/sheet1.html) - side-by-side reference sheet for PHP, Perl, Python, Ruby
+* [bioperl](https://bioperl.org/howtos/index.html) - practical descriptions of BioPerl modules
+* [hyperpolyglot](https://perl-begin.org/tutorials/hyperpolyglot/sheet1.html) - side-by-side reference sheet for PHP, Perl, Python, Ruby
 * [perltuts](http://dev.perltuts.com/try) - run Perl code online, Perl 6 version available as well
+    * also has an [interactive tutorial](http://dev.perltuts.com/tutorials/quick-start)
 * [stackoverflow: interactive console for Perl](https://stackoverflow.com/questions/73667/how-can-i-start-an-interactive-console-for-perl)
 
 <br>
@@ -79,7 +80,7 @@ use autodie;
 	* [5to6-nutshell](https://docs.perl6.org/language/5to6-nutshell)
 	* [examples](https://examples.perl6.org/)
 * [learnxinyminutes - perl6](https://learnxinyminutes.com/docs/perl6/)
-* [What is Perl 5 and Perl 6?](http://perl-begin.org/learn/perl6/) - also has links to Perl 6 resources
+* [What is Perl 5 and Perl 6?](https://perl-begin.org/learn/perl6/) - also has links to Perl 6 resources
 * [perl6 faq](https://doc.perl6.org/language/faq)
 * [perl6 on stackoverflow](https://stackoverflow.com/tags/perl6/info)
 * [Perl 6 at a Glance book](https://deeptext.media/perl6-at-a-glance/)
@@ -90,5 +91,5 @@ use autodie;
 
 * [/r/perl/](https://www.reddit.com/r/perl/)
 * [stackoverflow](https://stackoverflow.com/tags/perl)
-* [perlmonks](http://perlmonks.org/)
+* [perlmonks](https://perlmonks.org/)
 
