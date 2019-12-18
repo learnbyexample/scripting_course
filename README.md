@@ -12,7 +12,9 @@ A reference guide to Linux command line, Vim and Scripting
 ### Ebooks
 
 * [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions)
+* [JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp)
 * [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
+* [GNU sed](https://github.com/learnbyexample/learn_gnused)
 * [Ruby Regexp](https://github.com/learnbyexample/Ruby_Regexp)
 
 ### Blog
