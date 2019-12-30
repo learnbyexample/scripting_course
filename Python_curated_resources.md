@@ -77,9 +77,9 @@ Check out [Basic concepts and features tutorial](https://docs.python.org/3/tutor
 
 * [Python 3](https://docs.python.org/3/index.html)
 * [Python 2.7](https://docs.python.org/2.7/)
+* [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [Cheat Sheet by Derek](https://www.newthinktank.com/2014/11/python-programming/) - has an accompanying [video](https://www.youtube.com/watch?v=N4mEzFDjqtA) as well
-* [Python Crash Course - cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 	* [github repo](https://github.com/IPGP/scientific_python_cheat_sheet)
 
