@@ -15,6 +15,7 @@ A reference guide to Linux command line, Vim and Scripting
 * [JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp)
 * [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
 * [GNU sed](https://github.com/learnbyexample/learn_gnused)
+* [GNU awk](https://github.com/learnbyexample/learn_gnuawk)
 * [Ruby Regexp](https://github.com/learnbyexample/Ruby_Regexp)
 
 ### Blog
@@ -64,10 +65,8 @@ Do NOT copy bash and vim customization files (files starting with .) directly to
 
 * Please open an issue for typos/bugs/suggestions/etc
     * Even for pull requests, open an issue for discussion before submitting PRs
-    * or [gitter group chat](https://gitter.im/learnbyexample/scripting_course) for discussion as well as for help/mentorship
 * Share the repo with friends/colleagues, on social media, etc to help reach other learners
-* In case you need to reach me, use [gitter private chat](https://gitter.im/learnbyexample)
-    * or mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode`
+* In case you need to reach me, mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode` or send a DM via [twitter](https://twitter.com/learn_byexample)
 
 <br>
 
