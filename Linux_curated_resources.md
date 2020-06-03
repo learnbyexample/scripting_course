@@ -37,7 +37,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [edx](https://www.edx.org/course/introduction-to-linux)
 * [memrise](https://www.memrise.com/course/50252/shell-fu/)
 * [shortcutfoo](https://www.shortcutfoo.com/app/dojos/command-line)
-* [youtube - command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
+* [youtube — command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
 
 <br>
 
@@ -50,15 +50,15 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [snipcademy](https://code.snipcademy.com/tutorials/shell-scripting)
 * [learnshell](https://www.learnshell.org/)
 * [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-* [Serious Shell Programming](https://www.gitbook.com/book/freebsdfrau/serious-shell-programming/details) - focuses on POSIX-compliant Bourne Shell for portability
+* [Serious Shell Programming](https://www.gitbook.com/book/freebsdfrau/serious-shell-programming/details) — focuses on POSIX-compliant Bourne Shell for portability
 
 ### <a name="scripting-companion"></a>Scripting companion
 
-* [shellcheck](https://www.shellcheck.net/) - linting tool to avoid common mistakes and improve your script
-* [bash FAQ](https://mywiki.wooledge.org/BashFAQ), [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls) - comprehensive lists
+* [shellcheck](https://www.shellcheck.net/) — linting tool to avoid common mistakes and improve your script
+* [bash FAQ](https://mywiki.wooledge.org/BashFAQ), [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls) — comprehensive lists
 * [Google shell style guide](https://google.github.io/styleguide/shell.xml)
 * tips for [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html) and [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
-* [bash reference](https://devmanual.gentoo.org/tools-reference/bash/index.html) - nicely formatted and explained well
+* [bash reference](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
 
 <br>
 
@@ -75,8 +75,8 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
 * [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
-* [explainshell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
-* [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) - also explore different tags like awk, grep, sed, etc
+* [explainshell](https://explainshell.com/) — write down a command-line to see the help text that matches each argument
+* [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — also explore different tags like awk, grep, sed, etc
 
 <br>
 
@@ -88,31 +88,31 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 ### <a name="text-file-processing"></a>Text and File processing
 
-* [Example based tutorial for various cli text processing tools](https://github.com/learnbyexample/Command-line-text-processing)
+* [My example based tutorial for various cli text processing tools](https://github.com/learnbyexample/Command-line-text-processing)
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
 * [Text Processing Commands](https://tldp.org/LDP/abs/html/textproc.html)
 * [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * grep
-    * [200+ GNU grep examples](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_grep.md)
+    * [My book on GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
     * [alvinalexander](https://alvinalexander.com/unix/edu/examples/grep.shtml)
     * [conqueringthecommandline](http://conqueringthecommandline.com/book/grep)
     * [ripgrep](https://blog.burntsushi.net/ripgrep/)
     * [ack/ag](http://conqueringthecommandline.com/book/ack_ag)
 * sed
-    * [350+ GNU sed examples](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_sed.md)
+    * [My book on GNU sed](https://github.com/learnbyexample/learn_gnused)
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
-    * [grymoire](https://www.grymoire.com/Unix/Sed.html) - detailed tutorial, has details on differences between various `sed` versions as well
+    * [grymoire](https://www.grymoire.com/Unix/Sed.html) — detailed tutorial, has details on differences between various `sed` versions as well
     * [sed one liners explained](https://catonmat.net/sed-one-liners-explained-part-one)
     * [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
     * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
 * awk
+    * [My book on GNU awk](https://github.com/learnbyexample/learn_gnuawk)
     * [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents) for complete reference, examples, extensions and more
-    * [250+ GNU awk examples](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md)
     * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
-    * [grymoire](https://www.grymoire.com/Unix/Awk.html) - detailed tutorial, covers information about different `awk` versions as well
+    * [grymoire](https://www.grymoire.com/Unix/Awk.html) — detailed tutorial, covers information about different `awk` versions as well
     * [awk one liners explained](https://catonmat.net/awk-one-liners-explained-part-one)
     * [awk by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
-* [350+ perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md)
+* [My tutorial on perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md)
 * [sort](https://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 * find
     * [alvinalexander](https://alvinalexander.com/unix/edu/examples/find.shtml)
@@ -121,7 +121,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 ### <a name="miscellaneous"></a>Miscellaneous
 
 * [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
-* [Linux Permissions Primer Part I](https://archive.is/2CSlT) - archive copy of catchlinux website
+* [Linux Permissions Primer Part I](https://archive.is/2CSlT) — archive copy of catchlinux website
 * [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps)
 * [htop](https://hisham.hm/htop/index.php?page=main)
 * [crontab examples](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
@@ -132,13 +132,13 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
-* [learn-anything - linux](https://learn-anything.xyz/operating-systems/unix/linux)
+* [learn-anything — linux](https://learn-anything.xyz/operating-systems/unix/linux)
 * [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
 * [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
 * [bash hackers wiki](https://wiki.bash-hackers.org/start)
-* [stronger shell](https://m.odul.us/blog/2015/8/12/stronger-shell) - learnings from Matt Bowen and list of resources
+* [stronger shell](https://m.odul.us/blog/2015/8/12/stronger-shell) — learnings from Matt Bowen and list of resources
 * [bash env variables](https://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
-* Application lists - for audio, video, graphics & design, development, games etc
+* Application lists — for audio, video, graphics & design, development, games etc
     * [arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
     * [alternativeto](https://alternativeto.net/)
     * [GNU packages](https://www.gnu.org/manual/manual.html)
@@ -153,13 +153,14 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 # <a name="forums"></a>Forums
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
 
 * [unix stackexchange](https://unix.stackexchange.com/)
 * [commandline](https://www.reddit.com/r/commandline)
 * [/r/bash](https://www.reddit.com/r/bash)
 * [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
 * [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
-* [/r/linux](https://www.reddit.com/r/linux) - general linux discussion
-* [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) - ubuntu specific as well as general linux topics
+* [/r/linux](https://www.reddit.com/r/linux) — general linux discussion
+* [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — ubuntu specific as well as general linux topics
+* [TuxURLs](https://tuxurls.com/) — Linux news aggregator
 
