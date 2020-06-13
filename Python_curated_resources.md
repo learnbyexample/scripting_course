@@ -6,13 +6,13 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 * [Courses — online video/interactive](#courses-interactive)
 * [Books](#books)
 * [Docs and Cheat-Sheets](#docs-cheat-sheets)
-* [Tips and Tricks](#tips-and-tricks)
+    * [Tips and Tricks](#tips-and-tricks)
+* [Practice sites](#code-practice)
+* [Python Projects](#code-solutions)
 * [In-depth analysis/tutorial of single concept](#indepth-concepts)
 * [Handy tools](#handy-tools)
 * [Further Reading](#further-reading)
 * [Other Python resource lists](#meta-lists)
-* [Practice/Coding Challenge](#code-practice)
-* [Coding Problems/Projects with solution](#code-solutions)
 * [Development Environment](#dev-env)
 * [Forums](#forums)
 
@@ -33,6 +33,7 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 * [Official Python docs tutorial](https://docs.python.org/3/tutorial/)
+* [Intermediate Python](https://book.pythontips.com/en/latest/index.html)
 
 ## Quick Guides
 
@@ -77,15 +78,39 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 
 <br>
 
-# <a name="tips-and-tricks"></a>Tips and Tricks
+## <a name="tips-and-tricks"></a>Tips and Tricks
 
-* [40 handy tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
-* [useful snippets](http://fadymak.com/pages/useful_python_snippets.html)
-* [avoiding common gotchas](https://docs.python-guide.org/writing/gotchas/)
+* [40 handy tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) — published in 2014, so some of the tricks might have newer solutions
+* [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python) — thread locked in 2012
+* [Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [Transforming Code into Beautiful, Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
-* [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
-* [pythontips book](https://book.pythontips.com/en/latest/index.html)
-* One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](https://python-oneliner.readthedocs.org/en/latest/)
+
+<br>
+
+# <a name="code-practice"></a>Practice sites
+
+* [exercism](https://exercism.io/tracks/python/exercises) — beginner friendly
+* [practicepython](https://www.practicepython.org/) — beginner friendly
+* [edabit](https://edabit.com/challenges/python3) — beginner friendly
+* [Auto-Graded Course with Solutions](https://repl.it/community/classrooms/17929) — beginner friendly
+* [codewars](https://www.codewars.com/)
+* [adventofcode](https://adventofcode.com/)
+* [projecteuler](https://projecteuler.net/)
+* [hackerrank](https://www.hackerrank.com/domains/python)
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+* Gamification
+	* [checkio](https://py.checkio.org/)
+    * [codingame](https://www.codingame.com/start)
+	* [codecombat](https://codecombat.com/play/level/dungeons-of-kithgard)
+
+<br>
+
+# <a name="code-solutions"></a>Python Projects
+
+* [Projects on various topics with solutions](https://github.com/karan/Projects-Solutions)
+* [Project based learning](https://github.com/tuvtran/project-based-learning#python)
+* [rosettacode](https://rosettacode.org/wiki/Category:Python)
+* [pytudes by Peter Norvig](https://github.com/norvig/pytudes)
 
 <br>
 
@@ -181,6 +206,7 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 * [curated videos on Python](https://github.com/s16h/py-must-watch)
 * github — [trending Python projects](https://github.com/trending?l=python&since=monthly) and [top devs and repos to follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* One-liners: [#1](http://www.vurt.ru/2013/02/python-command-line-oneliners/), [#2](https://wiki.python.org/moin/Powerful%20Python%20One-Liners), [#3](https://python-oneliner.readthedocs.org/en/latest/)
 
 <br>
 
@@ -195,33 +221,6 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 * [zeef — luis solis](https://python.zeef.com/luis.solis)
 * [messybytes](https://messybytes.wordpress.com/2015/09/02/resources-for-python/)
 * [EDU-SIG: Python in Education](https://www.python.org/community/sigs/current/edu-sig/)
-
-<br>
-
-# <a name="code-practice"></a>Practice/Coding Challenge
-
-* [codewars](https://www.codewars.com/)
-* [adventofcode](https://adventofcode.com/)
-* [runestone.academy](https://runestone.academy/runestone/static/thinkcspy/index.html)
-* [Auto-Graded Course with Solutions](https://repl.it/community/classrooms/17929) 
-* [projecteuler](https://projecteuler.net/)
-* [hackerrank](https://www.hackerrank.com/domains/python)
-* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-* [codingbat](https://codingbat.com/python)
-* [exercism](https://exercism.io/tracks/python)
-* [practicepython](https://www.practicepython.org/)
-* Gamification
-	* [checkio](https://www.checkio.org/)
-    * [codingame](https://www.codingame.com/start)
-	* [codecombat](https://codecombat.com/play/level/dungeons-of-kithgard)
-
-<br>
-
-# <a name="code-solutions"></a>Coding Problems/Projects with solution
-
-* [projects on github](https://github.com/karan/Projects-Solutions)
-* [rosettacode](https://rosettacode.org/wiki/Category:Python)
-* [pytudes by Peter Norvig](https://github.com/norvig/pytudes)
 
 <br>
 
