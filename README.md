@@ -11,12 +11,12 @@ A reference guide to Linux command line, Vim and Scripting
 
 ### Ebooks
 
-* [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions)
-* [JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp)
-* [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
-* [GNU sed](https://github.com/learnbyexample/learn_gnused)
-* [GNU awk](https://github.com/learnbyexample/learn_gnuawk)
-* [Ruby Regexp](https://github.com/learnbyexample/Ruby_Regexp)
+* [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
+* [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
+* [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
+* [GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
+* [GNU sed](https://learnbyexample.github.io/learn_gnused/)
+* [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 
 ### Blog
 
@@ -49,7 +49,7 @@ List of learning resources
 * [Linux](./Linux_curated_resources.md)
 * [Vim](./Vim_curated_resources.md)
 * [Perl](./Perl_curated_resources.md)
-* [Python](./Python_curated_resources.md)
+* [Python](https://learnbyexample.github.io/py_resources/) - includes an intelligent search to find resources based on keywords used in the curated list
 
 See also [Curated Resources](https://github.com/learnbyexample/curated_resources) repo for more lists on programming, books, movies, games, etc
 
