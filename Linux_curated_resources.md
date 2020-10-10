@@ -50,7 +50,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [snipcademy](https://code.snipcademy.com/tutorials/shell-scripting)
 * [learnshell](https://www.learnshell.org/)
 * [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-* [Serious Shell Programming](https://www.gitbook.com/book/freebsdfrau/serious-shell-programming/details) — focuses on POSIX-compliant Bourne Shell for portability
+* [Serious Shell Programming](https://freebsdfrau.gitbook.io/serious-shell-programming/) — focuses on POSIX-compliant Bourne Shell for portability
 
 ### <a name="scripting-companion"></a>Scripting companion
 
