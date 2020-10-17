@@ -1,3 +1,13 @@
+<br>
+
+---
+
+:information_source: :information_source: I have shifted updates to this Python learning resource collection to https://learnbyexample.github.io/py_resources/ which is better organized and includes a handy search feature.
+
+---
+
+<br> <br> <br>
+
 Check out [Getting Started](https://www.python.org/about/gettingstarted/) from Python official website for installation, IDEs, text editors and other details.
 
 # :hash: Table of Contents
