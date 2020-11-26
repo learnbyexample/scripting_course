@@ -20,6 +20,7 @@ Read this [article](http://perl-tutorial.org/learn/) on spotting good and modern
 * Perldoc
     * [simple and concise intro](https://perldoc.perl.org/perlintro)
     * [in-depth tutorials](https://perldoc.perl.org/perl#Tutorials) — categorized by different topics and features
+* [Learning Perl, 7th Edition](https://www.oreilly.com/library/view/learning-perl-7th/9781491954317/)
 * Perl Maven
     * [text tutorial](https://perlmaven.com/perl-tutorial)
     * [video course](https://perlmaven.com/beginner-perl-maven-video-course)
@@ -35,8 +36,8 @@ Read this [article](http://perl-tutorial.org/learn/) on spotting good and modern
 # <a name="code-snippets-and-exercises"></a>Code snippets and exercises
 
 * [rosettacode: snippets/solutions on various programming problems](https://rosettacode.org/wiki/Category:Perl)
-* [My tutorial on Perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md) 
-    * [Perl command line switches](https://perl101.org/command-line-switches.html)
+* [My ebook on Perl one-liners](https://learnbyexample.github.io/learn_perl_oneliners/) 
+    * [Perl Command-Line Options](https://www.perl.com/pub/2004/08/09/commandline.html/)
     * [perldoc: command switches](https://perldoc.perl.org/perlrun#Command-Switches)
 * [catonmat: Perl One-Liners Explained](https://catonmat.net/perl-one-liners-explained-part-one)
 * [stackoverflow: Perl Q&A](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
