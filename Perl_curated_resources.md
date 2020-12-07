@@ -85,11 +85,12 @@ Read this [article](http://perl-tutorial.org/learn/) on spotting good and modern
 
 <br>
 
-# <a name="forums"></a>Forums
+# <a name="forums"></a>Forums, Blogs, Newsletters
 
 * [/r/perl/](https://www.reddit.com/r/perl/)
 * [/r/rakulang/](https://www.reddit.com/r/rakulang/)
 * [stackoverflow: perl](https://stackoverflow.com/tags/perl)
 * [stackoverflow: raku](https://stackoverflow.com/tags/raku)
 * [perlmonks](https://perlmonks.org/)
-
+* [perl.com](https://www.perl.com/) — articles about Perl programming, news and culture
+* [perlweekly](https://perlweekly.com/) — once a week e-mail round-up of hand-picked news and articles about Perl
