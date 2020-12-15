@@ -33,6 +33,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 # <a name="course-interactive"></a>Courses: online video/interactive tutorials
 
 * [linuxjourney](https://linuxjourney.com/)
+* [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
 * [edx](https://www.edx.org/course/introduction-to-linux)
 * [memrise](https://www.memrise.com/course/50252/shell-fu/)
