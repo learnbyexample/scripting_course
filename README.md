@@ -19,7 +19,8 @@ A reference guide to Linux command line, Vim and Scripting
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
-* [Practice Python Projects](https://github.com/learnbyexample/practice_python_projects)
+* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro) - *work-in-progress*
+* [Practice Python Projects](https://github.com/learnbyexample/practice_python_projects) - *work-in-progress*
 
 ### Blog
 
