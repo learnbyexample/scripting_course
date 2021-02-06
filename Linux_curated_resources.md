@@ -92,6 +92,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 
 * [My example based tutorial for various cli text processing tools](https://github.com/learnbyexample/Command-line-text-processing)
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
+* [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
 * [Text Processing Commands](https://tldp.org/LDP/abs/html/textproc.html)
 * [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
 * grep
@@ -114,7 +115,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [grymoire](https://www.grymoire.com/Unix/Awk.html) — detailed tutorial, covers information about different `awk` versions as well
     * [awk one liners explained](https://catonmat.net/awk-one-liners-explained-part-one)
     * [Awk by Example Part 1](https://www.funtoo.org/Awk_by_Example,_Part_1), [Part 2](https://www.funtoo.org/Awk_by_Example,_Part_2), [Part 3](https://www.funtoo.org/Awk_by_Example,_Part_3)
-* [My tutorial on perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md)
+* [My book on Perl one-liners](https://learnbyexample.github.io/learn_perl_oneliners/)
 * [sort](https://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
 * find
     * [alvinalexander](https://alvinalexander.com/unix/edu/examples/find.shtml)
