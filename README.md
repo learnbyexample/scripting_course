@@ -11,6 +11,7 @@ A reference guide to Linux command line, Vim and Scripting
 
 ### Ebooks
 
+* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro)
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
@@ -19,7 +20,6 @@ A reference guide to Linux command line, Vim and Scripting
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
-* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro) - *work-in-progress*
 * [Practice Python Projects](https://github.com/learnbyexample/practice_python_projects) - *work-in-progress*
 
 ### Blog
