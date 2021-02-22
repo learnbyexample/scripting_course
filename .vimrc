@@ -1,4 +1,11 @@
-" tested on Vim version 7.4, some mappings work in gvim only
+" tested on Vim version 8, some mappings work in gvim only
+" see also: https://github.com/vim/vim/blob/master/runtime/defaults.vim
+set nocompatible
+set backspace=indent,eol,start
+set ruler
+" Ctrl-A and Ctrl-X won't treat number with leading zeros as octal
+set nrformats-=octal
+
 
 " ----- General Settings -----
 " history limit
@@ -7,11 +14,15 @@ set history=500
 set nobackup
 " Don't create swap files
 set noswapfile
-" Dark theme
-colorscheme murphy
+" murphy is another theme I like
+colorscheme peachpuff
 " show partial Normal mode command as they are typed on Command Line
 " show character/line/block selection in Visual mode on Command Line
 set showcmd
+" some vulnerability
+set nomodeline
+" syntax
+syn on
 
 " first tab hit will complete as much as possible
 " second tab hit will provide a list
@@ -57,7 +68,7 @@ nnoremap <silent> <Space> :noh<CR><Space>
 " Map F2 key to save file in command mode
 nnoremap #2 :w<CR>
 " Map F2 key to save file in insert mode
-inoremap <F2> <Esc>:w<CR>a
+inoremap <F2> <C-o>:w<CR>
 " Map F3 key to save and quit file in command mode
 nnoremap #3 :wq<CR>
 " Map F4 key to clear file contents in command mode
@@ -72,8 +83,6 @@ nnoremap <A-3> 3gt
 nnoremap <A-4> 4gt
 nnoremap <A-5> 5gt
 
-" Map F2 key to save file in insert mode
-inoremap <F2> <C-o>:w<CR>
 " Ctrl+e to move to end of word
 inoremap <C-e> <Esc>ea
 " Ctrl+b to move to beginning of word
@@ -98,8 +107,6 @@ inoremap <C-l> <C-x><C-l>
 " use strict;
 " use warnings;
 inoreabbrev p #!/usr/bin/perl<CR>use strict;<CR>use warnings;<CR>
-" py2 for python
-inoreabbrev py2 #!/usr/bin/python
 " py for python3
 inoreabbrev py #!/usr/bin/python3
 " auto correct teh as the
@@ -140,7 +147,7 @@ set suffixesadd+=.v,.V,.sv,.SV
 " gvim customization - no menubar/Toolbar, set font and size
 set guioptions-=m
 set guioptions-=T
-set guifont=Monospace\ 12
+set guifont=Monospace\ 14
 
 
 " Other useful vimrcs and links

@@ -1,24 +1,8 @@
-Handful of useful resources for Linux command line and bash shell scripting
+# Linux CLI and Shell scripting
 
-Guide to choosing your Linux Distribution, list of applications, etc: [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions) and [computefreely](https://computefreely.org/)
+Collection of resources for Linux command line, shell scripting (mostly `bash`) and a few on topics like Linux Kernel, distributions, applications, etc.
 
-# :hash: Table of Contents
-
-* [Courses: online text tutorials](#course-text)
-* [Courses: online video/interactive tutorials](#course-interactive)
-* [Shell Scripting](#shell-scripting)
-    * [Scripting companion](#scripting-companion)
-* [Books](#books)
-* [Tips and Tricks](#tips-and-tricks)
-* [Resources for specific commands](#specific-commands)
-    * [Text and File processing](#text-file-processing)
-    * [Miscellaneous](#miscellaneous)
-* [Further Reading](#further-reading)
-* [Forums](#forums)
-
-<br>
-
-# <a name="course-text"></a>Courses: online text tutorials
+## CLI text tutorials
 
 * [ryanstutorial](https://ryanstutorials.net/linuxtutorial/)
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide)
@@ -28,9 +12,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [linux basics](https://miteshshah.github.io/linux/basics/)
 * [learnenough](https://www.learnenough.com/command-line-tutorial/basics)
 
-<br>
-
-# <a name="course-interactive"></a>Courses: online video/interactive tutorials
+## CLI video and interactive courses
 
 * [linuxjourney](https://linuxjourney.com/)
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
@@ -38,11 +20,9 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [edx](https://www.edx.org/course/introduction-to-linux)
 * [memrise](https://www.memrise.com/course/50252/shell-fu/)
 * [shortcutfoo](https://www.shortcutfoo.com/app/dojos/command-line)
-* [youtube — command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
+* [youtube: command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
 
-<br>
-
-# <a name="shell-scripting"></a>Shell Scripting
+## Shell Scripting
 
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 * [ryanstutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
@@ -53,26 +33,28 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Serious Shell Programming](https://freebsdfrau.gitbook.io/serious-shell-programming/) — focuses on POSIX-compliant Bourne Shell for portability
 
-### <a name="scripting-companion"></a>Scripting companion
+### Scripting companion
 
 * [shellcheck](https://www.shellcheck.net/) — linting tool to avoid common mistakes and improve your script
-* [bash FAQ](https://mywiki.wooledge.org/BashFAQ), [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices) and [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls) — comprehensive lists
+* Comprehensive lists on `mywiki.wooledge.org` website:
+    * [bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+    * [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices)
+    * [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 * [Google shell style guide](https://google.github.io/styleguide/shell.xml)
-* tips for [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) and [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html) and [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
-* [bash reference](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
+* Reliability and robustness
+    * [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+    * [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html)
+    * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
+* [bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
 
-<br>
-
-# <a name="books"></a>Books
+## Books
 
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 * [Unix for beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf)
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
-<br>
-
-# <a name="tips-and-tricks"></a>Tips and Tricks
+## Tips and Tricks
 
 * [art of command line](https://github.com/jlevy/the-art-of-command-line)
 * [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
@@ -80,15 +62,13 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — also explore different tags like awk, grep, sed, etc
 * [tldr](https://tldr.sh/) — Simplified and community-driven man pages
 
-<br>
-
-# <a name="specific-commands"></a>Resources for specific commands
+## Resources for specific commands
 
 * [Linux Commands In Structured Order](https://linoxide.com/guide/linux-command-shelf.html)
 * [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
 * [general purpose command line tools](http://www.compciv.org/unix-tools/)
 
-### <a name="text-file-processing"></a>Text and File processing
+### Text and File processing
 
 * [My example based tutorial for various cli text processing tools](https://github.com/learnbyexample/Command-line-text-processing)
 * [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
@@ -121,7 +101,7 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
     * [alvinalexander](https://alvinalexander.com/unix/edu/examples/find.shtml)
     * [conqueringthecommandline](http://conqueringthecommandline.com/book/find)
 
-### <a name="miscellaneous"></a>Miscellaneous
+### Miscellaneous
 
 * [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
 * [Linux Permissions Primer Part I](https://archive.is/2CSlT) — archive copy of catchlinux website
@@ -129,32 +109,29 @@ Guide to choosing your Linux Distribution, list of applications, etc: [awesome-l
 * [htop](https://peteris.rocks/blog/htop/) — detailed tutorial
 * [crontab examples](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
 
-<br>
-
-# <a name="further-reading"></a>Further Reading
+## Further Reading
 
 * [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
 * [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
-* [learn-anything — linux](https://learn-anything.xyz/operating-systems/unix/linux)
+* [learn-anything: linux](https://learn-anything.xyz/operating-systems/unix/linux)
 * [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
 * [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
 * [bash hackers wiki](https://wiki.bash-hackers.org/start)
 * [stronger shell](https://m.odul.us/blog/2015/8/12/stronger-shell) — learnings from Matt Bowen and list of resources
 * [bash env variables](https://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
+* Guide to choosing your Linux Distribution, list of applications, etc:
+    * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
+    * [computefreely](https://computefreely.org/)
 * Application lists — for audio, video, graphics & design, development, games etc
     * [arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
     * [alternativeto](https://alternativeto.net/)
     * [GNU packages](https://www.gnu.org/manual/manual.html)
-    * [youtube-dl](https://github.com/rg3/youtube-dl/)
-    * [qutebrowser](https://qutebrowser.org/)
 * Linux/Bash on Windows
     * [git-bash](https://gitforwindows.org/)
     * [cygwin](https://www.cygwin.com/)
-    * [Linux Subsystem for Windows by Microsoft](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+    * [Linux Subsystem for Windows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
 
-<br>
-
-# <a name="forums"></a>Forums
+## Forums
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
 

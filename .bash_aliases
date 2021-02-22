@@ -31,7 +31,7 @@ a s='du -sh * | sort -h'
 # tip, add a comment to end of command before saving, ex: ls --color=auto # colored ls output
 a sl='fc -ln -1 | sed "s/^\s*//" >> ~/.saved_commands.txt'
 # short-cut to grep that file
-a slg='< ~/.command_examples.txt grep'
+a slg='< ~/.saved_commands.txt grep'
 
 # change ascii alphabets to unicode bold characters
 a ascii2bold="perl -Mopen=locale -Mutf8 -pe 'tr/a-zA-Z/𝗮-𝘇𝗔-𝗭/'"
@@ -44,6 +44,10 @@ ch() { whatis $1; man $1 | sed -n "/^\s*$2/,/^$/p" ; }
 # add path to filename(s)
 # usage: ap file1 file2 etc
 ap() { for f in "$@"; do echo "$PWD/$f"; done; }
+
+# simple case-insensitive file search based on name
+# remove '-type f' if you want to match directories as well
+fs() { find -type f -iname '*'"$@"'*' ; }
 
 # open files with default application, don't print output/error messages
 # useful for opening docs, pdfs, images, etc from command line

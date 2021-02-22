@@ -13,5 +13,5 @@ set show-all-if-ambiguous on
 set echo-control-characters off
 
 # further reading
-# http://www.gnu.org/software/bash/manual/html_node/Sample-Init-File.html#Sample-Init-File
-# http://www.linuxfromscratch.org/blfs/view/5.1/postlfs/inputrc.html
+# https://www.gnu.org/software/bash/manual/html_node/Sample-Init-File.html#Sample-Init-File
+# https://wiki.archlinux.org/index.php/readline
