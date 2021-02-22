@@ -2,16 +2,17 @@
 
 A reference guide to Linux command line, Vim and Scripting
 
-* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting
-* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
-* [Python Basics](https://github.com/learnbyexample/Python_Basics) - Syntax, working with Shell commands, Files, Text Processing, and more...
-* [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) - examples based tutorial for Ruby scripting
-* [Vim Reference](https://github.com/learnbyexample/vim_reference) - Vim reference guide for beginner to intermediate users
-* [Perl Introduction](https://github.com/learnbyexample/Perl_intro) - Introductory course for Perl 5 through examples, geared towards VLSI engineers
+* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) — Introduction to Linux commands and Shell scripting
+* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more
+* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro) — short, introductory guide for those already familiar with programming basics
+    * See [Python Basics](https://github.com/learnbyexample/Python_Basics) for an older guide
+* [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) — examples based tutorial for Ruby scripting
+* [Vim Reference](https://github.com/learnbyexample/vim_reference) — Vim reference guide for beginner to intermediate users
+* [Perl Introduction](https://github.com/learnbyexample/Perl_intro) — Introductory course for Perl 5 through examples, geared towards VLSI engineers
 
 ### Ebooks
 
-* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro)
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro)
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
@@ -20,7 +21,7 @@ A reference guide to Linux command line, Vim and Scripting
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
-* [Practice Python Projects](https://github.com/learnbyexample/practice_python_projects) - *work-in-progress*
+* [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects) — *work-in-progress*
 
 ### Blog
 
@@ -35,33 +36,32 @@ https://learnbyexample.github.io/
   * [Porteus_32bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUYy1QZG1NX2xyYVk)
   * [Porteus_64bit.iso](https://drive.google.com/open?id=0B7SzVctdXWlUV3kyNlhMU29PMUk)
   * Both the builds have a folder at `/tmp/useful_files/` which contains dot files (to be copied to home directory) and handful of Perl and Python 3 programs for learning purposes
-  * The default passwords are `toor` for root and `guest` for guest - [Porteus FAQ](http://www.porteus.org/faq.html)
+  * The default passwords are `toor` for root and `guest` for guest — [Porteus FAQ](http://www.porteus.org/faq.html)
 * If you get errors like **kernel panic**, you might have to [Enable Intel VT-x in Your Computer’s BIOS or UEFI Firmware](https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/)
 
 **Further Reading** Guide to choosing your Linux Distribution, installation, list of applications, etc
 * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
 * [computefreely](https://computefreely.org/)
-* [Arch wiki - list of applications](https://wiki.archlinux.org/index.php/List_of_applications)
-* [alternativeto - Crowdsourced software recommendations](https://alternativeto.net/)
+* [Arch wiki: list of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+* [alternativeto: Crowdsourced software recommendations](https://alternativeto.net/)
 
 <br>
 
 ## Curated resources
 
-List of learning resources
+Collection of learning resources, includes an intelligent search feature to find resources based on keywords used in these lists
 
-* [Linux](./Linux_curated_resources.md)
-* [Vim](./Vim_curated_resources.md)
-* [Perl](./Perl_curated_resources.md)
-* [Python](https://learnbyexample.github.io/py_resources/) - includes an intelligent search to find resources based on keywords used in the curated list
-
-See also [Curated Resources](https://github.com/learnbyexample/curated_resources) repo for more lists on programming, books, movies, games, etc
+* [Computer Science and Programming](https://learnbyexample.github.io/curated_resources/cs_programming.html)
+* [Python](https://learnbyexample.github.io/py_resources/)
+* [Linux CLI and Shell scripting](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
+* [Vim](https://learnbyexample.github.io/curated_resources/vim.html)
+* [Perl](https://learnbyexample.github.io/curated_resources/perl.html)
 
 <br>
 
 ## dot files
 
-Do NOT copy bash and vim customization files (files starting with .) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary
+Do NOT copy bash and vim customization files (files starting with `.`) directly to your home directory. You might overwrite useful settings already present. Understand them and add as necessary.
 
 <br>
 
