@@ -2,15 +2,9 @@
 
 A reference guide to Linux command line, Vim and Scripting
 
-* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) — Introduction to Linux commands and Shell scripting
-* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more
-* [100 Page Python Intro](https://github.com/learnbyexample/100_page_python_intro) — short, introductory guide for those already familiar with programming basics
-    * See [Python Basics](https://github.com/learnbyexample/Python_Basics) for an older guide
-* [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) — examples based tutorial for Ruby scripting
-* [Vim Reference](https://github.com/learnbyexample/vim_reference) — Vim reference guide for beginner to intermediate users
-* [Perl Introduction](https://github.com/learnbyexample/Perl_intro) — Introductory course for Perl 5 through examples, geared towards VLSI engineers
-
 ### Ebooks
+
+Free to read online versions:
 
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro)
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
@@ -22,6 +16,17 @@ A reference guide to Linux command line, Vim and Scripting
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
 * [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects) — *work-in-progress*
+
+:information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://gumroad.com/learnbyexample) or [Leanpub](https://leanpub.com/u/learnbyexample)
+
+### Ebook drafts
+
+* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) — Introduction to Linux commands and Shell scripting
+* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more
+* [Python Basics](https://github.com/learnbyexample/Python_Basics) — older version of *100 Page Python Intro*
+* [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) — examples based tutorial for Ruby scripting
+* [Vim Reference](https://github.com/learnbyexample/vim_reference) — Vim reference guide for beginner to intermediate users
+* [Perl Introduction](https://github.com/learnbyexample/Perl_intro) — Introductory course for Perl 5 through examples, geared towards VLSI engineers
 
 ### Blog
 
@@ -56,6 +61,7 @@ Collection of learning resources, includes an intelligent search feature to find
 * [Linux CLI and Shell scripting](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
 * [Vim](https://learnbyexample.github.io/curated_resources/vim.html)
 * [Perl](https://learnbyexample.github.io/curated_resources/perl.html)
+* [Git and GitHub](https://learnbyexample.github.io/curated_resources/git_and_github.html)
 
 <br>
 
