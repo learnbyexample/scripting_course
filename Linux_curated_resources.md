@@ -45,13 +45,16 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     * [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html)
     * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
-* [bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
+* [Bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
+* [Bash scripting cheatsheet](https://devhints.io/bash)
 
 ## Books
 
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-* [Unix for beginning Mage](http://unixmages.com/wp-content/uploads/2018/12/ufbm.pdf)
+* [wizardzines](https://wizardzines.com/) — [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
+* [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895)
+* [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/)
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
 ## Tips and Tricks
