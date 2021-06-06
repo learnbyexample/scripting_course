@@ -91,6 +91,7 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 ## <a name="tips-and-tricks"></a>Tips and Tricks
 
 * [40 handy tricks](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) — published in 2014, so some of the tricks might have newer solutions
+* [100 Python Tips and Tricks](https://holypython.com/100-python-tips-tricks/)
 * [Python tips and features on Stackoverflow](https://stackoverflow.com/questions/101268/hidden-features-of-python) — thread locked in 2012
 * [Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [Transforming Code into Beautiful, Idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python) which is based on this [video](https://www.youtube.com/watch?feature=player_embedded&v=OSGv2VnC0go)
@@ -103,6 +104,7 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 * [practicepython](https://www.practicepython.org/) — beginner friendly
 * [edabit](https://edabit.com/challenges/python3) — beginner friendly
 * [Auto-Graded Course with Solutions](https://repl.it/community/classrooms/17929) — beginner friendly
+* [Python Exercises](https://holypython.com) — beginner, intermediate and advanced python exercises
 * [codewars](https://www.codewars.com/)
 * [adventofcode](https://adventofcode.com/)
 * [projecteuler](https://projecteuler.net/)
@@ -161,6 +163,7 @@ Check out [Getting Started](https://www.python.org/about/gettingstarted/) from P
 	* [stackoverflow: comprehensive list of regex FAQ](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean) and [stackoverflow: regex overview](https://stackoverflow.com/tags/regex/info) 
     * [regex101](https://regex101.com/) — visual aid and online testing tool for regular expressions, select flavor as Python before use
     * [debuggex](https://www.debuggex.com) — railroad diagrams for regular expressions, select flavor as Python before use
+    * [HolyPython/Regex](https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/) — Regular Expression Exercises with Python
 * [string formatting](https://pyformat.info/#simple)
 * [working with binary data](https://www.devdungeon.com/content/working-binary-data-python) 
 * [Python Q&A on stackoverflow](https://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=15)
