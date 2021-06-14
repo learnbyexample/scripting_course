@@ -54,8 +54,8 @@ set incsearch
 " Highlight search patterns
 set hlsearch
 " search visually selected text
-vnoremap * y/<C-R>"<CR>
-vnoremap # y?<C-R>"<CR>
+xnoremap * y/<C-R>"<CR>
+xnoremap # y?<C-R>"<CR>
 " to always use magic mode, uncomment following 2 lines
 " nnoremap / /\v
 " nnoremap ? ?\v

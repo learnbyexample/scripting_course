@@ -2,6 +2,9 @@
 
 Collection of resources for Linux command line, shell scripting (mostly `bash`) and a few on topics like Linux Kernel, distributions, applications, etc.
 
+* [Linux man pages](https://www.mankier.com/) — one of several websites that host man pages online
+* [ArchWiki](https://wiki.archlinux.org/title/Table_of_contents) — comprehensive documentation for Arch Linux and other distributions
+
 ## CLI text tutorials
 
 * [ryanstutorial](https://ryanstutorials.net/linuxtutorial/)
@@ -54,6 +57,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 * [wizardzines](https://wizardzines.com/) — [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
 * [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895)
+* [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3)
 * [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/)
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
@@ -126,7 +130,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
     * [computefreely](https://computefreely.org/)
 * Application lists — for audio, video, graphics & design, development, games etc
-    * [arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
+    * [Arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
     * [alternativeto](https://alternativeto.net/)
     * [GNU packages](https://www.gnu.org/manual/manual.html)
 * Linux/Bash on Windows

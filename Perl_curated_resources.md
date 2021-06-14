@@ -29,6 +29,7 @@ I wrote an ebook specifically for [Perl one-liners](https://learnbyexample.githu
 
 ## Code snippets, articles and exercises
 
+* [Perl can do that now!](https://phoenixtrap.com/2021/05/25/perl-can-do-that-now/) — highlight of changes from Perl 5.10 to 5.34
 * [Rosettacode: snippets/solutions on various programming problems](https://rosettacode.org/wiki/Category:Perl)
 * [Perl Command-Line Options](https://www.perl.com/pub/2004/08/09/commandline.html/)
 * [catonmat: Perl one-liners explained](https://catonmat.net/perl-one-liners-explained-part-one)
@@ -57,6 +58,7 @@ I wrote an ebook specifically for [Perl one-liners](https://learnbyexample.githu
 ## Reading lists
 
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) — curated list of awesome Perl5 frameworks, libraries and software
+* [perlres](https://github.com/thibaultduponchelle/perlres) — list of resources about Perl
 * [bioperl](https://bioperl.org/howtos/index.html) — practical descriptions of BioPerl modules with a focus on common tasks
 
 ## Raku

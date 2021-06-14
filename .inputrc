@@ -1,3 +1,6 @@
+# Uncomment below line for issues like https://bbs.archlinux.org/viewtopic.php?id=112537
+#$include /etc/inputrc
+
 # use up and down arrow to match search history based on typed starting text
 "\e[A": history-search-backward
 "\e[B": history-search-forward
@@ -12,6 +15,7 @@ set show-all-if-ambiguous on
 # don't display characters like Ctrl+c when used on readline
 set echo-control-characters off
 
-# further reading
+# Further reading
 # https://www.gnu.org/software/bash/manual/html_node/Sample-Init-File.html#Sample-Init-File
-# https://wiki.archlinux.org/index.php/readline
+# https://wiki.archlinux.org/title/readline
+

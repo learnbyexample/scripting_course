@@ -75,5 +75,5 @@ Read instructions provided by respective forums before asking a question. Try so
 
 * [vi stackexchange](https://vi.stackexchange.com/)
 * [/r/vim](https://www.reddit.com/r/vim/)
-* [#vim IRC](https://webchat.freenode.net/#vim)
+* [#vim IRC](irc://irc.libera.chat/vim)
 
