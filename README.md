@@ -6,7 +6,7 @@ A reference guide to Linux command line, Vim and Scripting
 
 Free to read online versions:
 
-* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro)
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
@@ -15,9 +15,9 @@ Free to read online versions:
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
-* [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects) — *work-in-progress*
+* [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
 
-:information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://gumroad.com/learnbyexample) or [Leanpub](https://leanpub.com/u/learnbyexample)
+:information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
 
 ### Ebook drafts
 
