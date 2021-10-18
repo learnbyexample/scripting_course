@@ -2,152 +2,120 @@
 
 Collection of resources for Linux command line, shell scripting (mostly `bash`) and a few on topics like Linux Kernel, distributions, applications, etc.
 
+## Installation and Documentation
+
+>A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution) — [wikipedia](https://en.wikipedia.org/wiki/Linux_distribution)
+
+* [/r/linux4noobs wiki](https://www.reddit.com/r/linux4noobs/wiki/distro_selection) — Linux distribution selection for noobs
+* [Compute Freely](https://computefreely.org/) — curated selection of Linux distributions ranging from the beginner-friendly to the super technical
+* Linux/Bash on Windows
+    * [Git for Windows](https://git-scm.com/downloads) — provides a Bash emulation used to run Git from the command line
+    * [Cygwin](https://www.cygwin.com/) — large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows
+    * [Linux Subsystem for Windows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) — compatibility layer for running Linux binary executables natively on Windows
 * [Linux man pages](https://www.mankier.com/) — one of several websites that host man pages online
 * [ArchWiki](https://wiki.archlinux.org/title/Table_of_contents) — comprehensive documentation for Arch Linux and other distributions
+* [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) — broad overview of the Debian system, covers many aspects of system administration through shell-command examples
 
 ## CLI text tutorials
 
-* [ryanstutorial](https://ryanstutorials.net/linuxtutorial/)
-* [Bash Guide](https://mywiki.wooledge.org/BashGuide)
-* [snipcademy](https://code.snipcademy.com/tutorials/linux-command-line)
-* [linuxcommand](https://linuxcommand.org/lc3_learning_the_shell.php)
-* [basics of linux commands](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-* [linux basics](https://miteshshah.github.io/linux/basics/)
-* [learnenough](https://www.learnenough.com/command-line-tutorial/basics)
+* [Linux for Beginners](https://ryanstutorials.net/linuxtutorial/) — solid foundation in how to use the terminal, to get the computer to do useful work for you
+* [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) — eight simple tutorials which cover the basics of UNIX / Linux commands
+* [Linux Basics](https://miteshshah.github.io/linux/basics/) — cli basics, shell scripting, text processing, package management, etc
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) — a tutorial introduction to the command line
 
 ## CLI video and interactive courses
 
-* [linuxjourney](https://linuxjourney.com/)
+* [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
-* [udacity](https://www.udacity.com/course/linux-command-line-basics--ud595)
-* [edx](https://www.edx.org/course/introduction-to-linux)
-* [memrise](https://www.memrise.com/course/50252/shell-fu/)
-* [shortcutfoo](https://www.shortcutfoo.com/app/dojos/command-line)
-* [youtube: command line basics](https://www.youtube.com/watch?v=bE9DyH43C2I&list=PLVqGqrTs4ZWOhcApSWYIX_rnPMZDAClJa)
+* [edx: Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
 
 ## Shell Scripting
 
-* [Bash Guide](https://mywiki.wooledge.org/BashGuide)
-* [ryanstutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
-* [bash handbook](https://github.com/denysdovhan/bash-handbook)
-* [writing shell scripts](https://linuxcommand.org/lc3_writing_shell_scripts.php)
-* [snipcademy](https://code.snipcademy.com/tutorials/shell-scripting)
-* [learnshell](https://www.learnshell.org/)
-* [bash shell scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Bash Guide](https://mywiki.wooledge.org/BashGuide) — aspires to teach good practice techniques for using Bash, and writing simple scripts
+* [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) — solid foundation in how to write Bash scripts, to get the computer to do complex, repetitive tasks for you
+* [bash-handbook](https://github.com/denysdovhan/bash-handbook) — for those who want to learn Bash without diving in too deeply
 * [Serious Shell Programming](https://freebsdfrau.gitbook.io/serious-shell-programming/) — focuses on POSIX-compliant Bourne Shell for portability
 
 ### Scripting companion
 
 * [shellcheck](https://www.shellcheck.net/) — linting tool to avoid common mistakes and improve your script
 * Comprehensive lists on `mywiki.wooledge.org` website:
-    * [bash FAQ](https://mywiki.wooledge.org/BashFAQ)
-    * [bash Practices](https://mywiki.wooledge.org/BashGuide/Practices)
-    * [bash pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-* [Google shell style guide](https://google.github.io/styleguide/shell.xml)
+    * [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+    * [Bash Practices](https://mywiki.wooledge.org/BashGuide/Practices)
+    * [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+* [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
 * Reliability and robustness
     * [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     * [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html)
     * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
-* [Bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
-* [Bash scripting cheatsheet](https://devhints.io/bash)
 
 ## Books
 
-* [Bash Guide](https://mywiki.wooledge.org/BashGuide)
-* [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-* [wizardzines](https://wizardzines.com/) — [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
-* [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895)
-* [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3)
-* [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/)
-* [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
+* [wizard zines](https://wizardzines.com/) — programming zines
+    * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
+* [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895) — basic operations, server management, administration, automated deployment, etc
+* [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
+* [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
+* [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
 
 ## Tips and Tricks
 
-* [art of command line](https://github.com/jlevy/the-art-of-command-line)
-* [command line tricks](https://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) — notes and tips on using the command-line, suitable for both beginners and experienced users
+* [stackoverflow: Command line tricks](https://stackoverflow.com/q/68372/4082052)
+* [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — command-line gems, includes a handy search feature
+
+## Cheatsheets
+
+* [tldr](https://github.com/tldr-pages/tldr) — collection of community-maintained help pages for command-line tools
 * [explainshell](https://explainshell.com/) — write down a command-line to see the help text that matches each argument
-* [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — also explore different tags like awk, grep, sed, etc
-* [tldr](https://tldr.sh/) — Simplified and community-driven man pages
+* [General purpose command-line tools](http://www.compciv.org/unix-tools/) — examples for most common usecases
+* [Bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
+* [Bash scripting cheatsheet](https://devhints.io/bash) — quick reference to getting started with Bash scripting
 
-## Resources for specific commands
+## Text processing
 
-* [Linux Commands In Structured Order](https://linoxide.com/guide/linux-command-shelf.html)
-* [discussion on useful Linux commands](https://www.reddit.com/r/linuxadmin/comments/1x0ql2/whats_a_linux_command_you_wish_you_had_known/)
-* [general purpose command line tools](http://www.compciv.org/unix-tools/)
-
-### Text and File processing
-
-* [My example based tutorial for various cli text processing tools](https://github.com/learnbyexample/Command-line-text-processing)
-* [All about replacing strings in file(s)](https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)
+* Books I've written (or currently working upon):
+    * [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
+    * [GNU sed one-liners](https://github.com/learnbyexample/learn_gnused)
+    * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
+    * [Perl one-liners](https://github.com/learnbyexample/learn_perl_oneliners)
+    * [Ruby one-liners](https://github.com/learnbyexample/learn_ruby_oneliners)
+    * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
+    * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
+* [unix.stackexchange: learning resources for grep, sed and awk](https://unix.stackexchange.com/q/2434/109046)
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
-* [Text Processing Commands](https://tldp.org/LDP/abs/html/textproc.html)
-* [ad-hoc data analysis](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line)
-* grep
-    * [My book on GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
-    * [alvinalexander](https://alvinalexander.com/unix/edu/examples/grep.shtml)
-    * [conqueringthecommandline](http://conqueringthecommandline.com/book/grep)
-    * [ripgrep](https://blog.burntsushi.net/ripgrep/)
-    * [ack/ag](http://conqueringthecommandline.com/book/ack_ag)
-* sed
-    * [My book on GNU sed](https://learnbyexample.github.io/learn_gnused/)
-    * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/sed/introduction)
-    * [grymoire](https://www.grymoire.com/Unix/Sed.html) — detailed tutorial, has details on differences between various `sed` versions as well
-    * [sed one liners explained](https://catonmat.net/sed-one-liners-explained-part-one)
-    * [Sed by Example Part 1](https://www.funtoo.org/Sed_by_Example,_Part_1), [Part 2](https://www.funtoo.org/Sed_by_Example,_Part_2), [Part 3](https://www.funtoo.org/Sed_by_Example,_Part_3)
-    * [Learning Linux Commands: sed](https://linuxconfig.org/learning-linux-commands-sed)
-* awk
-    * [My book on GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
-    * [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents) for complete reference, examples, extensions and more
-    * [gentle intro](https://code.snipcademy.com/tutorials/shell-scripting/awk/introduction)
-    * [grymoire](https://www.grymoire.com/Unix/Awk.html) — detailed tutorial, covers information about different `awk` versions as well
-    * [awk one liners explained](https://catonmat.net/awk-one-liners-explained-part-one)
-    * [Awk by Example Part 1](https://www.funtoo.org/Awk_by_Example,_Part_1), [Part 2](https://www.funtoo.org/Awk_by_Example,_Part_2), [Part 3](https://www.funtoo.org/Awk_by_Example,_Part_3)
-* [My book on Perl one-liners](https://learnbyexample.github.io/learn_perl_oneliners/)
-* [sort](https://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
-* find
-    * [alvinalexander](https://alvinalexander.com/unix/edu/examples/find.shtml)
-    * [conqueringthecommandline](http://conqueringthecommandline.com/book/find)
 
-### Miscellaneous
+## Miscellaneous
 
 * [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
-* [Linux Permissions Primer Part I](https://archive.is/2CSlT) — archive copy of catchlinux website
-* [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps)
-* [htop](https://peteris.rocks/blog/htop/) — detailed tutorial
-* [crontab examples](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
+* [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
+* [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
+* [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
 
 ## Further Reading
 
-* [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/)
-* [command line Q&A](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
-* [learn-anything: linux](https://learn-anything.xyz/operating-systems/unix/linux)
-* [awesome linux resources](https://github.com/itech001/awesome-linux-resources)
-* [awesome shell resources](https://github.com/alebcay/awesome-shell) and [awesome bash](https://github.com/awesome-lists/awesome-bash)
-* [bash hackers wiki](https://wiki.bash-hackers.org/start)
-* [stronger shell](https://m.odul.us/blog/2015/8/12/stronger-shell) — learnings from Matt Bowen and list of resources
-* [bash env variables](https://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/)
-* Guide to choosing your Linux Distribution, list of applications, etc:
-    * [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux#distributions)
-    * [computefreely](https://computefreely.org/)
-* Application lists — for audio, video, graphics & design, development, games etc
-    * [Arch wiki](https://wiki.archlinux.org/index.php/List_of_applications)
-    * [alternativeto](https://alternativeto.net/)
-    * [GNU packages](https://www.gnu.org/manual/manual.html)
-* Linux/Bash on Windows
-    * [git-bash](https://gitforwindows.org/)
-    * [cygwin](https://www.cygwin.com/)
-    * [Linux Subsystem for Windows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+* [Unix as IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+* [unix.stackexchange: command-line Q&A sorted by votes](https://unix.stackexchange.com/questions/tagged/command-line?sort=votes&pageSize=15)
+* Resource lists
+    * [learn-anything: Linux](https://learn-anything.xyz/operating-systems/unix/linux)
+    * [Awesome Linux resources](https://github.com/itech001/awesome-linux-resources)
+    * [Awesome Shell resources](https://github.com/alebcay/awesome-shell)
+    * [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+* Application lists for audio, video, graphics & design, development, games etc
+    * [Arch wiki](https://wiki.archlinux.org/title/List_of_applications) — general list of applications sorted by category, as a reference for those looking for packages
+    * [AlternativeTo](https://alternativeto.net/) — crowdsourced software recommendations
+    * [GNU packages](https://www.gnu.org/manual/manual.html) — find a tool based on categories
 
 ## Forums
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
 
-* [unix stackexchange](https://unix.stackexchange.com/)
-* [commandline](https://www.reddit.com/r/commandline)
+* [unix.stackexchange](https://unix.stackexchange.com/)
+* [/r/commandline](https://www.reddit.com/r/commandline)
 * [/r/bash](https://www.reddit.com/r/bash)
 * [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
 * [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
 * [/r/linux](https://www.reddit.com/r/linux) — general linux discussion
-* [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — ubuntu specific as well as general linux topics
+* [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
-
