@@ -38,6 +38,12 @@ https://learnbyexample.github.io/ — my super duper awesome programming blog
 
 <br>
 
+## Newsletter
+
+[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, deals and more, delivered every Friday
+
+<br>
+
 ## Curated resources
 
 Here's my collection of learning resources. Thanks to [mdBook](https://github.com/rust-lang/mdBook), these lists also have an intelligent search feature to find resources based on keywords.
