@@ -15,11 +15,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [Vim primer](https://danielmiessler.com/study/vim/) — learn Vim in a way that will stay with you for life
 * [Vim galore](https://github.com/mhinz/vim-galore/blob/master/README.md) — everything you need to know about Vim
 * [Learn Vim progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) — short introduction that covers a lot 
-* *Vim from the ground up* article series:
-    * [Vim for Beginners](https://thevaluable.dev/vim-beginner/)
-    * [Vim for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
-    * [Vim for Advanced Users](https://thevaluable.dev/vim-advanced/)
-    * [Vim for Adept Users](https://thevaluable.dev/vim-adept/)
+* [Vim from the ground up](https://thevaluable.dev/vim-beginner/) — article series for beginners to expert users
 
 ## Books
 

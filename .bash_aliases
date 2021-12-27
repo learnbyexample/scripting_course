@@ -25,7 +25,7 @@ a egrep='egrep --color=auto'
 a oa='vi ~/.bash_aliases'
 a sa='source ~/.bash_aliases'
 # sort file/directory sizes in current directory in human readable format
-a s='du -sh * | sort -h'
+a s='du -sh -- * | sort -h'
 
 # save last command from history to a file
 # tip, add a comment to end of command before saving, ex: ls --color=auto # colored ls output
