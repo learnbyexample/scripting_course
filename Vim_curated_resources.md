@@ -3,8 +3,8 @@
 ## Installation and documentation
 
 * [https://github.com/vim/vim](https://github.com/vim/vim) — official Vim repository
-* [Installation instructions](https://github.com/vim/vim#installation) — for various distributions
-* [vimhelp: help.txt](https://vimhelp.org/) — HTML version of the Vim help pages like 'Getting Started', 'Editing Effectively', etc
+* [:h usr_90.txt](https://vimhelp.org/usr_90.txt.html) — user manual for installation, common issues, upgrading, uninstallation, etc
+* [vimhelp: help.txt](https://vimhelp.org/) — HTML version of the Vim help pages like 'Getting Started', 'Editing Effectively', reference manuals, etc
 * [vimhelp: quickref.txt](https://vimhelp.org/quickref.txt.html) — Overview of the most common commands you will use
 * [vimhelp: vim_faq.txt](https://vimhelp.org/vim_faq.txt.html) — created from the questions and answers posted to the `vim@vim.org` user mailing list and the `comp.editors` newsgroup
 
@@ -15,21 +15,29 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [Vim primer](https://danielmiessler.com/study/vim/) — learn Vim in a way that will stay with you for life
 * [Vim galore](https://github.com/mhinz/vim-galore/blob/master/README.md) — everything you need to know about Vim
 * [Learn Vim progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) — short introduction that covers a lot 
-* [Vim from the ground up](https://thevaluable.dev/vim-beginner/) — article series for beginners to expert users
+* [Vim from the ground up](https://thevaluable.dev/vim-commands-beginner/) — article series for beginners to expert users
 
 ## Books
 
-* [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) — published 2015, updated for version 8 in 2017
-* [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/) — published 2017
-* [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) — customize vim, plugins and more, version 7.3
+* [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/Introduction.html) — my ebook, suitable for beginner to intermediate level users
+* [Practical Vim](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/) — published 2015, updated for Vim 8 in 2017
+* [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/) — first published 2017
+* [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) — customize vim, plugins and more, written for Vim 7.3
 * [Vim book by Steve Oualline](http://www.oualline.com/vim-book.html) — published 2007
+
+## Interactive learning
+
+* [OpenVim](https://www.openvim.com/tutorial.html) — interactive tutorial
+* [Vim Adventures](https://vim-adventures.com/) — learn Vim by playing a game
+* [vimmer.io](https://vimmer.io/) — master Vim from the comfort of your web browser
+* [vim.so](https://www.vim.so/) — interactive lessons designed to help you get better at Vim faster
 
 ## Cheatsheets
 
 * [Cheatsheet in multiple languages](https://vim.rtorr.com/) — shows up as embedded content in [DuckDuckGo search](https://duckduckgo.com/?q=vim+cheat+sheet) as well
-* [shortcutfoo](https://www.shortcutfoo.com/app/dojos/vim/cheatsheet) — has nice animation for some of the shortcuts
 * [devhints: Vim cheatsheet](https://devhints.io/vim)
 * [devhints: Vimscript cheatsheet](https://devhints.io/vimscript)
+* [shortcutfoo](https://www.shortcutfoo.com/app/dojos/vim/cheatsheet) — has nice animation for some of the shortcuts
 
 ## Customizing Vim
 
