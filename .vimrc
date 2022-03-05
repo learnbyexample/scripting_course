@@ -65,16 +65,16 @@ xnoremap # y?<C-R>"<CR>
 nnoremap <silent> <Space> :noh<CR><Space>
 
 " ----- Custom Mappings -----
-" Map F2 key to save file in command mode
-nnoremap #2 :w<CR>
-" Map F2 key to save file in insert mode
+" Map F2 key to save file in Normal mode
+nnoremap <F2> :w<CR>
+" Map F2 key to save file in Insert mode
 inoremap <F2> <C-o>:w<CR>
-" Map F3 key to save and quit file in command mode
-nnoremap #3 :wq<CR>
-" Map F4 key to clear file contents in command mode
-nnoremap #4 ggdG
+" Map F3 key to save and quit file in Normal mode
+nnoremap <F3> :wq<CR>
+" Map F4 key to clear file contents in Normal mode
+nnoremap <F4> ggdG
 " Map F5 key to copy entire contents of file to clipboard
-nnoremap #5 :%y+<CR>
+nnoremap <F5> :%y+<CR>
 
 " ALT key mappings for gvim (to switch tabs similar to those in browser/terminals)
 nnoremap <A-1> 1gt
@@ -83,26 +83,26 @@ nnoremap <A-3> 3gt
 nnoremap <A-4> 4gt
 nnoremap <A-5> 5gt
 
-" Ctrl+e to move to end of word
-inoremap <C-e> <Esc>ea
+" Ctrl+f to move to end of word
+inoremap <C-f> <Esc>ea
 " Ctrl+b to move to beginning of word
-inoremap <C-b> <C-o>b
+inoremap <C-b> <C-Left>
 " Ctrl+a to move to end of line
-inoremap <C-a> <C-o>A
+inoremap <C-a> <End>
 " Can't use Ctrl+i remapping as it affects Tab as well
-inoremap <C-s> <C-o>I
+inoremap <C-s> <Home>
 
 " ----- Change/Modify default Mappings -----
 " change Y to behave similar to D and C
 nnoremap Y y$
-" Ctrl+v to paste from clipboard in insert mode
+" Ctrl+v to paste from clipboard in Insert mode
 " Ctrl+q can be used to insert special characters
 inoremap <C-v> <C-o>"+p
 " Ctrl+l to autocomplete sentences
 inoremap <C-l> <C-x><C-l>
 
 " ----- Abbreviations -----
-" Expand p as below when it is used as a word
+" Expand p as shown below
 " #!/usr/bin/perl
 " use strict;
 " use warnings;
@@ -133,7 +133,7 @@ augroup END
 
 " ----- Useful Verilog Settings -----
 " completion for verilog control structures
-" type @a/@i/@e/@I in insert mode and press Esc key
+" type @a/@i/@e/@I in Insert mode and press Esc key
 inoreabbrev @a always @()<CR>begin<CR>end<Esc>2k$
 inoreabbrev @i if ()<CR>begin<CR>end<Esc>2k$
 inoreabbrev @e else ()<CR>begin<CR>end<Esc>2k$
