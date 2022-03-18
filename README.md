@@ -17,8 +17,8 @@ Free to read online versions:
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
 * [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
+* [Vim reference guide](https://learnbyexample.github.io/vim_reference/)
 * [Command line text processing with Rust tools](https://learnbyexample.github.io/cli_text_processing_rust/) — work-in-progress
-* [Vim reference guide](https://learnbyexample.github.io/vim_reference/) — work-in-progress
 
 :information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
 
