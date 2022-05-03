@@ -19,13 +19,15 @@ Free to read online versions:
 * [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
 * [Vim reference guide](https://learnbyexample.github.io/vim_reference/)
 * [Command line text processing with Rust tools](https://learnbyexample.github.io/cli_text_processing_rust/) — work-in-progress
+* [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) — work-in-progress
 
 :information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
 
 ### Ebook drafts
 
-* [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) — Introduction to Linux commands and Shell scripting
 * [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more
+   * `grep`, `sed`, `awk`, `perl` and `ruby` got their own books
+   * Coreutils like `head`, `paste`, `sort`, etc were collated into a single book
 * [Python Basics](https://github.com/learnbyexample/Python_Basics) — older version of *100 Page Python Intro*
 * [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) — examples based tutorial for Ruby scripting
 * [Perl Introduction](https://github.com/learnbyexample/Perl_intro) — Introductory course for Perl 5 through examples, geared towards VLSI engineers
