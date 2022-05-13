@@ -7,7 +7,6 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 >A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution) — [wikipedia](https://en.wikipedia.org/wiki/Linux_distribution)
 
 * [/r/linux4noobs wiki](https://www.reddit.com/r/linux4noobs/wiki/distro_selection) — Linux distribution selection for noobs
-* [Compute Freely](https://computefreely.org/) — curated selection of Linux distributions ranging from the beginner-friendly to the super technical
 * Linux/Bash on Windows
     * [Git for Windows](https://git-scm.com/downloads) — provides a Bash emulation used to run Git from the command line
     * [Cygwin](https://www.cygwin.com/) — large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows
@@ -33,7 +32,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 * [Bash Guide](https://mywiki.wooledge.org/BashGuide) — aspires to teach good practice techniques for using Bash, and writing simple scripts
 * [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) — solid foundation in how to write Bash scripts, to get the computer to do complex, repetitive tasks for you
-* [bash-handbook](https://github.com/denysdovhan/bash-handbook) — for those who want to learn Bash without diving in too deeply
+* [Bash Handbook](https://github.com/denysdovhan/bash-handbook) — for those who want to learn Bash without diving in too deeply
 * [Serious Shell Programming](https://freebsdfrau.gitbook.io/serious-shell-programming/) — focuses on POSIX-compliant Bourne Shell for portability
 
 ### Scripting companion
@@ -51,6 +50,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 ## Books
 
+* [Computing from the Command Line](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
 * [wizard zines](https://wizardzines.com/) — programming zines
     * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
@@ -64,6 +64,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) — notes and tips on using the command-line, suitable for both beginners and experienced users
 * [stackoverflow: Command line tricks](https://stackoverflow.com/q/68372/4082052)
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — command-line gems, includes a handy search feature
+* [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) — collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance
 
 ## Cheatsheets
 
@@ -75,7 +76,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 ## Text processing
 
-* Books I've written (or currently working upon):
+* My ebooks:
     * [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
     * [GNU sed one-liners](https://github.com/learnbyexample/learn_gnused)
     * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
@@ -119,3 +120,4 @@ Read instructions provided by respective forums before asking a question. Try so
 * [/r/linux](https://www.reddit.com/r/linux) — general linux discussion
 * [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
+
