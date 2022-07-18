@@ -23,6 +23,8 @@ Free to read online versions:
 
 :information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
 
+:loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
+
 ### Ebook drafts
 
 * [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more

@@ -85,6 +85,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
     * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
 * [unix.stackexchange: learning resources for grep, sed and awk](https://unix.stackexchange.com/q/2434/109046)
+* [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
 
 ## Miscellaneous
@@ -93,6 +94,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
+* [SSH cheat sheet](https://www.marcobehler.com/guides/ssh-cheat-sheet) — popular SSH commands, key generation, SSH agents, etc
 
 ## Further Reading
 
