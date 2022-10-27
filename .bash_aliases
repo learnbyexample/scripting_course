@@ -16,7 +16,7 @@ a b4='cd ../../../../'
 a b5='cd ../../../../../'
 
 a ls='ls --color=auto'
-a l='ls -ltrh'
+a l='ls -ltrhG'
 a la='l -A'
 a vi='gvim'
 a grep='grep --color=auto'
@@ -51,7 +51,7 @@ fs() { find -type f -iname '*'"$@"'*' ; }
 
 # open files with default application, don't print output/error messages
 # useful for opening docs, pdfs, images, etc from command line
-o() { gnome-open "$@" &> /dev/null ; }
+o() { xdg-open "$@" &> /dev/null ; }
 
 # if unix2dos and dos2unix commands aren't available by default
 unix2dos() { sed -i 's/$/\r/' "$@" ; }
