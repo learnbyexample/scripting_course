@@ -6,7 +6,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 >A Linux distribution (often abbreviated as distro) is an operating system made from a software collection that is based upon the Linux kernel and, often, a package management system. Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution) — [wikipedia](https://en.wikipedia.org/wiki/Linux_distribution)
 
-* [/r/linux4noobs wiki](https://www.reddit.com/r/linux4noobs/wiki/distro_selection) — Linux distribution selection for noobs
+* [/r/linux4noobs wiki](https://old.reddit.com/r/linux4noobs/wiki/distro_selection) — Linux distribution selection for noobs
 * Linux/Bash on Windows
     * [Git for Windows](https://git-scm.com/downloads) — provides a Bash emulation used to run Git from the command line
     * [Cygwin](https://www.cygwin.com/) — large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows
@@ -21,12 +21,14 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) — eight simple tutorials which cover the basics of UNIX / Linux commands
 * [Linux Basics](https://miteshshah.github.io/linux/basics/) — cli basics, shell scripting, text processing, package management, etc
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) — a tutorial introduction to the command line
+* [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/) — missing manual of terminal fundamentals needed to work with modern JS frameworks
 
 ## CLI video and interactive courses
 
 * [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [edx: Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
+* [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
 
 ## Shell Scripting
 
@@ -47,6 +49,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
     * [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html)
     * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
+    * [Unix shell script tactics](https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md) — write better Unix shell script code for speed, security, stability, and portability
 
 ## Books
 
@@ -58,6 +61,8 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
 * [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
+* [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) — for newcomers to command line environment
+* [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/) — reference book presenting the Debian distribution, from initial installation to configuration of services
 
 ## Tips and Tricks
 
