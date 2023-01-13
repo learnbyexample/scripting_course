@@ -25,7 +25,6 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 ## CLI video and interactive courses
 
-* [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [edx: Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
 * [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
