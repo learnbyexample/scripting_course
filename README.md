@@ -6,7 +6,7 @@ Books, reference guides and resources on Regular Expressions, CLI one-liners, Sc
 
 Free to read online versions:
 
-* [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
+* [Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
 * [GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
@@ -45,7 +45,7 @@ https://learnbyexample.github.io/ — my super duper awesome programming blog
 
 ## Newsletter
 
-[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, deals and more, delivered every Friday
+[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, tips, tools, free ebooks and more. This is a free newsletter, delivered every Friday
 
 <br>
 
@@ -75,7 +75,7 @@ This repo also includes Bash and Vim customization files (files starting with `.
 * Please open an issue for typos/bugs/suggestions/etc
     * Even for pull requests, open an issue for discussion before submitting PRs
 * Share the repo with friends/colleagues, on social media, etc to help reach other learners
-* In case you need to reach me, mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode` or send a DM via [twitter](https://twitter.com/learn_byexample)
+* In case you need to reach me, mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode` or ping me on [twitter](https://twitter.com/learn_byexample)
 
 <br>
 
