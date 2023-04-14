@@ -47,7 +47,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
 * Reliability and robustness
     * [safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
-    * [better scripting](https://robertmuth.blogspot.in/2012/08/better-bash-scripting-in-15-minutes.html)
+    * [better scripting](https://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
     * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
     * [Unix shell script tactics](https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md) — write better Unix shell script code for speed, security, stability, and portability
 
@@ -91,7 +91,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
     * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
 * [unix.stackexchange: learning resources for grep, sed and awk](https://unix.stackexchange.com/q/2434/109046)
-* [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
+* [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
 
 ## Miscellaneous
@@ -100,7 +100,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
-* [SSH cheat sheet](https://www.marcobehler.com/guides/ssh-cheat-sheet) — popular SSH commands, key generation, SSH agents, etc
+* [SSH commands](https://www.marcobehler.com/guides/ssh-commands) — popular SSH commands, key generation, SSH agents, etc
 
 ## Further Reading
 
@@ -121,11 +121,11 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
 
 * [unix.stackexchange](https://unix.stackexchange.com/)
-* [/r/commandline](https://www.reddit.com/r/commandline)
-* [/r/bash](https://www.reddit.com/r/bash)
-* [/r/linux4noobs](https://www.reddit.com/r/linux4noobs)
-* [/r/linuxquestions](https://www.reddit.com/r/linuxquestions)
-* [/r/linux](https://www.reddit.com/r/linux) — general linux discussion
+* [/r/commandline](https://old.reddit.com/r/commandline/)
+* [/r/bash](https://old.reddit.com/r/bash/)
+* [/r/linux4noobs](https://old.reddit.com/r/linux4noobs/)
+* [/r/linuxquestions](https://old.reddit.com/r/linuxquestions/)
+* [/r/linux](https://old.reddit.com/r/linux/) — general linux discussion
 * [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
 
