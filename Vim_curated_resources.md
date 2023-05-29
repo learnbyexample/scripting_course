@@ -30,7 +30,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [OpenVim](https://www.openvim.com/tutorial.html) — interactive tutorial
 * [Vim Adventures](https://vim-adventures.com/) — learn Vim by playing a game
 * [vimmer.io](https://vimmer.io/) — master Vim from the comfort of your web browser
-* [vim.so](https://www.vim.so/) — interactive lessons designed to help you get better at Vim faster
+* [Learn vim and learn it fast](https://www.learnvim.com/) — interactive lessons designed to help you get better at Vim faster
 
 ## Cheatsheets
 
@@ -47,6 +47,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [stackoverflow: Switching between files rapidly using vanilla Vim](https://stackoverflow.com/q/16082991/4082052)
 * [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 * [Using template files](https://shapeshed.com/vim-templates/) — templates or skeletons, allow you to specify a template to be used for new files with a certain extension
+* [Using Vim's abbreviations](https://vonheikemen.github.io/devlog/tools/using-vim-abbreviations/) — automate things in insert mode
 * [vim-bootstrap](https://vim-bootstrap.com/) — provides a simple method of generating a `.vimrc` based on programming languages you use
 
 ## Tips and Tricks
@@ -58,7 +59,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [stackoverflow: tips and tricks thread](https://stackoverflow.com/q/726894/4082052)
 * [Q&A on stackoverflow sorted by votes](https://stackoverflow.com/questions/tagged/vim?sort=votes&pageSize=15)
 * [Q&A on vi.stackexchange sorted by votes](https://vi.stackexchange.com/questions?tab=Votes)
-* [Vim tips and tricks thread at /r/vim](https://www.reddit.com/r/vim/comments/4aab93/weekly_vim_tips_and_tricks_thread_1/)
+* [Vim tips and tricks thread at /r/vim](https://old.reddit.com/r/vim/comments/4aab93/weekly_vim_tips_and_tricks_thread_1/)
 * [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
 * [Vim's built-in completion mechanisms (video)](https://www.youtube.com/watch?v=3TX3kV3TICU) — let Vim do the typing, writing fewer typos and faster
 * [stackoverflow: Save and restore multiple different sessions](https://stackoverflow.com/q/1642611/4082052)
@@ -69,7 +70,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [VimGolf](https://www.vimgolf.com/) — Real Vim ninjas count **every** keystroke
 * [Awesome Vim](https://github.com/akrawchyk/awesome-vim) — plugins organized by section
 * [Why use vim](http://www.viemu.com/a-why-vi-vim.html)
-* [Built-in man pager in Vim](https://www.reddit.com/r/vim/comments/4xkyah/til_builtin_man_pager_in_vim/)
+* [Built-in man pager in Vim](https://old.reddit.com/r/vim/comments/4xkyah/til_builtin_man_pager_in_vim/)
 * [Things about vim I wish I knew earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 * [Tabs vs Buffers](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 
@@ -78,6 +79,6 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
 
 * [vi stackexchange](https://vi.stackexchange.com/)
-* [/r/vim](https://www.reddit.com/r/vim/)
+* [/r/vim](https://old.reddit.com/r/vim/)
 * [#vim IRC](irc://irc.libera.chat/vim)
 
