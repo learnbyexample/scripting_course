@@ -5,7 +5,7 @@ a p='pwd'
 a e='exit'
 a q='exit'
 
-a h='history | tail -20'
+a h='history | tail -n20'
 # turn off history, use 'set -o history' to turn it on again
 a so='set +o history'
 
@@ -20,10 +20,11 @@ a l='ls -ltrhG'
 a la='l -A'
 a vi='gvim'
 a grep='grep --color=auto'
-a egrep='egrep --color=auto'
 
+# open and source aliases
 a oa='vi ~/.bash_aliases'
 a sa='source ~/.bash_aliases'
+
 # sort file/directory sizes in current directory in human readable format
 a s='du -sh -- * | sort -h'
 
@@ -46,8 +47,9 @@ ch() { whatis $1; man $1 | sed -n "/^\s*$2/,/^$/p" ; }
 ap() { for f in "$@"; do echo "$PWD/$f"; done; }
 
 # simple case-insensitive file search based on name
+# usage: fs name
 # remove '-type f' if you want to match directories as well
-fs() { find -type f -iname '*'"$@"'*' ; }
+fs() { find -type f -iname '*'"$1"'*' ; }
 
 # open files with default application, don't print output/error messages
 # useful for opening docs, pdfs, images, etc from command line
