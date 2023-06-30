@@ -10,7 +10,7 @@ Free to read online versions:
 * [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
 * [CLI text processing with GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
-* [GNU sed](https://learnbyexample.github.io/learn_gnused/)
+* [CLI text processing with GNU sed](https://learnbyexample.github.io/learn_gnused/)
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
