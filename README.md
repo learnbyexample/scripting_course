@@ -11,7 +11,7 @@ Free to read online versions:
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
 * [CLI text processing with GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
 * [CLI text processing with GNU sed](https://learnbyexample.github.io/learn_gnused/)
-* [GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
+* [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
@@ -21,9 +21,9 @@ Free to read online versions:
 * [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/)
 * [Command line text processing with Rust tools](https://learnbyexample.github.io/cli_text_processing_rust/) — work-in-progress
 
-:information_source: :moneybag: You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
+🛈 💰 You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
 
-:loudspeaker: :loudspeaker: Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
+📢 📢 Use [this coupon link](https://learnbyexample.gumroad.com/l/all-books/HappyPrice) to get **All books bundle** with 25% discount.
 
 ### Ebook drafts
 
