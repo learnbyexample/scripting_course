@@ -83,13 +83,14 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 ## Text processing
 
 * My ebooks:
-    * [GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
-    * [GNU sed one-liners](https://github.com/learnbyexample/learn_gnused)
-    * [GNU awk one-liners](https://github.com/learnbyexample/learn_gnuawk)
-    * [Perl one-liners](https://github.com/learnbyexample/learn_perl_oneliners)
-    * [Ruby one-liners](https://github.com/learnbyexample/learn_ruby_oneliners)
+    * [CLI text processing with GNU grep and ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep)
+    * [CLI text processing with GNU sed](https://github.com/learnbyexample/learn_gnused)
+    * [CLI text processing with GNU awk](https://github.com/learnbyexample/learn_gnuawk)
+    * [Perl One-Liners Guide](https://github.com/learnbyexample/learn_perl_oneliners)
+    * [Ruby One-Liners Guide](https://github.com/learnbyexample/learn_ruby_oneliners)
     * [Command line text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
     * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
+    * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing) — includes several text processing tools
 * [unix.stackexchange: learning resources for grep, sed and awk](https://unix.stackexchange.com/q/2434/109046)
 * [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
@@ -101,6 +102,11 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
 * [SSH commands](https://www.marcobehler.com/guides/ssh-commands) — popular SSH commands, key generation, SSH agents, etc
+* [Editing Videos with FFmpeg](https://www.hadet.dev/ffmpeg-cheatsheet/) — clipping, adding fade in/out, scaling, concat, etc
+    * [ffmpeg.guide](https://ffmpeg.guide/) — GUI tool to create complex FFmpeg filtergraphs quickly and correctly
+    * [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) — making FFmpeg easier, this app helps users through the command generation process
+* [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
+* [How To Use Wget to Download Files and Interact with REST APIs](https://www.digitalocean.com/community/tutorials/how-to-use-wget-to-download-files-and-interact-with-rest-apis)
 
 ## Further Reading
 
@@ -128,4 +134,3 @@ Read instructions provided by respective forums before asking a question. Try so
 * [/r/linux](https://old.reddit.com/r/linux/) — general linux discussion
 * [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
-
