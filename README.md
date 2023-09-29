@@ -13,7 +13,7 @@ Free to read online versions:
 * [CLI text processing with GNU sed](https://learnbyexample.github.io/learn_gnused/)
 * [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-* [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/)
+* [Perl One-Liners Guide](https://learnbyexample.github.io/learn_perl_oneliners/)
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
 * [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
