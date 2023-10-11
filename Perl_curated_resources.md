@@ -14,18 +14,14 @@ You can use `perldoc` command to access documentation from the command line. You
 
 ## Tutorials and Books
 
-* [Learning Perl, 7th Edition](https://www.oreilly.com/library/view/learning-perl-7th/9781491954317/) — getting started with Perl, whether you're a programmer, system administrator, or web hacker
-* Perl Maven — basics of the Perl programming language. You'll be able to write simple scripts, analyze log files and read and write CSV files. Just to name a few common tasks
-    * [text tutorial](https://perlmaven.com/perl-tutorial)
-    * [video course](https://perlmaven.com/beginner-perl-maven-video-course)
-* Modern Perl — teaches you how Perl really works, from its philosophical roots to the pragmatic decisions that help you solve real problems and keep them solved
-    * [online text](http://modernperlbooks.com/books/modern_perl_2016/)
-    * [book and pdf(free) versions](http://onyxneon.com/books/modern_perl/)
+* [Learning Perl, 8th Edition](https://www.oreilly.com/library/view/learning-perl-8th/9781492094944/) — getting started with Perl, whether you're a programmer, system administrator, or web hacker
+* [Perl Maven](https://perlmaven.com/perl-tutorial) — basics of the Perl programming language. You'll be able to write simple scripts, analyze log files and read and write CSV files. Just to name a few common tasks
+* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2016/) — teaches you how Perl really works, from its philosophical roots to the pragmatic decisions that help you solve real problems and keep them solved
 * [Effective Perl Programming](https://www.effectiveperlprogramming.com/about/) — write better, more idiomatic Perl
 * [Perl for newbies](https://perl-begin.org/tutorials/perl-for-newbies/) — provide Perl newcomers with the most high-quality and accessible material and references for learning the Perl programming language as easily, as accurately, and as efficiently, as possible
 * [perlmeme](http://perlmeme.org/start_here/index.html) — FAQs, HOWTOs and TUTORIALs (working example code of various tasks in Perl like parsing CSV/HTML, creating web form, connecting to database, etc)
 
-I wrote an ebook specifically for [Perl one-liners](https://learnbyexample.github.io/learn_perl_oneliners/), which is free to read online.
+I wrote an ebook specifically for [Perl One-Liners](https://learnbyexample.github.io/learn_perl_oneliners/), which is free to read online.
 
 ## Code snippets, articles and exercises
 
@@ -38,9 +34,9 @@ I wrote an ebook specifically for [Perl one-liners](https://learnbyexample.githu
 * [learnxinyminutes: cheatsheet with descriptions](https://learnxinyminutes.com/docs/perl/)
 * [Hyperpolyglot](https://perl-begin.org/tutorials/hyperpolyglot/sheet1.html) — side-by-side reference sheet for PHP, Perl, Python, Ruby
 * Practice and Coding Challenges
-    * [perlweeklychallenge](https://perlweeklychallenge.org/)
-    * [exercism](https://exercism.io/tracks/perl5)
-    * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+    * [The Weekly Challenge - Perl & Raku](https://theweeklychallenge.org/)
+    * [exercism](https://exercism.org/tracks/perl5)
+    * [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer)
 
 ## Regular Expressions
 
@@ -50,10 +46,10 @@ I wrote an ebook specifically for [Perl one-liners](https://learnbyexample.githu
     * [syntax of regular expressions](https://perldoc.perl.org/perlre)
     * [FAQ on regular expressions](https://perldoc.perl.org/perlfaq#perlfaq6:-Regular-Expressions)
 * Practice and general regexp tutorials (i.e they may not be Perl specific)
-    * [regex101](https://regex101.com/) — online regex tester, has an option for [PCRE](https://www.pcre.org/), shows explanations, has reference guides and ability to save and share regex
-    * [debuggex](https://www.debuggex.com) — railroad diagrams for regular expressions, select flavor as PCRE before use
+    * [regex101](https://regex101.com/) — online regex tester, shows explanations, has reference guides and ability to save and share regex
+    * [debuggex](https://www.debuggex.com) — railroad diagrams for regular expressions
     * [stackoverflow: what does this regex mean?](https://stackoverflow.com/q/22937618/4082052)
-    * [regexcrossword](https://regexcrossword.com/) — practice by solving crosswords, read 'How to play' section before you start, only support JS flavor
+    * [regexcrossword](https://regexcrossword.com/) — practice by solving crosswords, read 'How to play' section before you start, only supports JS flavor
 
 ## Reading lists
 
@@ -75,8 +71,8 @@ Formerly known as *Perl 6*
 
 ## Forums, Blogs, Newsletters
 
-* [/r/perl/](https://www.reddit.com/r/perl/)
-* [/r/rakulang/](https://www.reddit.com/r/rakulang/)
+* [/r/perl/](https://old.reddit.com/r/perl/)
+* [/r/rakulang/](https://old.reddit.com/r/rakulang/)
 * [stackoverflow: perl](https://stackoverflow.com/tags/perl)
 * [stackoverflow: raku](https://stackoverflow.com/tags/raku)
 * [perlmonks](https://perlmonks.org/)

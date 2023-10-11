@@ -70,7 +70,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [stackoverflow: Command line tricks](https://stackoverflow.com/q/68372/4082052)
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — command-line gems, includes a handy search feature
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) — collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance
-* [bash Idioms](https://www.oreilly.com/library/view/bash-idioms/9781492094746/) — decipher old bash code and write new code that's as clear and readable as possible
+* [Bash Idioms](https://www.oreilly.com/library/view/bash-idioms/9781492094746/) — decipher old bash code and write new code that's as clear and readable as possible
 
 ## Cheatsheets
 
@@ -134,3 +134,4 @@ Read instructions provided by respective forums before asking a question. Try so
 * [/r/linux](https://old.reddit.com/r/linux/) — general linux discussion
 * [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
+
