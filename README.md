@@ -7,7 +7,7 @@ Books, reference guides and resources on Regular Expressions, CLI one-liners, Sc
 Free to read online versions:
 
 * [Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
-* [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
+* [Understanding JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 * [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
 * [CLI text processing with GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
 * [CLI text processing with GNU sed](https://learnbyexample.github.io/learn_gnused/)
@@ -45,7 +45,7 @@ https://learnbyexample.github.io/ — my super duper awesome programming blog
 
 ## Newsletter
 
-[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, tips, tools, free ebooks and more. This is a free newsletter, delivered every Friday
+[learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) — programming resources, tools, free ebooks and more. This is a free newsletter, delivered every Friday
 
 <br>
 
