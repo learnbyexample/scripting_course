@@ -8,7 +8,7 @@ Free to read online versions:
 
 * [Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 * [Understanding JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
-* [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
+* [Understanding Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/)
 * [CLI text processing with GNU grep and ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
 * [CLI text processing with GNU sed](https://learnbyexample.github.io/learn_gnused/)
 * [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/)
