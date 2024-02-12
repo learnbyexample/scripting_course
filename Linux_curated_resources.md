@@ -29,6 +29,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [edx: Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
 * [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
+* [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) — use basic commands to explore the filesystem
 
 ## Shell Scripting
 
