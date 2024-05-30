@@ -18,7 +18,7 @@ Free to read online versions:
 * [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
 * [CLI text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
 * [Vim reference guide](https://learnbyexample.github.io/vim_reference/)
-* [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/)
+* [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
 * [Command line text processing with Rust tools](https://learnbyexample.github.io/cli_text_processing_rust/) — work-in-progress
 
 🛈 💰 You can buy PDF/EPUB versions from [Gumroad](https://learnbyexample.gumroad.com/) or [Leanpub](https://leanpub.com/u/learnbyexample)
@@ -30,7 +30,7 @@ Free to read online versions:
 * [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) — From finding text to search and replace, from sorting to beautifying text and more
    * `grep`, `sed`, `awk`, `perl` and `ruby` got their own books
    * Coreutils like `head`, `paste`, `sort`, etc were collated into a single book
-   * remaining commands (`find` for example) were added to the *Computing from the Command Line* ebook
+   * remaining commands (`find` for example) were added to the *Linux Command Line Computing* ebook
 * [Python Basics](https://github.com/learnbyexample/Python_Basics) — older version of *100 Page Python Intro*
 * [Ruby Scripting](https://github.com/learnbyexample/Ruby_Scripting) — examples based tutorial for Ruby scripting
 * [Perl Introduction](https://github.com/learnbyexample/Perl_intro) — Introductory course for Perl 5 through examples, geared towards VLSI engineers
