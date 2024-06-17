@@ -12,9 +12,9 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 
 ## Text Tutorials
 
-* [Vim primer](https://danielmiessler.com/study/vim/) — learn Vim in a way that will stay with you for life
+* [Vim primer](https://danielmiessler.com/p/vim/) — learn Vim in a way that will stay with you for life
 * [Vim galore](https://github.com/mhinz/vim-galore/blob/master/README.md) — everything you need to know about Vim
-* [Learn Vim progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) — short introduction that covers a lot 
+* [Learn Vim progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) — short introduction that covers a lot
 * [Vim from the ground up](https://thevaluable.dev/vim-commands-beginner/) — article series for beginners to expert users
 
 ## Books
@@ -29,7 +29,6 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 
 * [OpenVim](https://www.openvim.com/tutorial.html) — interactive tutorial
 * [Vim Adventures](https://vim-adventures.com/) — learn Vim by playing a game
-* [vimmer.io](https://vimmer.io/) — master Vim from the comfort of your web browser
 * [Learn vim and learn it fast](https://www.learnvim.com/) — interactive lessons designed to help you get better at Vim faster
 
 ## Cheatsheets
@@ -62,6 +61,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 * [Vim tips and tricks thread at /r/vim](https://old.reddit.com/r/vim/comments/4aab93/weekly_vim_tips_and_tricks_thread_1/)
 * [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
 * [Vim's built-in completion mechanisms (video)](https://www.youtube.com/watch?v=3TX3kV3TICU) — let Vim do the typing, writing fewer typos and faster
+* [Comprehensive illustration of navigating modes](https://gist.github.com/kennypete/1fae2e48f5b0577f9b7b10712cec3212)
 * [stackoverflow: Save and restore multiple different sessions](https://stackoverflow.com/q/1642611/4082052)
 * [Vimcasts](http://vimcasts.org/) — 76 free screencasts and 52 articles
 
@@ -76,7 +76,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 
 ## Forums
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc. 
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, manual, ask a colleague, etc.
 
 * [vi stackexchange](https://vi.stackexchange.com/)
 * [/r/vim](https://old.reddit.com/r/vim/)

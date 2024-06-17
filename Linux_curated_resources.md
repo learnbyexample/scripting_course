@@ -54,7 +54,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 ## Books
 
-* [Computing from the Command Line](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
+* [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
 * [wizard zines](https://wizardzines.com/) — programming zines
     * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
@@ -92,13 +92,13 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Ruby One-Liners Guide](https://github.com/learnbyexample/learn_ruby_oneliners)
     * [CLI text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
     * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
-    * [Computing from the Command Line](https://github.com/learnbyexample/cli-computing) — includes several text processing tools
+    * [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — includes several text processing tools
 * [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
 
 ## Miscellaneous
 
-* [Unix and Linux Permissions Primer](https://danielmiessler.com/study/unixlinux_permissions/)
+* [Unix and Linux Permissions Primer](https://web.archive.org/web/20220930214830/https://danielmiessler.com/study/unixlinux_permissions/)
 * [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
