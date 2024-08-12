@@ -72,6 +72,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — command-line gems, includes a handy search feature
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) — collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance
 * [Bash Idioms](https://www.oreilly.com/library/view/bash-idioms/9781492094746/) — decipher old bash code and write new code that's as clear and readable as possible
+* [Unix oneliners](https://ocv.me/doc/unix/oneliners/) — mostly unorganized collection of bash oneliners
 
 ## Cheatsheets
 
