@@ -27,6 +27,7 @@ After installation, use `vimtutor` (or `gvimtutor`) command for a "30-minute tut
 
 ## Interactive learning
 
+* [vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) — advanced lessons
 * [OpenVim](https://www.openvim.com/tutorial.html) — interactive tutorial
 * [Vim Adventures](https://vim-adventures.com/) — learn Vim by playing a game
 * [Learn vim and learn it fast](https://www.learnvim.com/) — interactive lessons designed to help you get better at Vim faster
