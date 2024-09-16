@@ -17,7 +17,7 @@ Free to read online versions:
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/)
 * [CLI text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
-* [Vim reference guide](https://learnbyexample.github.io/vim_reference/)
+* [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/)
 * [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
 * [Command line text processing with Rust tools](https://learnbyexample.github.io/cli_text_processing_rust/) — work-in-progress
 
