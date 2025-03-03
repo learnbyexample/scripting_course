@@ -15,10 +15,23 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [ArchWiki](https://wiki.archlinux.org/title/Table_of_contents) — comprehensive documentation for Arch Linux and other distributions
 * [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) — broad overview of the Debian system, covers many aspects of system administration through shell-command examples
 
+## Books
+
+* [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
+* [wizard zines](https://wizardzines.com/) — programming zines
+    * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
+* [Linux Bible](https://www.wiley.com/en-in/Linux+Bible%2C+11th+Edition-p-9781394317462) — basic operations, server management, administration, automated deployment, etc
+* [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
+* [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
+* [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
+* [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) — for newcomers to command line environment
+* [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/) — reference book presenting the Debian distribution, from initial installation to configuration of services
+
 ## CLI text tutorials
 
 * [Linux for Beginners](https://ryanstutorials.net/linuxtutorial/) — solid foundation in how to use the terminal, to get the computer to do useful work for you
-* [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) — eight simple tutorials which cover the basics of UNIX / Linux commands
+* [UNIX Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/) — eight simple tutorials which cover the basics of UNIX / Linux commands
 * [Linux Basics](https://miteshshah.github.io/linux/basics/) — cli basics, shell scripting, text processing, package management, etc
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) — a tutorial introduction to the command line
 * [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/) — missing manual of terminal fundamentals needed to work with modern JS frameworks
@@ -27,7 +40,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 * [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
-* [edx: Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
+* [edx: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
 * [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
 * [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) — use basic commands to explore the filesystem
 
@@ -51,19 +64,6 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [better scripting](https://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
     * [robust scripting](https://www.davidpashley.com/articles/writing-robust-shell-scripts/)
     * [Unix shell script tactics](https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md) — write better Unix shell script code for speed, security, stability, and portability
-
-## Books
-
-* [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
-* [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
-* [wizard zines](https://wizardzines.com/) — programming zines
-    * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
-* [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+10th+Edition-p-9781119578895) — basic operations, server management, administration, automated deployment, etc
-* [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
-* [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
-* [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
-* [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) — for newcomers to command line environment
-* [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/) — reference book presenting the Debian distribution, from initial installation to configuration of services
 
 ## Tips and Tricks
 
@@ -105,9 +105,9 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
 * [SSH commands](https://www.marcobehler.com/guides/ssh-commands) — popular SSH commands, key generation, SSH agents, etc
 * [Editing Videos with FFmpeg](https://www.hadet.dev/ffmpeg-cheatsheet/) — clipping, adding fade in/out, scaling, concat, etc
-    * [ffmpeg.guide](https://ffmpeg.guide/) — GUI tool to create complex FFmpeg filtergraphs quickly and correctly
+    * [FFmpeg By Example](https://ffmpegbyexample.com/) — documentation website to showcase all the unique and different ways to use FFmpeg
     * [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) — making FFmpeg easier, this app helps users through the command generation process
-* [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
+* [Curl by example: Interactive guide](https://antonz.org/curl-by-example/)
 * [How To Use Wget to Download Files and Interact with REST APIs](https://www.digitalocean.com/community/tutorials/how-to-use-wget-to-download-files-and-interact-with-rest-apis)
 
 ## Further Reading
@@ -136,4 +136,3 @@ Read instructions provided by respective forums before asking a question. Try so
 * [/r/linux](https://old.reddit.com/r/linux/) — general linux discussion
 * [askubuntu](https://askubuntu.com/questions/tagged/command-line?sort=votes&pageSize=15) — Ubuntu and general Linux topics
 * [TuxURLs](https://tuxurls.com/) — Linux news aggregator
-
