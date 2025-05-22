@@ -77,6 +77,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 ## Cheatsheets
 
 * [tldr](https://github.com/tldr-pages/tldr) — collection of community-maintained help pages for command-line tools
+* [navi](https://github.com/denisidoro/navi) — interactive cheatsheet tool for the command-line
 * [explainshell](https://explainshell.com/) — write down a command-line to see the help text that matches each argument
 * [General purpose command-line tools](http://www.compciv.org/unix-tools/) — examples for most common usecases
 * [Bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
@@ -92,13 +93,13 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Perl One-Liners Guide](https://github.com/learnbyexample/learn_perl_oneliners)
     * [Ruby One-Liners Guide](https://github.com/learnbyexample/learn_ruby_oneliners)
     * [CLI text processing with GNU Coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) — `head`, `tail`, `tr`, `sort`, `pr`, `paste`, `join`, etc
-    * [Command line text processing with Rust tools](https://github.com/learnbyexample/cli_text_processing_rust) — `ripgrep`, `frawk`, `hck`, `huniq`, `zet`, etc
     * [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — includes several text processing tools
 * [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
 
 ## Miscellaneous
 
+* [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 * [Unix and Linux Permissions Primer](https://web.archive.org/web/20220930214830/https://danielmiessler.com/study/unixlinux_permissions/)
 * [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
