@@ -16,10 +16,9 @@ You can use `perldoc` command to access documentation from the command line. You
 
 * [Learning Perl, 8th Edition](https://www.oreilly.com/library/view/learning-perl-8th/9781492094944/) — getting started with Perl, whether you're a programmer, system administrator, or web hacker
 * [Perl Maven](https://perlmaven.com/perl-tutorial) — basics of the Perl programming language. You'll be able to write simple scripts, analyze log files and read and write CSV files. Just to name a few common tasks
-* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2016/) — teaches you how Perl really works, from its philosophical roots to the pragmatic decisions that help you solve real problems and keep them solved
+* [Modern Perl](https://www.modernperlbooks.com/books/modern_perl_2016/) — teaches you how Perl really works, from its philosophical roots to the pragmatic decisions that help you solve real problems and keep them solved
 * [Effective Perl Programming](https://www.effectiveperlprogramming.com/about/) — write better, more idiomatic Perl
 * [Perl for newbies](https://perl-begin.org/tutorials/perl-for-newbies/) — provide Perl newcomers with the most high-quality and accessible material and references for learning the Perl programming language as easily, as accurately, and as efficiently, as possible
-* [perlmeme](http://perlmeme.org/start_here/index.html) — FAQs, HOWTOs and TUTORIALs (working example code of various tasks in Perl like parsing CSV/HTML, creating web form, connecting to database, etc)
 
 I wrote an ebook specifically for [Perl One-Liners](https://learnbyexample.github.io/learn_perl_oneliners/), which is free to read online.
 
@@ -32,7 +31,7 @@ I wrote an ebook specifically for [Perl One-Liners](https://learnbyexample.githu
 * [catonmat: Perl one-liners explained](https://catonmat.net/perl-one-liners-explained-part-one)
 * [stackoverflow: Perl Q&A](https://stackoverflow.com/questions/tagged/perl?sort=votes&pageSize=15)
 * [stackoverflow: interactive console for Perl](https://stackoverflow.com/q/73667/4082052)
-* [learnxinyminutes: cheatsheet with descriptions](https://learnxinyminutes.com/docs/perl/)
+* [learnxinyminutes: cheatsheet with descriptions](https://learnxinyminutes.com/perl/)
 * [Hyperpolyglot](https://perl-begin.org/tutorials/hyperpolyglot/sheet1.html) — side-by-side reference sheet for PHP, Perl, Python, Ruby
 * Practice and Coding Challenges
     * [The Weekly Challenge - Perl & Raku](https://theweeklychallenge.org/)
@@ -66,7 +65,7 @@ Formerly known as *Perl 6*
 	* [docs.raku: Perl to Raku guide in a nutshell](https://docs.raku.org/language/5to6-nutshell)
     * [docs.raku: faq](https://docs.raku.org/language/faq)
 	* [examples collection](https://examples.p6c.dev/index.html)
-* [learnxinyminutes: Raku](https://learnxinyminutes.com/docs/raku/)
+* [learnxinyminutes: Raku](https://learnxinyminutes.com/raku/)
 * [stackoverflow: Raku info](https://stackoverflow.com/tags/raku/info)
 * [Raku book list](https://perl6book.com/)
 
@@ -76,7 +75,5 @@ Formerly known as *Perl 6*
 * [/r/rakulang/](https://old.reddit.com/r/rakulang/)
 * [stackoverflow: perl](https://stackoverflow.com/tags/perl)
 * [stackoverflow: raku](https://stackoverflow.com/tags/raku)
-* [perlmonks](https://perlmonks.org/)
 * [perl.com](https://www.perl.com/) — articles about Perl programming, news and culture
 * [perlweekly](https://perlweekly.com/) — once a week e-mail round-up of hand-picked news and articles about Perl
-
