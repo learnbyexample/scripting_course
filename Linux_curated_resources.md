@@ -20,7 +20,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — my ebook on Linux command line and Shell Scripting for beginner to intermediate level users
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) — basics of command line use and shell scripting, environment configuration, and more
 * [wizard zines](https://wizardzines.com/) — programming zines
-    * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
+    * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [The Secret Rules of the Terminal](https://wizardzines.com/zines/terminal/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
 * [Linux Bible](https://www.wiley.com/en-in/Linux+Bible%2C+11th+Edition-p-9781394317462) — basic operations, server management, administration, automated deployment, etc
 * [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
 * [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
@@ -41,8 +41,10 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [edx: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
+* [bashcrawl](https://gitlab.com/slackermedia/bashcrawl) — learn Linux commands by playing a simple text adventure
 * [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
 * [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) — use basic commands to explore the filesystem
+* [Interactive exercises for text processing tools](https://github.com/learnbyexample/TUI-apps) — my TUI apps for grep, sed, awk and coreutils
 
 ## Shell Scripting
 
@@ -73,6 +75,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) — collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance
 * [Bash Idioms](https://www.oreilly.com/library/view/bash-idioms/9781492094746/) — decipher old bash code and write new code that's as clear and readable as possible
 * [Unix oneliners](https://ocv.me/doc/unix/oneliners/) — mostly unorganized collection of bash oneliners
+* [A guide to 100 (ish) useful commands](https://www.oliverelliott.org/post/commandlinereference/)
 
 ## Cheatsheets
 
@@ -96,20 +99,27 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Linux Command Line Computing](https://github.com/learnbyexample/cli-computing) — includes several text processing tools
 * [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) — Obtain, Scrub, Explore, and Model Data with Unix Power Tools
 * [Data ops on the Linux command line](https://www.datafix.com.au/BASHing/) — analysing, archiving, auditing, cleaning, de-duplicating, etc
+* [Mastering jq](https://codefaster.substack.com/p/mastering-jq-part-1-59c)
 
 ## Miscellaneous
 
 * [What helps people get comfortable on the command line?](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/)
 * [Unix and Linux Permissions Primer](https://web.archive.org/web/20220930214830/https://danielmiessler.com/study/unixlinux_permissions/)
+* [Learning chmod permissions in 30 seconds](https://sekor.eu.org/techlog/learning-chmod-permissions-in-30-seconds/)
+* [Understanding Unix filesystem timestamps](https://unixdigest.com/articles/understanding-unix-filesystem-timestamps.html) — atime, mtime, ctime, etc
 * [How To Use Rsync to Sync Local and Remote Directories](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories)
 * [htop explained](https://peteris.rocks/blog/htop/) — explanation of everything you can see in htop/top on Linux
 * [cron](https://en.wikipedia.org/wiki/Cron) — job scheduler on Unix-like operating systems
 * [SSH commands](https://www.marcobehler.com/guides/ssh-commands) — popular SSH commands, key generation, SSH agents, etc
+* [SSH Tips and Tricks](https://carlosbecker.com/posts/ssh-tips-and-tricks/) — reuse connections, tmux, aliases, canonicalize hostnames, etc
 * [Editing Videos with FFmpeg](https://www.hadet.dev/ffmpeg-cheatsheet/) — clipping, adding fade in/out, scaling, concat, etc
     * [FFmpeg By Example](https://ffmpegbyexample.com/) — documentation website to showcase all the unique and different ways to use FFmpeg
     * [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) — making FFmpeg easier, this app helps users through the command generation process
 * [Curl by example: Interactive guide](https://antonz.org/curl-by-example/)
 * [How To Use Wget to Download Files and Interact with REST APIs](https://www.digitalocean.com/community/tutorials/how-to-use-wget-to-download-files-and-interact-with-rest-apis)
+* [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
+* [Curate your shell history](https://esham.io/2025/05/shell-history) — paying more attention to which commands are misfires, and pruning the ones that are
+* [Mastering zsh](https://github.com/rothgar/mastering-zsh) — this tutorial will help you understand how zsh works and how you can customize it to your needs
 
 ## Further Reading
 
