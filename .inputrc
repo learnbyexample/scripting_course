@@ -4,6 +4,9 @@
 # use up and down arrow to match search history based on typed starting text
 "\e[A": history-search-backward
 "\e[B": history-search-forward
+# use history-substring-search-backward and history-substring-search-forward
+# if you want to search anywhere in the command instead of just the start
+
 # Ctrl+d to clear filenames in backward direction
 # Esc+Backspace stops at _ . etc
 "\C-d": unix-filename-rubout
@@ -17,5 +20,4 @@ set echo-control-characters off
 
 # Further reading
 # https://www.gnu.org/software/bash/manual/html_node/Sample-Init-File.html#Sample-Init-File
-# https://wiki.archlinux.org/title/readline
-
+# https://wiki.archlinux.org/title/Readline
