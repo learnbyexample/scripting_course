@@ -23,6 +23,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Bite Size Bash](https://wizardzines.com/zines/bite-size-bash/), [Bite Size Command Line](https://wizardzines.com/zines/bite-size-command-line/), [Bite Size Linux](https://wizardzines.com/zines/bite-size-linux/), [The Secret Rules of the Terminal](https://wizardzines.com/zines/terminal/), [Bite Size Networking](https://wizardzines.com/zines/bite-size-networking/)
 * [Linux Bible](https://www.wiley.com/en-in/Linux+Bible%2C+11th+Edition-p-9781394317462) — basic operations, server management, administration, automated deployment, etc
 * [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
+* [Effective Shell](https://nostarch.com/effective-shell) — a practical user's guide to working smarter on the command line
 * [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
 * [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) — for newcomers to command line environment
@@ -86,6 +87,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Bash reference cheatsheet](https://devmanual.gentoo.org/tools-reference/bash/index.html) — nicely formatted and explained well
 * [Bash scripting cheatsheet](https://devhints.io/bash) — quick reference to getting started with Bash scripting
 * [GNU BRE/ERE cheatsheet](https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/) — also highlights subtle differences between grep, sed and awk regex flavors
+* [learnxinyminutes for awk](https://learnxinyminutes.com/awk/) — cheatsheet with descriptions
 
 ## Text processing
 
@@ -130,8 +132,9 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
     * [Awesome Linux resources](https://github.com/itech001/awesome-linux-resources)
     * [Awesome Shell resources](https://github.com/alebcay/awesome-shell)
     * [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
-* Application lists for audio, video, graphics & design, development, games etc
+* Application lists for CLI tools, audio, video, graphics & design, development, games etc
     * [Arch wiki](https://wiki.archlinux.org/title/List_of_applications) — general list of applications sorted by category, as a reference for those looking for packages
+    * [Awesome CLI/TUI](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) and [Awesome TUI](https://github.com/rothgar/awesome-tuis)
     * [AlternativeTo](https://alternativeto.net/) — crowdsourced software recommendations
     * [GNU packages](https://www.gnu.org/manual/manual.html) — find a tool based on categories
 
