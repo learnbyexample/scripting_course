@@ -46,6 +46,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Linux Survival](https://linuxsurvival.com/) — free tutorial designed to make it as easy as possible to learn Linux, uses a simulated terminal
 * [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) — use basic commands to explore the filesystem
 * [Interactive exercises for text processing tools](https://github.com/learnbyexample/TUI-apps) — my TUI apps for grep, sed, awk and coreutils
+* [Terminal Exercises](https://sandbox.bio/tutorials/carpentries-shell-novice) — practical exercises on using the command-line
 
 ## Shell Scripting
 
@@ -53,6 +54,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) — solid foundation in how to write Bash scripts, to get the computer to do complex, repetitive tasks for you
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) — for those who want to learn Bash without diving in too deeply
 * [Serious Shell Programming](https://freebsdfrau.gitbook.io/serious-shell-programming/) — focuses on POSIX-compliant Bourne Shell for portability
+* [Bash scripting course](https://course.ysap.sh/) — beginner to advanced Bash scripting techniques
 
 ### Scripting companion
 
@@ -122,6 +124,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline)
 * [Curate your shell history](https://esham.io/2025/05/shell-history) — paying more attention to which commands are misfires, and pruning the ones that are
 * [Mastering zsh](https://github.com/rothgar/mastering-zsh) — this tutorial will help you understand how zsh works and how you can customize it to your needs
+* [How terminal works](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html) — how modern terminals and command-line tools work
 
 ## Further Reading
 
