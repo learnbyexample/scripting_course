@@ -25,6 +25,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [How Linux Works: What Every Superuser Should Know](https://nostarch.com/howlinuxworks3) — booting, device drivers, networking, development tools, effective shell scripts, etc
 * [Effective Shell](https://nostarch.com/effective-shell) — a practical user's guide to working smarter on the command line
 * [UNIX and Linux System Administration Handbook](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/) — definitive guide to installing, configuring and maintaining any Unix or Linux system
+* [Linux Application Development by Example](https://www.oreilly.com/library/view/linux-application-development/9780135325612/) — fundamental Linux system programming APIs
 * [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/index.html) — kernel insides, and other low-level subject matter
 * [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) — for newcomers to command line environment
 * [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/) — reference book presenting the Debian distribution, from initial installation to configuration of services
