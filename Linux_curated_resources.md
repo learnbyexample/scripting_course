@@ -40,7 +40,7 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 
 ## CLI video and interactive courses
 
-* [Linux Journey](https://linuxjourney.com/) — cli basics, text manipulation, processes, packages, networking, etc
+* [Linux Journey](https://labex.io/linuxjourney) — cli basics, text manipulation, processes, packages, networking, etc
 * [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 * [edx: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux) — cli basics, shell scripting, text manipulation, etc
 * [bashcrawl](https://gitlab.com/slackermedia/bashcrawl) — learn Linux commands by playing a simple text adventure
@@ -78,7 +78,6 @@ Collection of resources for Linux command line, shell scripting (mostly `bash`) 
 * [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) — command-line gems, includes a handy search feature
 * [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) — collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance
 * [Bash Idioms](https://www.oreilly.com/library/view/bash-idioms/9781492094746/) — decipher old bash code and write new code that's as clear and readable as possible
-* [Unix oneliners](https://ocv.me/doc/unix/oneliners/) — mostly unorganized collection of bash oneliners
 * [A guide to 100 (ish) useful commands](https://www.oliverelliott.org/post/commandlinereference/)
 
 ## Cheatsheets
